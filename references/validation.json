@@ -1,6 +1,6 @@
 {
   "source_files": 37,
-  "chinese_characters": 109259,
+  "chinese_characters": 104012,
   "image_uses": 187,
   "unique_images": 178,
   "external_source_links": 111,
@@ -406,954 +406,954 @@
       "file": "assets/images/revision-history-mustard-seed.jpg",
       "width_mm": 121.51,
       "height_mm": 100.0,
-      "page": 47
+      "page": 46
     },
     {
       "file": "assets/images/revision-history-analysis-09.png",
       "width_mm": 152.38,
       "height_mm": 100.0,
-      "page": 48
+      "page": 47
     },
     {
       "file": "assets/images/revision-history-ten-bamboo.jpg",
       "width_mm": 117.39,
       "height_mm": 100.0,
-      "page": 49
+      "page": 48
     },
     {
       "file": "assets/images/fig-09.png",
       "width_mm": 163.64,
       "height_mm": 100.0,
-      "page": 50
+      "page": 49
     },
     {
       "file": "assets/images/reference-korin-yatsuhashi.jpg",
       "width_mm": 166.0,
       "height_mm": 80.51,
-      "page": 51
+      "page": 50
     },
     {
       "file": "assets/images/reference-naomasa-tsuba.jpg",
       "width_mm": 100.0,
       "height_mm": 100.0,
-      "page": 52
+      "page": 51
     },
     {
       "file": "assets/images/revision-history-albers.jpg",
       "width_mm": 95.9,
       "height_mm": 140.0,
-      "page": 55
+      "page": 54
     },
     {
       "file": "assets/images/revision-history-analysis-10.png",
       "width_mm": 152.38,
       "height_mm": 100.0,
-      "page": 56
+      "page": 55
     },
     {
       "file": "assets/images/fig-10.png",
       "width_mm": 163.64,
       "height_mm": 100.0,
-      "page": 58
+      "page": 56
     },
     {
       "file": "assets/images/revision-applications-mit-03.jpg",
       "width_mm": 160.0,
       "height_mm": 100.0,
-      "page": 60
+      "page": 59
     },
     {
       "file": "assets/images/revision-applications-analysis-brand.png",
       "width_mm": 166.0,
       "height_mm": 85.77,
-      "page": 61
+      "page": 60
     },
     {
       "file": "assets/images/revision-applications-mit-11.jpg",
       "width_mm": 160.0,
       "height_mm": 100.0,
-      "page": 61
+      "page": 60
     },
     {
       "file": "assets/images/revision-applications-public-9596.jpg",
       "width_mm": 105.04,
       "height_mm": 140.0,
-      "page": 62
+      "page": 61
     },
     {
       "file": "assets/images/fig-11.png",
       "width_mm": 163.64,
       "height_mm": 100.0,
-      "page": 63
+      "page": 62
     },
     {
       "file": "assets/images/contemporary-reddit-2.jpg",
       "width_mm": 124.44,
       "height_mm": 140.0,
-      "page": 66
+      "page": 65
     },
     {
       "file": "assets/images/revision-applications-penguin-1961.png",
       "width_mm": 166.0,
       "height_mm": 62.62,
-      "page": 67
+      "page": 66
     },
     {
       "file": "assets/images/revision-applications-penguin-1963.png",
       "width_mm": 166.0,
       "height_mm": 84.27,
-      "page": 67
+      "page": 66
     },
     {
       "file": "assets/images/revision-applications-analysis-editorial.png",
       "width_mm": 133.33,
       "height_mm": 100.0,
-      "page": 68
+      "page": 67
     },
     {
       "file": "assets/images/fig-12.png",
       "width_mm": 163.64,
       "height_mm": 100.0,
-      "page": 69
+      "page": 68
     },
     {
       "file": "assets/images/revision-applications-nps-signs.png",
       "width_mm": 166.0,
       "height_mm": 14.43,
-      "page": 72
+      "page": 71
     },
     {
       "file": "assets/images/revision-applications-nps-clara.jpg",
       "width_mm": 74.77,
       "height_mm": 140.0,
-      "page": 73
+      "page": 72
     },
     {
       "file": "assets/images/revision-applications-nps-santa.jpg",
       "width_mm": 140.85,
       "height_mm": 100.0,
-      "page": 74
+      "page": 73
     },
     {
       "file": "assets/images/fig-13.png",
       "width_mm": 163.64,
       "height_mm": 100.0,
-      "page": 75
+      "page": 74
     },
     {
       "file": "assets/images/revision-applications-vitsoe-kitchen.jpg",
       "width_mm": 166.0,
       "height_mm": 93.46,
-      "page": 78
+      "page": 77
     },
     {
       "file": "assets/images/revision-applications-analysis-product.png",
       "width_mm": 139.53,
       "height_mm": 100.0,
-      "page": 79
+      "page": 78
     },
     {
       "file": "assets/images/revision-applications-vitsoe-bay.png",
       "width_mm": 141.32,
       "height_mm": 100.0,
-      "page": 80
+      "page": 79
     },
     {
       "file": "assets/images/fig-14.png",
       "width_mm": 163.64,
       "height_mm": 100.0,
-      "page": 81
+      "page": 80
     },
     {
       "file": "assets/images/revision-applications-eames-exterior.jpg",
       "width_mm": 129.87,
       "height_mm": 100.0,
-      "page": 84
+      "page": 83
     },
     {
       "file": "assets/images/revision-applications-eames-entry.jpg",
       "width_mm": 148.39,
       "height_mm": 100.0,
-      "page": 85
+      "page": 84
     },
     {
       "file": "assets/images/revision-applications-analysis-space.png",
       "width_mm": 150.0,
       "height_mm": 100.0,
-      "page": 86
+      "page": 85
     },
     {
       "file": "assets/images/fig-15.png",
       "width_mm": 163.64,
       "height_mm": 100.0,
-      "page": 87
+      "page": 86
     },
     {
       "file": "assets/images/space-and-object.png",
       "width_mm": 150.0,
       "height_mm": 100.0,
-      "page": 88
+      "page": 87
     },
     {
       "file": "assets/images/revision-applications-bass-poster.jpg",
       "width_mm": 91.77,
       "height_mm": 140.0,
-      "page": 91
+      "page": 90
     },
     {
       "file": "assets/images/revision-applications-analysis-motion.png",
       "width_mm": 126.32,
       "height_mm": 100.0,
-      "page": 92
+      "page": 91
     },
     {
       "file": "assets/images/fig-16.png",
       "width_mm": 163.64,
       "height_mm": 100.0,
-      "page": 93
+      "page": 92
     },
     {
       "file": "assets/images/revision-digital-molnar.jpg",
       "width_mm": 151.86,
       "height_mm": 105.0,
-      "page": 96
+      "page": 95
     },
     {
       "file": "assets/images/revision-digital-analysis-molnar.png",
       "width_mm": 166.0,
       "height_mm": 92.22,
-      "page": 97
+      "page": 96
     },
     {
       "file": "assets/images/revision-digital-lewitt.jpg",
       "width_mm": 166.0,
       "height_mm": 65.88,
-      "page": 97
+      "page": 96
     },
     {
       "file": "assets/images/fig-17.png",
       "width_mm": 163.64,
       "height_mm": 100.0,
-      "page": 99
+      "page": 98
     },
     {
       "file": "assets/images/revision-digital-carbon-anatomy-1.png",
       "width_mm": 165.14,
       "height_mm": 110.0,
-      "page": 101
+      "page": 100
     },
     {
       "file": "assets/images/revision-digital-carbon-multi-select-1.png",
       "width_mm": 166.0,
       "height_mm": 93.38,
-      "page": 102
+      "page": 101
     },
     {
       "file": "assets/images/fig-18.png",
       "width_mm": 163.64,
       "height_mm": 100.0,
-      "page": 103
+      "page": 102
     },
     {
       "file": "assets/images/contemporary-wise-3.png",
       "width_mm": 166.0,
       "height_mm": 76.08,
-      "page": 106
+      "page": 105
     },
     {
       "file": "assets/images/revision-digital-material-light.png",
       "width_mm": 90.0,
       "height_mm": 36.53,
-      "page": 107
+      "page": 106
     },
     {
       "file": "assets/images/revision-digital-material-dark.png",
       "width_mm": 90.0,
       "height_mm": 36.53,
-      "page": 107
+      "page": 106
     },
     {
       "file": "assets/images/revision-digital-analysis-roles.png",
       "width_mm": 166.0,
       "height_mm": 81.16,
-      "page": 108
+      "page": 107
     },
     {
       "file": "assets/images/fig-19.png",
       "width_mm": 163.64,
       "height_mm": 100.0,
-      "page": 110
+      "page": 109
     },
     {
       "file": "examples/creative-lab/still-system/renders/export/Colors.png",
       "width_mm": 126.32,
       "height_mm": 100.0,
-      "page": 112
+      "page": 111
     },
     {
       "file": "assets/images/revision-digital-gov-page13.png",
       "width_mm": 99.0,
       "height_mm": 140.0,
-      "page": 113
+      "page": 112
     },
     {
       "file": "assets/images/revision-digital-analysis-errors.png",
       "width_mm": 166.0,
       "height_mm": 83.0,
-      "page": 114
+      "page": 113
     },
     {
       "file": "assets/images/fig-20.png",
       "width_mm": 163.64,
       "height_mm": 100.0,
-      "page": 115
+      "page": 114
     },
     {
       "file": "assets/images/revision-digital-carbon-sorting-1.png",
       "width_mm": 166.0,
       "height_mm": 56.01,
-      "page": 118
+      "page": 117
     },
     {
       "file": "assets/images/fig-21.png",
       "width_mm": 163.64,
       "height_mm": 100.0,
-      "page": 119
+      "page": 118
     },
     {
       "file": "assets/images/fig-22.png",
       "width_mm": 163.64,
       "height_mm": 100.0,
-      "page": 123
+      "page": 122
     },
     {
       "file": "assets/images/example-22-identity.png",
       "width_mm": 144.0,
       "height_mm": 100.0,
-      "page": 124
+      "page": 123
     },
     {
       "file": "assets/images/example-22-information.png",
       "width_mm": 144.0,
       "height_mm": 100.0,
-      "page": 125
+      "page": 124
     },
     {
       "file": "assets/images/revision-digital-becher.jpg",
       "width_mm": 112.59,
       "height_mm": 145.0,
-      "page": 127
+      "page": 126
     },
     {
       "file": "assets/images/revision-digital-analysis-becher.png",
       "width_mm": 163.64,
       "height_mm": 100.0,
-      "page": 128
+      "page": 127
     },
     {
       "file": "assets/images/revision-digital-ibm-flat.png",
       "width_mm": 160.0,
       "height_mm": 90.0,
-      "page": 129
+      "page": 128
     },
     {
       "file": "assets/images/revision-digital-ibm-grid.png",
       "width_mm": 166.0,
       "height_mm": 93.38,
-      "page": 130
+      "page": 129
     },
     {
       "file": "assets/images/revision-digital-vionnet.jpg",
       "width_mm": 109.91,
       "height_mm": 145.0,
-      "page": 132
+      "page": 131
     },
     {
       "file": "assets/images/revision-digital-analysis-vionnet.png",
       "width_mm": 163.64,
       "height_mm": 100.0,
-      "page": 133
+      "page": 132
     },
     {
       "file": "assets/images/revision-digital-yamamoto.jpg",
       "width_mm": 113.83,
       "height_mm": 145.0,
-      "page": 134
+      "page": 133
     },
     {
       "file": "assets/images/revision-posters-moulin.jpg",
       "width_mm": 88.44,
       "height_mm": 140.0,
-      "page": 138
+      "page": 137
     },
     {
       "file": "assets/images/revision-posters-moulin-analysis.png",
       "width_mm": 160.0,
       "height_mm": 100.0,
-      "page": 139
+      "page": 138
     },
     {
       "file": "assets/images/revision-posters-gismonda.jpg",
       "width_mm": 50.09,
       "height_mm": 140.0,
-      "page": 140
+      "page": 139
     },
     {
       "file": "assets/images/revision-posters-gismonda-analysis.png",
       "width_mm": 160.0,
       "height_mm": 100.0,
-      "page": 141
+      "page": 140
     },
     {
       "file": "assets/images/revision-posters-nord.jpg",
       "width_mm": 99.96,
       "height_mm": 140.0,
-      "page": 142
+      "page": 141
     },
     {
       "file": "assets/images/revision-posters-nord-analysis.png",
       "width_mm": 160.0,
       "height_mm": 100.0,
-      "page": 143
+      "page": 142
     },
     {
       "file": "assets/images/revision-posters-redesign.png",
       "width_mm": 160.0,
       "height_mm": 100.0,
-      "page": 144
+      "page": 143
     },
     {
       "file": "examples/creative-lab/refraction-canvas/renders/export/Main.png",
       "width_mm": 105.0,
       "height_mm": 140.0,
-      "page": 145
+      "page": 144
     },
     {
       "file": "assets/images/revision-ads-job.jpg",
       "width_mm": 94.61,
       "height_mm": 140.0,
-      "page": 147
+      "page": 146
     },
     {
       "file": "assets/images/revision-ads-job-analysis.png",
       "width_mm": 160.0,
       "height_mm": 100.0,
-      "page": 148
+      "page": 147
     },
     {
       "file": "assets/images/revision-ads-coca.jpg",
       "width_mm": 102.4,
       "height_mm": 140.0,
-      "page": 149
+      "page": 148
     },
     {
       "file": "assets/images/revision-ads-coca-analysis.png",
       "width_mm": 160.0,
       "height_mm": 100.0,
-      "page": 150
+      "page": 149
     },
     {
       "file": "assets/images/revision-ads-think-small.png",
       "width_mm": 146.79,
       "height_mm": 100.0,
-      "page": 151
+      "page": 150
     },
     {
       "file": "assets/images/revision-ads-think-small-analysis.png",
       "width_mm": 160.0,
       "height_mm": 100.0,
-      "page": 152
+      "page": 151
     },
     {
       "file": "assets/images/revision-ads-redesign.png",
       "width_mm": 160.0,
       "height_mm": 100.0,
-      "page": 153
+      "page": 152
     },
     {
       "file": "examples/creative-lab/still-canvas/renders/export/Campaign.png",
       "width_mm": 166.0,
       "height_mm": 93.38,
-      "page": 154
+      "page": 153
     },
     {
       "file": "assets/images/contemporary-decathlon-campaign.jpg",
       "width_mm": 150.0,
       "height_mm": 100.0,
-      "page": 155
+      "page": 154
     },
     {
       "file": "assets/images/revision-presentations-ae-tutorial.png",
       "width_mm": 134.33,
       "height_mm": 100.0,
-      "page": 156
+      "page": 155
     },
     {
       "file": "assets/images/revision-presentations-nasa-page-11.png",
       "width_mm": 166.0,
       "height_mm": 93.38,
-      "page": 157
+      "page": 156
     },
     {
       "file": "assets/images/revision-presentations-nasa-analysis.png",
       "width_mm": 166.0,
       "height_mm": 93.38,
-      "page": 158
+      "page": 157
     },
     {
       "file": "assets/images/revision-presentations-nasa-page-6.png",
       "width_mm": 166.0,
       "height_mm": 93.38,
-      "page": 159
+      "page": 158
     },
     {
       "file": "assets/images/revision-presentations-edit-0.png",
       "width_mm": 166.0,
       "height_mm": 93.38,
-      "page": 160
+      "page": 159
     },
     {
       "file": "assets/images/revision-presentations-edit-1.png",
       "width_mm": 166.0,
       "height_mm": 93.38,
-      "page": 161
+      "page": 160
     },
     {
       "file": "assets/images/revision-presentations-edit-2.png",
       "width_mm": 166.0,
       "height_mm": 93.38,
-      "page": 161
+      "page": 160
     },
     {
       "file": "assets/images/revision-presentations-edit-3.png",
       "width_mm": 166.0,
       "height_mm": 93.38,
-      "page": 162
+      "page": 161
     },
     {
       "file": "assets/images/revision-presentations-report-sequence.png",
       "width_mm": 124.44,
       "height_mm": 140.0,
-      "page": 163
+      "page": 162
     },
     {
       "file": "assets/images/revision-presentations-report-04.png",
       "width_mm": 166.0,
       "height_mm": 93.38,
-      "page": 164
+      "page": 163
     },
     {
       "file": "examples/creative-lab/refraction-canvas/renders/export/Proposal02.png",
       "width_mm": 166.0,
       "height_mm": 93.38,
-      "page": 166
+      "page": 165
     },
     {
       "file": "assets/images/revision-magazines-ver-sacrum-1898.jpg",
       "width_mm": 128.36,
       "height_mm": 140.0,
-      "page": 168
+      "page": 167
     },
     {
       "file": "assets/images/revision-magazines-ver-sacrum-analysis.png",
       "width_mm": 166.0,
       "height_mm": 93.38,
-      "page": 169
+      "page": 168
     },
     {
       "file": "assets/images/revision-magazines-life-1936-cover.jpg",
       "width_mm": 103.36,
       "height_mm": 140.0,
-      "page": 170
+      "page": 169
     },
     {
       "file": "assets/images/revision-magazines-life-cover-analysis.png",
       "width_mm": 166.0,
       "height_mm": 93.38,
-      "page": 171
+      "page": 170
     },
     {
       "file": "assets/images/revision-magazines-life-1936-spread.jpg",
       "width_mm": 103.32,
       "height_mm": 140.0,
-      "page": 172
+      "page": 171
     },
     {
       "file": "assets/images/revision-magazines-life-page9-analysis.png",
       "width_mm": 166.0,
       "height_mm": 93.38,
-      "page": 173
+      "page": 172
     },
     {
       "file": "assets/images/revision-magazines-cover-edit.png",
       "width_mm": 166.0,
       "height_mm": 93.38,
-      "page": 174
+      "page": 173
     },
     {
       "file": "assets/images/revision-magazines-spread-edit-0.png",
       "width_mm": 166.0,
       "height_mm": 93.38,
-      "page": 175
+      "page": 174
     },
     {
       "file": "assets/images/revision-magazines-spread-edit-1.png",
       "width_mm": 166.0,
       "height_mm": 93.38,
-      "page": 176
+      "page": 175
     },
     {
       "file": "assets/images/revision-magazines-spread-edit-2.png",
       "width_mm": 166.0,
       "height_mm": 93.38,
-      "page": 176
+      "page": 175
     },
     {
       "file": "assets/images/revision-magazines-spread-edit-3.png",
       "width_mm": 166.0,
       "height_mm": 93.38,
-      "page": 177
+      "page": 176
     },
     {
       "file": "assets/images/revision-magazines-eight-pages.png",
       "width_mm": 166.0,
       "height_mm": 93.38,
-      "page": 178
+      "page": 177
     },
     {
       "file": "assets/images/revision-magazines-ad-boundary.png",
       "width_mm": 166.0,
       "height_mm": 93.38,
-      "page": 179
+      "page": 178
     },
     {
       "file": "examples/creative-lab/field-canvas/renders/export/Spread.png",
       "width_mm": 150.0,
       "height_mm": 100.0,
-      "page": 180
+      "page": 179
     },
     {
       "file": "assets/images/revision-root-coke-timeline.jpg",
       "width_mm": 134.23,
       "height_mm": 100.0,
-      "page": 181
+      "page": 180
     },
     {
       "file": "assets/images/revision-root-packaging-analysis.png",
       "width_mm": 160.71,
       "height_mm": 100.0,
-      "page": 182
+      "page": 181
     },
     {
       "file": "assets/images/revision-root-tetra.jpg",
       "width_mm": 166.0,
       "height_mm": 55.4,
-      "page": 183
+      "page": 182
     },
     {
       "file": "assets/images/revision-root-coffee-family.png",
       "width_mm": 128.57,
       "height_mm": 100.0,
-      "page": 184
+      "page": 183
     },
     {
       "file": "assets/images/revision-root-packaging-map.png",
       "width_mm": 166.0,
       "height_mm": 99.6,
-      "page": 185
+      "page": 184
     },
     {
       "file": "examples/creative-lab/still-canvas/renders/export/Packaging.png",
       "width_mm": 152.38,
       "height_mm": 100.0,
-      "page": 186
+      "page": 185
     },
     {
       "file": "assets/images/contemporary-pepsi-1.jpg",
       "width_mm": 156.52,
       "height_mm": 100.0,
-      "page": 187
+      "page": 186
     },
     {
       "file": "assets/images/revision-root-poster-rewrite.png",
       "width_mm": 130.43,
       "height_mm": 100.0,
-      "page": 188
+      "page": 187
     },
     {
       "file": "assets/images/revision-root-data-rewrite.png",
       "width_mm": 156.52,
       "height_mm": 100.0,
-      "page": 189
+      "page": 188
     },
     {
       "file": "assets/images/refraction-concept-v5.png",
       "width_mm": 105.0,
       "height_mm": 140.0,
-      "page": 193
+      "page": 192
     },
     {
       "file": "assets/images/creative-inputs.png",
       "width_mm": 166.0,
       "height_mm": 87.61,
-      "page": 194
+      "page": 193
     },
     {
       "file": "examples/creative-lab/refraction-canvas/renders/export/VisualRules.png",
       "width_mm": 160.0,
       "height_mm": 100.0,
-      "page": 195
+      "page": 194
     },
     {
       "file": "examples/creative-lab/refraction-canvas/renders/export/Main.png",
       "width_mm": 105.0,
       "height_mm": 140.0,
-      "page": 196
+      "page": 195
     },
     {
       "file": "examples/creative-lab/refraction-canvas/renders/export/Invitation.png",
       "width_mm": 166.0,
       "height_mm": 93.38,
-      "page": 197
+      "page": 196
     },
     {
       "file": "examples/creative-lab/refraction-canvas/renders/export/Proposal01.png",
       "width_mm": 166.0,
       "height_mm": 93.38,
-      "page": 198
+      "page": 197
     },
     {
       "file": "examples/creative-lab/refraction-canvas/renders/export/Proposal02.png",
       "width_mm": 166.0,
       "height_mm": 93.38,
-      "page": 198
+      "page": 197
     },
     {
       "file": "examples/creative-lab/refraction-canvas/renders/export/Proposal03.png",
       "width_mm": 166.0,
       "height_mm": 93.38,
-      "page": 199
+      "page": 198
     },
     {
       "file": "examples/creative-lab/refraction-canvas/renders/export/Revision.png",
       "width_mm": 160.0,
       "height_mm": 100.0,
-      "page": 199
+      "page": 198
     },
     {
       "file": "examples/creative-lab/field-canvas/renders/export/Rules.png",
       "width_mm": 142.86,
       "height_mm": 100.0,
-      "page": 200
+      "page": 199
     },
     {
       "file": "examples/creative-lab/field-canvas/renders/export/Main.png",
       "width_mm": 105.0,
       "height_mm": 140.0,
-      "page": 201
+      "page": 200
     },
     {
       "file": "examples/creative-lab/field-canvas/renders/export/Spread.png",
       "width_mm": 150.0,
       "height_mm": 100.0,
-      "page": 202
+      "page": 201
     },
     {
       "file": "examples/creative-lab/field-canvas/renders/export/Exhibition.png",
       "width_mm": 105.0,
       "height_mm": 140.0,
-      "page": 203
+      "page": 202
     },
     {
       "file": "examples/creative-lab/field-canvas/renders/export/Before.png",
       "width_mm": 105.0,
       "height_mm": 140.0,
-      "page": 204
+      "page": 203
     },
     {
       "file": "examples/creative-lab/field-canvas/renders/export/CropStudies.png",
       "width_mm": 166.0,
       "height_mm": 97.76,
-      "page": 205
+      "page": 204
     },
     {
       "file": "examples/creative-lab/still-canvas/renders/export/Main.png",
       "width_mm": 160.0,
       "height_mm": 100.0,
-      "page": 206
+      "page": 205
     },
     {
       "file": "examples/creative-lab/still-canvas/renders/export/Campaign.png",
       "width_mm": 166.0,
       "height_mm": 93.38,
-      "page": 206
+      "page": 205
     },
     {
       "file": "examples/creative-lab/still-canvas/renders/export/Packaging.png",
       "width_mm": 152.38,
       "height_mm": 100.0,
-      "page": 207
+      "page": 206
     },
     {
       "file": "examples/creative-lab/still-canvas/renders/export/Subscription.png",
       "width_mm": 130.91,
       "height_mm": 100.0,
-      "page": 208
+      "page": 207
     },
     {
       "file": "examples/creative-lab/still-canvas/renders/export/Stress.png",
       "width_mm": 130.91,
       "height_mm": 100.0,
-      "page": 209
+      "page": 208
     },
     {
       "file": "assets/images/contemporary-pepsi-1.jpg",
       "width_mm": 156.52,
       "height_mm": 100.0,
-      "page": 212
+      "page": 211
     },
     {
       "file": "assets/images/contemporary-pepsi-2.jpg",
       "width_mm": 107.32,
       "height_mm": 140.0,
-      "page": 213
+      "page": 212
     },
     {
       "file": "assets/images/contemporary-pepsi-4.jpg",
       "width_mm": 100.14,
       "height_mm": 100.0,
-      "page": 214
+      "page": 213
     },
     {
       "file": "assets/images/contemporary-reddit-1.jpg",
       "width_mm": 166.0,
       "height_mm": 86.69,
-      "page": 215
+      "page": 214
     },
     {
       "file": "assets/images/contemporary-reddit-2.jpg",
       "width_mm": 124.44,
       "height_mm": 140.0,
-      "page": 216
+      "page": 215
     },
     {
       "file": "assets/images/contemporary-reddit-3.jpg",
       "width_mm": 121.77,
       "height_mm": 140.0,
-      "page": 217
+      "page": 216
     },
     {
       "file": "assets/images/contemporary-wise-1.png",
       "width_mm": 166.0,
       "height_mm": 93.38,
-      "page": 218
+      "page": 217
     },
     {
       "file": "assets/images/contemporary-wise-2.png",
       "width_mm": 166.0,
       "height_mm": 76.18,
-      "page": 218
+      "page": 217
     },
     {
       "file": "assets/images/contemporary-wise-3.png",
       "width_mm": 166.0,
       "height_mm": 76.08,
-      "page": 219
+      "page": 218
     },
     {
       "file": "assets/images/contemporary-spotify-font-rules.png",
       "width_mm": 166.0,
       "height_mm": 94.59,
-      "page": 220
+      "page": 219
     },
     {
       "file": "assets/images/contemporary-spotify-playlists.png",
       "width_mm": 166.0,
       "height_mm": 93.36,
-      "page": 220
+      "page": 219
     },
     {
       "file": "assets/images/contemporary-spotify-interface.jpg",
       "width_mm": 69.31,
       "height_mm": 150.0,
-      "page": 221
+      "page": 220
     },
     {
       "file": "assets/images/contemporary-spotify-analysis.png",
       "width_mm": 160.0,
       "height_mm": 100.0,
-      "page": 222
+      "page": 221
     },
     {
       "file": "assets/images/contemporary-figma-badge-type.png",
       "width_mm": 166.0,
       "height_mm": 93.22,
-      "page": 223
+      "page": 222
     },
     {
       "file": "assets/images/contemporary-figma-wayfinding.png",
       "width_mm": 105.0,
       "height_mm": 140.0,
-      "page": 224
+      "page": 223
     },
     {
       "file": "assets/images/contemporary-figma-analysis.png",
       "width_mm": 160.0,
       "height_mm": 100.0,
-      "page": 225
+      "page": 224
     },
     {
       "file": "assets/images/contemporary-figma-inflatables.png",
       "width_mm": 166.0,
       "height_mm": 93.22,
-      "page": 225
+      "page": 224
     },
     {
       "file": "assets/images/contemporary-figma-posters.png",
       "width_mm": 100.0,
       "height_mm": 100.0,
-      "page": 226
+      "page": 225
     },
     {
       "file": "assets/images/contemporary-decathlon-jersey.jpg",
       "width_mm": 105.0,
       "height_mm": 140.0,
-      "page": 227
+      "page": 226
     },
     {
       "file": "assets/images/contemporary-decathlon-typography.jpg",
       "width_mm": 150.0,
       "height_mm": 100.0,
-      "page": 228
+      "page": 227
     },
     {
       "file": "assets/images/contemporary-decathlon-analysis.png",
       "width_mm": 160.0,
       "height_mm": 100.0,
-      "page": 228
+      "page": 227
     },
     {
       "file": "assets/images/contemporary-decathlon-campaign.jpg",
       "width_mm": 150.0,
       "height_mm": 100.0,
-      "page": 229
+      "page": 228
     },
     {
       "file": "assets/images/contemporary-decathlon-cycling.jpg",
       "width_mm": 150.0,
       "height_mm": 100.0,
-      "page": 230
+      "page": 229
     }
   ],
-  "pdf_pages": 236,
+  "pdf_pages": 235,
   "bookmarks": 37,
   "pdf_links": 368,
   "empty_pages": [],
   "text_replacement_pages": [],
   "text_outside_safe_page": [],
-  "pdf_bytes": 158746365,
+  "pdf_bytes": 158712933,
   "rendering": {
-    "all_pages_rendered": 236,
+    "all_pages_rendered": 235,
     "thumbnail_size": [
       238,
       337
@@ -1394,67 +1394,68 @@
       42,
       43,
       44,
+      46,
       47,
       48,
       49,
       50,
       51,
-      52,
+      53,
       54,
       55,
       56,
-      58,
+      59,
       60,
       61,
       62,
-      63,
+      65,
       66,
       67,
       68,
-      69,
+      71,
       72,
       73,
       74,
-      75,
+      77,
       78,
       79,
       80,
-      81,
+      83,
       84,
       85,
       86,
       87,
-      88,
+      90,
       91,
       92,
-      93,
+      95,
       96,
-      97,
-      99,
+      98,
+      100,
       101,
       102,
-      103,
+      105,
       106,
       107,
-      108,
-      110,
+      109,
+      111,
       112,
       113,
       114,
-      115,
+      117,
       118,
-      119,
+      121,
       122,
       123,
       124,
-      125,
+      126,
       127,
       128,
       129,
-      130,
+      131,
       132,
       133,
-      134,
+      136,
       137,
       138,
       139,
@@ -1482,7 +1483,7 @@
       161,
       162,
       163,
-      164,
+      165,
       166,
       167,
       168,
@@ -1506,7 +1507,7 @@
       186,
       187,
       188,
-      189,
+      191,
       192,
       193,
       194,
@@ -1524,7 +1525,7 @@
       206,
       207,
       208,
-      209,
+      210,
       211,
       212,
       213,
@@ -1546,10 +1547,9 @@
       229,
       230,
       231,
-      232,
+      233,
       234,
-      235,
-      236
+      235
     ]
   }
 }

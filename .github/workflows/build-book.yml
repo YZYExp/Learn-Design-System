@@ -28,7 +28,7 @@ jobs:
       - name: Upload PDF and validation reports
         uses: actions/upload-artifact@v7
         with:
-          name: design-grammar-v5-pdf
+          name: design-grammar-pdf
           path: |
             build/design-grammar.pdf
             build/check-report.json

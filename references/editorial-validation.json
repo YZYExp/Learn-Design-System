@@ -1,0 +1,223 @@
+{
+  "base_commit": "61d2b7642fda52fa9bce73832713ca2670f21e88",
+  "edition": "5.1",
+  "reviewed_files": 37,
+  "chinese_characters": 104012,
+  "preserved": [
+    "chapter-level titles",
+    "image references and order",
+    "citation link targets",
+    "code blocks"
+  ],
+  "authorized_figure_label_corrections": {
+    "15-space.md": "second 图15-2 → 图15-5",
+    "29-packaging.md": "second 图29-C → 图29-F"
+  },
+  "files": [
+    {
+      "file": "chapters/00-reading.md",
+      "sha256": "61657f981644264d2d5670b0d7592d178df401aaa9968910b2744666e05afe65",
+      "han": 1197
+    },
+    {
+      "file": "chapters/01-system.md",
+      "sha256": "8839d364d9475083463696dcb52b5c74427ea054a484dbbd6cc598310d87c387",
+      "han": 2010
+    },
+    {
+      "file": "chapters/02-seeing.md",
+      "sha256": "1ff25d9f340983eb871a5f0c748d59222c8dce4272d21d912a338cbcb03e57ef",
+      "han": 1956
+    },
+    {
+      "file": "chapters/03-colour.md",
+      "sha256": "dce07ce74ee602d6ef49b056643f9c6bb346caff2cf07ede737ebf64f4a0b519",
+      "han": 1964
+    },
+    {
+      "file": "chapters/04-grid.md",
+      "sha256": "0e7836bf1415a55165f85eada67878f43bc8a4f86cce66c66a126f036e4790eb",
+      "han": 1803
+    },
+    {
+      "file": "chapters/05-ornament.md",
+      "sha256": "987e4a84864b1b571f4e64debef0017f39246de6a01d660c6a9c282a794a6882",
+      "han": 2950
+    },
+    {
+      "file": "chapters/06-bauhaus.md",
+      "sha256": "7c03e70c793c4679c75e5b6168777d1dc16a80855f4382739ec814acb6342779",
+      "han": 2849
+    },
+    {
+      "file": "chapters/07-modernism.md",
+      "sha256": "dd368c4fd0d6e27b40f4e7471fdf45d6d298d43d09538d3aa34d0306b6440286",
+      "han": 3095
+    },
+    {
+      "file": "chapters/08-postmodern.md",
+      "sha256": "d1d1b02fd22e038be2c2bdc52617cb90d42f7d8d49aae082d404bfb593469c20",
+      "han": 2792
+    },
+    {
+      "file": "chapters/09-east-asian.md",
+      "sha256": "2bbcaf7cc025093555cbc430a5648f8a65755931134c1a83842d426c63a253fd",
+      "han": 3021
+    },
+    {
+      "file": "chapters/10-craft.md",
+      "sha256": "ee2658b2b8e42788c6ffd91a1d38435a60230772531ffefc622d1bfcf7f562d7",
+      "han": 2871
+    },
+    {
+      "file": "chapters/11-brand.md",
+      "sha256": "518886c651bdfe207733a6348930efcaf0c3b5f2281619e1a9618332454ed25a",
+      "han": 3216
+    },
+    {
+      "file": "chapters/12-editorial.md",
+      "sha256": "ba744b697d7aa91c53d8939085af91181e8104fbb2cafa362ca6a23093b86275",
+      "han": 2946
+    },
+    {
+      "file": "chapters/13-wayfinding.md",
+      "sha256": "301f45123bb37a7a5e681c2bd63db87c4087c12a8ab2090768a785cd456c894e",
+      "han": 3081
+    },
+    {
+      "file": "chapters/14-product.md",
+      "sha256": "9a621448d00c65552cec0a7c59f8fb48af98895330e542d649020bba9758019c",
+      "han": 2899
+    },
+    {
+      "file": "chapters/15-space.md",
+      "sha256": "a69c7714042e98f3670cf6c77ff24e83994b515192af6d77a47905f44a979ebe",
+      "han": 3094
+    },
+    {
+      "file": "chapters/16-motion.md",
+      "sha256": "9cd35c0fade7245573be94b6f9524801d29d1b6f96d5a0317236a4ae3af4a483",
+      "han": 3059
+    },
+    {
+      "file": "chapters/17-generative.md",
+      "sha256": "26a2f5c688a7f6782fc7014f788f69dae54fbbaabc4c2525dc7dceb6b48b1c83",
+      "han": 2942
+    },
+    {
+      "file": "chapters/18-digital.md",
+      "sha256": "f42481216fc057d72c9a0397da1c4b8fa7fbbb587a3d65f413535c02ce84099c",
+      "han": 3069
+    },
+    {
+      "file": "chapters/19-tokens.md",
+      "sha256": "63f501015c08553f379f43adeeaa16295c79825b7886d95e54c9f843ab227b98",
+      "han": 3128
+    },
+    {
+      "file": "chapters/20-components.md",
+      "sha256": "15ceb1e528876de31e28582f370fbbeb9e675b062578b2b2ea4e5b058229f4b4",
+      "han": 2938
+    },
+    {
+      "file": "chapters/21-governance.md",
+      "sha256": "d3dcf872b878a434497fa68c4570678b5a4b420489c67a2cb412ee7936c043ba",
+      "han": 2889
+    },
+    {
+      "file": "chapters/22-workshop.md",
+      "sha256": "61060d179ad89ca1c7fbe4a8249bb5dca4a503f1755c3282eebba99af8151cc6",
+      "han": 2927
+    },
+    {
+      "file": "chapters/23-image-making.md",
+      "sha256": "d07f480fafde5dce7fb7fe3e80d8bc0a0be288887c9300b3c38a1e7665b1a4e8",
+      "han": 2322
+    },
+    {
+      "file": "chapters/24-fashion.md",
+      "sha256": "7a2bd3cb2f9967d2ac3b4c50f5ca26de8988b97bf4770db22c027688cf55622b",
+      "han": 2381
+    },
+    {
+      "file": "chapters/25-posters.md",
+      "sha256": "e512e795d0a1e44045676c269fecbabf6b892724e607b2384eef987007f1e501",
+      "han": 4377
+    },
+    {
+      "file": "chapters/26-advertising.md",
+      "sha256": "5edc2b017cb55f4b393bd8beff68fa1aded815c554fcc948f983dcc3aad6f859",
+      "han": 4514
+    },
+    {
+      "file": "chapters/27-presentations.md",
+      "sha256": "1061e4780684648cd3669b93f74b5d788aaec000003d2e1c224bb115c69ecbb9",
+      "han": 4345
+    },
+    {
+      "file": "chapters/28-magazines.md",
+      "sha256": "a695425d38bf77f91b87a39b28c859dcab705a13aa7ed1a160ec9ae4e2f09c05",
+      "han": 4241
+    },
+    {
+      "file": "chapters/29-packaging.md",
+      "sha256": "d6dcb97506925a47b8da7d2bf88318a17e80024c1df370713d1d2880a01ae7c1",
+      "han": 2570
+    },
+    {
+      "file": "chapters/30-deliberate-practice.md",
+      "sha256": "4c20839940d698634ddea0c8921164e67aeb8b27b02559cb9ffe2c7e84e8bed3",
+      "han": 2151
+    },
+    {
+      "file": "chapters/31-creative-lab.md",
+      "sha256": "536b1529e97cae9c5f709eba8aa8695bcd14939720f34fc80a4c06096452654c",
+      "han": 4964
+    },
+    {
+      "file": "chapters/32-contemporary-brands.md",
+      "sha256": "2d38271438034415e11fdc621263f147503b4b84eed2bda05c2f7b2198894f39",
+      "han": 5906
+    },
+    {
+      "file": "chapters/33-looking-forward.md",
+      "sha256": "82e310a18fe2a63f518f3561d01fd3cca278eb583dad4b91069f87621dc0bc93",
+      "han": 966
+    },
+    {
+      "file": "appendices/A-glossary.md",
+      "sha256": "9dd18ce3083c7a9cecca6fae5dd72727fb3f8243767faa491d9f6cce0385817a",
+      "han": 915
+    },
+    {
+      "file": "appendices/B-reading-paths.md",
+      "sha256": "812b7aaabdac4978576b6d6a22f0bf3338b1a622aa41389f1afe8be3b40fb687",
+      "han": 710
+    },
+    {
+      "file": "appendices/C-workbook.md",
+      "sha256": "2db02ed4a73cbe5da06a0c20e85c253c2340c82f23709448595811258bd0a232",
+      "han": 954
+    }
+  ],
+  "errors": [],
+  "verification": {
+    "pdf_pages": 235,
+    "pdf_check_errors": [],
+    "pdf_sha256": "a97277884867ac33daf2c4531bc23b7c0fc009e34571a82f4af86b9121d198c2",
+    "image_placement_audit": {
+      "image_uses": 187,
+      "unique_source_files": 178,
+      "verified_placements": 187,
+      "source_hashes_matching_build": 178,
+      "proof_pages": 26,
+      "errors": 0
+    },
+    "site_link_report": {
+      "pages": 39,
+      "checked_links_and_assets": 2591,
+      "errors": []
+    },
+    "visual_review": "All 235 pages reviewed in 10 contact sheets; full pages 4, 108, 195 and 233 inspected."
+  }
+}

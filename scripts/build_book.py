@@ -390,7 +390,7 @@ def main():
     story=[Spacer(1,20*mm),Paragraph('设计的语法',ParagraphStyle('cover',fontName=FONT,fontSize=39,leading=52,textColor=INK)),
         Spacer(1,6*mm),Paragraph('从艺术秩序到设计系统',ParagraphStyle('subtitle',fontName=FONT,fontSize=17,leading=28,textColor=TEAL)),Spacer(1,14*mm),CoverArt(),
         Spacer(1,10*mm),Paragraph('从纹样、版式、器物与空间，走向可以学习、制作和维护的设计规则。',styles['small']),
-        Paragraph('图解知识读本 · 5.0折光视觉提案与原生重建版 · 2026年10月',styles['small']),PageBreak(),Paragraph('目录与阅读顺序',styles['h1'])]
+        Paragraph('图解知识读本 · 5.1全文校订版 · 2026年10月',styles['small']),PageBreak(),Paragraph('目录与阅读顺序',styles['h1'])]
     toc=TableOfContents();toc.levelStyles=[styles['toc']];toc.dotsMinLevel=0
     story.extend([toc,PageBreak()])
     for index,path in enumerate(files):
