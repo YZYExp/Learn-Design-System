@@ -75,10 +75,14 @@ python references/revision-posters-ads-draw.py
 
 新增PPT八页示例是实际PNG及源绘图代码，没有声称交付可编辑PPTX。复制、数字输入和结构修改可在相应脚本中进行；第二十七章说明如何迁移到常用幻灯片工具。章节中灰条用于解释编辑版面结构的图，图注会明确说明；真正原作与真实文本样张分别标注，不以灰条代替案例分析。
 
-网页采用MkDocs Material，仅保留用户可运行的命令，本次不生成HTML：
+在线阅读站采用 MkDocs Material：首页、33 个正文章、完整配图、中文搜索与图片放大。推送 main 后由 GitHub Pages 工作流构建发布。首次发布须在仓库 Settings → Pages 中将 Source 设为 GitHub Actions。
+
+本地构建与校验：
 
 ```bash
+python -m pip install -r requirements-site.txt
 python scripts/build_site.py
+python scripts/check_site.py
 python -m http.server 8000 --directory build/site
 ```
 
@@ -99,7 +103,7 @@ npx --yes tingly-design@0.26.1021 --projects .
 
 独立包则进入其中creative-lab即可。各项目README解释具体制作与更新规则。首次克隆先在仓库根目录运行 `python scripts/restore_native_fonts.py` 还原完整宋体；首次取得软件需联网，其他字体图片均已附带，查看与编辑不要求额外AI账号。额外审计：`DC_CHROME=/你的/Chrome路径 python scripts/check_creative_lab.py`。
 
-本轮用户明确要求Tingly Design原生Canvas和Design System，因此.dc.html及组件preview.html是必须保留的可编辑源文件，未生成书籍网站。原生tokens.css由工具编译；系统快照不等于所有既有内联值实时绑定。提案保留原生Canvas，未冒称PPTX。
+本轮用户明确要求Tingly Design原生Canvas和Design System，因此.dc.html及组件preview.html是必须保留的可编辑源文件。书籍网站从同一份 Markdown 和实际引用图片构建，原生工程保留在仓库中。原生tokens.css由工具编译；系统快照不等于所有既有内联值实时绑定。提案保留原生Canvas，未冒称PPTX。
 
 `python scripts/collect_creative_lab.py`收集实际原生导出并重建素材联系表；`python scripts/render_creative_gallery.py`制作总览。重绘输入后须重新构建PDF，保证图文同版。
 
