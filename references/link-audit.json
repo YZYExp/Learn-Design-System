@@ -1,0 +1,269 @@
+{
+  "note": "HTTP HEAD机械检查，403/429可能为访问限制，不能据此判定来源无效；正文事实另由逐章查证支持。",
+  "results": [
+    {
+      "url": "https://www.getty.edu/education/teachers/building_lessons/formal_analysis.html",
+      "status": 200
+    },
+    {
+      "url": "https://www.albersfoundation.org/alberses/teaching/interaction-of-color",
+      "status": 200
+    },
+    {
+      "url": "https://resources.metmuseum.org/resources/metpublications/pdf/Islamic_Art_and_Geometric_Design_Activities_for_Learning.pdf",
+      "status": 200
+    },
+    {
+      "url": "https://www.vam.ac.uk/articles/arts-and-crafts-an-introduction",
+      "status": 200
+    },
+    {
+      "url": "https://www.bauhaus.de/en/",
+      "status": 200
+    },
+    {
+      "url": "https://www.moma.org/collection/",
+      "status": 200
+    },
+    {
+      "url": "https://www.pentagram.com/work/mit-media-lab",
+      "status": 200
+    },
+    {
+      "url": "https://www.nps.gov/subjects/hfc/unigrid.htm",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "url": "https://www.vitsoe.com/gb/606",
+      "status": 200
+    },
+    {
+      "url": "https://eamesfoundation.org/",
+      "status": 200
+    },
+    {
+      "url": "https://www.moma.org/calendar/exhibitions/95",
+      "status": 200
+    },
+    {
+      "url": "https://www.kci.or.jp/en/archives/digital_archives/1920s/KCI_313",
+      "status": 200
+    },
+    {
+      "url": "https://design-system.service.gov.uk/",
+      "status": 200
+    },
+    {
+      "url": "https://carbondesignsystem.com/",
+      "status": 200
+    },
+    {
+      "url": "https://m3.material.io/",
+      "error": "HTTP Error 405: Method Not Allowed"
+    },
+    {
+      "url": "https://www.w3.org/TR/WCAG22/",
+      "status": 200
+    },
+    {
+      "url": "https://www.nasa.gov/nasa-brand-center/",
+      "status": 200
+    },
+    {
+      "url": "https://www.getty.edu/education/teachers/building_lessons/formal_analysis2.html",
+      "status": 200
+    },
+    {
+      "url": "https://www.w3.org/WAI/WCAG22/Understanding/contrast-minimum.html",
+      "status": 200
+    },
+    {
+      "url": "https://www.vam.ac.uk/articles/willam-morris-textiles",
+      "status": 200
+    },
+    {
+      "url": "https://www.metmuseum.org/art/collection/search/384017",
+      "status": 200
+    },
+    {
+      "url": "https://www.vam.ac.uk/collections/art-nouveau",
+      "status": 200
+    },
+    {
+      "url": "https://www.vam.ac.uk/collections/art-deco",
+      "status": 200
+    },
+    {
+      "url": "https://www.bauhaus.de/de/das_bauhaus/",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "url": "https://www.bauhaus.de/en/join-in/formats/bauhaus-lab-online/",
+      "status": 200
+    },
+    {
+      "url": "https://www.moma.org/slideshows/43/798",
+      "status": 200
+    },
+    {
+      "url": "https://www.moma.org/collection/works/2438",
+      "status": 200
+    },
+    {
+      "url": "https://www.moma.org/collection/works/4044/",
+      "status": 200
+    },
+    {
+      "url": "https://www.moma.org/collection/works/7233",
+      "status": 200
+    },
+    {
+      "url": "https://www.metmuseum.org/art/collection/search/486989",
+      "status": 200
+    },
+    {
+      "url": "https://designmuseum.org/designers/ettore-sottsass",
+      "status": 200
+    },
+    {
+      "url": "https://www.w3.org/TR/clreq/",
+      "status": 200
+    },
+    {
+      "url": "https://www.metmuseum.org/art/collection/search/39664",
+      "status": 200
+    },
+    {
+      "url": "https://www.metmuseum.org/art/collection/search/30091",
+      "status": 200
+    },
+    {
+      "url": "https://www.moma.org/collection/works/3749",
+      "status": 200
+    },
+    {
+      "url": "https://www.moma.org/collection/works/3032",
+      "status": 200
+    },
+    {
+      "url": "https://lookup.vam.ac.uk/east-storehouse/storagedisplays/USE2174/",
+      "status": 200
+    },
+    {
+      "url": "https://www.pentagram.com/news/mit-media-lab",
+      "status": 200
+    },
+    {
+      "url": "https://www.penguin.co.uk/discover/articles/penguin-modern-classics-design",
+      "status": 200
+    },
+    {
+      "url": "https://www.nps.gov/subjects/hfc/a-brief-history-of-the-unigrid.htm",
+      "status": 200
+    },
+    {
+      "url": "https://www.reading.ac.uk/typography/collections-and-archives",
+      "status": 200
+    },
+    {
+      "url": "https://research.reading.ac.uk/picturingscience/",
+      "status": 200
+    },
+    {
+      "url": "https://www.w3.org/WAI/WCAG22/Understanding/use-of-color",
+      "status": 200
+    },
+    {
+      "url": "https://www.nps.gov/subjects/hfc/signs.htm",
+      "status": 200
+    },
+    {
+      "url": "https://www.moma.org/collection/works/3585",
+      "error": "The read operation timed out"
+    },
+    {
+      "url": "https://eamesfoundation.org/eames-house/history/",
+      "status": 200
+    },
+    {
+      "url": "https://franklloydwright.org/site/solomon-r-guggenheim-museum/",
+      "status": 200
+    },
+    {
+      "url": "https://www.moma.org/collection/works/185648",
+      "status": 200
+    },
+    {
+      "url": "https://www.moma.org/collection/works/5665",
+      "status": 200
+    },
+    {
+      "url": "https://cdn.cloudflare.steamstatic.com/apps/valve/2007/NPAR07_IllustrativeRenderingInTeamFortress2_Slides.pdf",
+      "status": 200
+    },
+    {
+      "url": "https://digitalartmuseum.org/molnar/biog3.html",
+      "status": 200
+    },
+    {
+      "url": "https://massmoca.org/event/walldrawing797/",
+      "status": 200
+    },
+    {
+      "url": "https://m3.material.io/foundations/",
+      "error": "HTTP Error 405: Method Not Allowed"
+    },
+    {
+      "url": "https://www.carbondesignsystem.com/getting-started/about-carbon",
+      "status": 200
+    },
+    {
+      "url": "https://m3.material.io/m3/pages/color-roles?s=m3",
+      "error": "HTTP Error 405: Method Not Allowed"
+    },
+    {
+      "url": "https://www.w3.org/WAI/ARIA/apg/patterns/button/",
+      "status": 200
+    },
+    {
+      "url": "https://design-system.service.gov.uk/components/error-summary/",
+      "status": 200
+    },
+    {
+      "url": "https://design-system.service.gov.uk/community/contribution-criteria/",
+      "status": 200
+    },
+    {
+      "url": "https://designsystem.digital.gov/components/lifecycle/",
+      "status": 200
+    },
+    {
+      "url": "https://semver.org/lang/zh-CN/spec/v2.0.0.html",
+      "status": 200
+    },
+    {
+      "url": "https://www.w3.org/WAI/test-evaluate/",
+      "status": 200
+    },
+    {
+      "url": "https://www.vam.ac.uk/articles/madeleine-vionnet-an-introduction",
+      "status": 200
+    },
+    {
+      "url": "https://www.vam.ac.uk/articles/kimono",
+      "status": 200
+    }
+  ],
+  "repairs": [
+    {
+      "old": "https://www.nps.gov/subjects/hfc/unigrid.htm",
+      "new": "https://www.nps.gov/subjects/hfc/a-brief-history-of-the-unigrid.htm",
+      "verification": "NPS官方原文可读，2026-10-21"
+    },
+    {
+      "old": "https://www.bauhaus.de/de/das_bauhaus/",
+      "new": "https://germanhistorydocs.org/en/weimar-germany-1918-1933/the-global-reach-of-the-bauhaus-school-1919-1933",
+      "verification": "GHI编辑史料页面可读，2026-10-21"
+    }
+  ]
+}

@@ -1,0 +1,325 @@
+{
+  "pdf": {
+    "file": "build/design-grammar.pdf",
+    "sha256": "2dfc03f0dcca393577507ee8b0e7ff5a2ed0196ec4945cb75692e3584592f539",
+    "bytes": 151261951,
+    "pages": 235
+  },
+  "chapter_starts": [
+    {
+      "title": "第31章｜创作工坊：让设计系统真的长出作品",
+      "page": 192
+    },
+    {
+      "title": "第32章｜当代现场：六个真实品牌怎样让规则继续生长",
+      "page": 210
+    },
+    {
+      "title": "第33章｜把看见的东西，变成自己的判断",
+      "page": 230
+    }
+  ],
+  "key_artworks": [
+    {
+      "file": "assets/images/contemporary-pepsi-1.jpg",
+      "chapter": "chapters/29-packaging.md",
+      "page": 187,
+      "kind": "real_artwork",
+      "full_page_png": "build/qa/page-187.png"
+    },
+    {
+      "file": "assets/images/creative-inputs.png",
+      "chapter": "chapters/31-creative-lab.md",
+      "page": 193,
+      "kind": "ai_illustration",
+      "full_page_png": "build/qa/page-193.png"
+    },
+    {
+      "file": "examples/creative-lab/refraction-canvas/renders/export/VisualRules.png",
+      "chapter": "chapters/31-creative-lab.md",
+      "page": 194,
+      "kind": "original_design",
+      "full_page_png": "build/qa/page-194.png"
+    },
+    {
+      "file": "examples/creative-lab/refraction-canvas/renders/export/Main.png",
+      "chapter": "chapters/31-creative-lab.md",
+      "page": 195,
+      "kind": "original_design",
+      "full_page_png": "build/qa/page-195.png"
+    },
+    {
+      "file": "examples/creative-lab/refraction-canvas/renders/export/Invitation.png",
+      "chapter": "chapters/31-creative-lab.md",
+      "page": 196,
+      "kind": "original_design",
+      "full_page_png": "build/qa/page-196.png"
+    },
+    {
+      "file": "examples/creative-lab/refraction-canvas/renders/export/Proposal01.png",
+      "chapter": "chapters/31-creative-lab.md",
+      "page": 197,
+      "kind": "original_design",
+      "full_page_png": "build/qa/page-197.png"
+    },
+    {
+      "file": "examples/creative-lab/refraction-canvas/renders/export/Proposal02.png",
+      "chapter": "chapters/31-creative-lab.md",
+      "page": 197,
+      "kind": "original_design",
+      "full_page_png": "build/qa/page-197.png"
+    },
+    {
+      "file": "examples/creative-lab/refraction-canvas/renders/export/Proposal03.png",
+      "chapter": "chapters/31-creative-lab.md",
+      "page": 198,
+      "kind": "original_design",
+      "full_page_png": "build/qa/page-198.png"
+    },
+    {
+      "file": "examples/creative-lab/refraction-canvas/renders/export/Revision.png",
+      "chapter": "chapters/31-creative-lab.md",
+      "page": 198,
+      "kind": "original_design",
+      "full_page_png": "build/qa/page-198.png"
+    },
+    {
+      "file": "examples/creative-lab/field-canvas/renders/export/Rules.png",
+      "chapter": "chapters/31-creative-lab.md",
+      "page": 199,
+      "kind": "original_design",
+      "full_page_png": "build/qa/page-199.png"
+    },
+    {
+      "file": "examples/creative-lab/field-canvas/renders/export/Main.png",
+      "chapter": "chapters/31-creative-lab.md",
+      "page": 200,
+      "kind": "original_design",
+      "full_page_png": "build/qa/page-200.png"
+    },
+    {
+      "file": "examples/creative-lab/field-canvas/renders/export/Spread.png",
+      "chapter": "chapters/31-creative-lab.md",
+      "page": 201,
+      "kind": "original_design",
+      "full_page_png": "build/qa/page-201.png"
+    },
+    {
+      "file": "examples/creative-lab/field-canvas/renders/export/Exhibition.png",
+      "chapter": "chapters/31-creative-lab.md",
+      "page": 202,
+      "kind": "original_design",
+      "full_page_png": "build/qa/page-202.png"
+    },
+    {
+      "file": "examples/creative-lab/field-canvas/renders/export/Before.png",
+      "chapter": "chapters/31-creative-lab.md",
+      "page": 203,
+      "kind": "original_design",
+      "full_page_png": "build/qa/page-203.png"
+    },
+    {
+      "file": "examples/creative-lab/field-canvas/renders/export/CropStudies.png",
+      "chapter": "chapters/31-creative-lab.md",
+      "page": 204,
+      "kind": "original_design",
+      "full_page_png": "build/qa/page-204.png"
+    },
+    {
+      "file": "examples/creative-lab/still-canvas/renders/export/Main.png",
+      "chapter": "chapters/31-creative-lab.md",
+      "page": 205,
+      "kind": "original_design",
+      "full_page_png": "build/qa/page-205.png"
+    },
+    {
+      "file": "examples/creative-lab/still-canvas/renders/export/Campaign.png",
+      "chapter": "chapters/31-creative-lab.md",
+      "page": 205,
+      "kind": "original_design",
+      "full_page_png": "build/qa/page-205.png"
+    },
+    {
+      "file": "examples/creative-lab/still-canvas/renders/export/Packaging.png",
+      "chapter": "chapters/31-creative-lab.md",
+      "page": 206,
+      "kind": "original_design",
+      "full_page_png": "build/qa/page-206.png"
+    },
+    {
+      "file": "examples/creative-lab/still-canvas/renders/export/Subscription.png",
+      "chapter": "chapters/31-creative-lab.md",
+      "page": 207,
+      "kind": "original_design",
+      "full_page_png": "build/qa/page-207.png"
+    },
+    {
+      "file": "examples/creative-lab/still-canvas/renders/export/Stress.png",
+      "chapter": "chapters/31-creative-lab.md",
+      "page": 208,
+      "kind": "original_design",
+      "full_page_png": "build/qa/page-208.png"
+    },
+    {
+      "file": "assets/images/contemporary-pepsi-1.jpg",
+      "chapter": "chapters/32-contemporary-brands.md",
+      "page": 211,
+      "kind": "real_artwork",
+      "full_page_png": "build/qa/page-211.png"
+    },
+    {
+      "file": "assets/images/contemporary-pepsi-2.jpg",
+      "chapter": "chapters/32-contemporary-brands.md",
+      "page": 212,
+      "kind": "real_artwork",
+      "full_page_png": "build/qa/page-212.png"
+    },
+    {
+      "file": "assets/images/contemporary-pepsi-4.jpg",
+      "chapter": "chapters/32-contemporary-brands.md",
+      "page": 213,
+      "kind": "real_artwork",
+      "full_page_png": "build/qa/page-213.png"
+    },
+    {
+      "file": "assets/images/contemporary-reddit-1.jpg",
+      "chapter": "chapters/32-contemporary-brands.md",
+      "page": 214,
+      "kind": "real_artwork",
+      "full_page_png": "build/qa/page-214.png"
+    },
+    {
+      "file": "assets/images/contemporary-reddit-2.jpg",
+      "chapter": "chapters/32-contemporary-brands.md",
+      "page": 215,
+      "kind": "real_artwork",
+      "full_page_png": "build/qa/page-215.png"
+    },
+    {
+      "file": "assets/images/contemporary-reddit-3.jpg",
+      "chapter": "chapters/32-contemporary-brands.md",
+      "page": 216,
+      "kind": "real_artwork",
+      "full_page_png": "build/qa/page-216.png"
+    },
+    {
+      "file": "assets/images/contemporary-wise-1.png",
+      "chapter": "chapters/32-contemporary-brands.md",
+      "page": 217,
+      "kind": "real_artwork",
+      "full_page_png": "build/qa/page-217.png"
+    },
+    {
+      "file": "assets/images/contemporary-wise-2.png",
+      "chapter": "chapters/32-contemporary-brands.md",
+      "page": 217,
+      "kind": "real_artwork",
+      "full_page_png": "build/qa/page-217.png"
+    },
+    {
+      "file": "assets/images/contemporary-wise-3.png",
+      "chapter": "chapters/32-contemporary-brands.md",
+      "page": 218,
+      "kind": "real_artwork",
+      "full_page_png": "build/qa/page-218.png"
+    },
+    {
+      "file": "assets/images/contemporary-spotify-font-rules.png",
+      "chapter": "chapters/32-contemporary-brands.md",
+      "page": 219,
+      "kind": "real_artwork",
+      "full_page_png": "build/qa/page-219.png"
+    },
+    {
+      "file": "assets/images/contemporary-spotify-playlists.png",
+      "chapter": "chapters/32-contemporary-brands.md",
+      "page": 219,
+      "kind": "real_artwork",
+      "full_page_png": "build/qa/page-219.png"
+    },
+    {
+      "file": "assets/images/contemporary-spotify-interface.jpg",
+      "chapter": "chapters/32-contemporary-brands.md",
+      "page": 220,
+      "kind": "real_artwork",
+      "full_page_png": "build/qa/page-220.png"
+    },
+    {
+      "file": "assets/images/contemporary-spotify-analysis.png",
+      "chapter": "chapters/32-contemporary-brands.md",
+      "page": 221,
+      "kind": "original_analysis",
+      "full_page_png": "build/qa/page-221.png"
+    },
+    {
+      "file": "assets/images/contemporary-figma-badge-type.png",
+      "chapter": "chapters/32-contemporary-brands.md",
+      "page": 222,
+      "kind": "real_artwork",
+      "full_page_png": "build/qa/page-222.png"
+    },
+    {
+      "file": "assets/images/contemporary-figma-wayfinding.png",
+      "chapter": "chapters/32-contemporary-brands.md",
+      "page": 223,
+      "kind": "real_artwork",
+      "full_page_png": "build/qa/page-223.png"
+    },
+    {
+      "file": "assets/images/contemporary-figma-analysis.png",
+      "chapter": "chapters/32-contemporary-brands.md",
+      "page": 224,
+      "kind": "original_analysis",
+      "full_page_png": "build/qa/page-224.png"
+    },
+    {
+      "file": "assets/images/contemporary-figma-inflatables.png",
+      "chapter": "chapters/32-contemporary-brands.md",
+      "page": 224,
+      "kind": "real_artwork",
+      "full_page_png": "build/qa/page-224.png"
+    },
+    {
+      "file": "assets/images/contemporary-figma-posters.png",
+      "chapter": "chapters/32-contemporary-brands.md",
+      "page": 225,
+      "kind": "real_artwork",
+      "full_page_png": "build/qa/page-225.png"
+    },
+    {
+      "file": "assets/images/contemporary-decathlon-jersey.jpg",
+      "chapter": "chapters/32-contemporary-brands.md",
+      "page": 226,
+      "kind": "real_artwork",
+      "full_page_png": "build/qa/page-226.png"
+    },
+    {
+      "file": "assets/images/contemporary-decathlon-typography.jpg",
+      "chapter": "chapters/32-contemporary-brands.md",
+      "page": 227,
+      "kind": "real_artwork",
+      "full_page_png": "build/qa/page-227.png"
+    },
+    {
+      "file": "assets/images/contemporary-decathlon-analysis.png",
+      "chapter": "chapters/32-contemporary-brands.md",
+      "page": 227,
+      "kind": "original_analysis",
+      "full_page_png": "build/qa/page-227.png"
+    },
+    {
+      "file": "assets/images/contemporary-decathlon-campaign.jpg",
+      "chapter": "chapters/32-contemporary-brands.md",
+      "page": 228,
+      "kind": "real_artwork",
+      "full_page_png": "build/qa/page-228.png"
+    },
+    {
+      "file": "assets/images/contemporary-decathlon-cycling.jpg",
+      "chapter": "chapters/32-contemporary-brands.md",
+      "page": 229,
+      "kind": "real_artwork",
+      "full_page_png": "build/qa/page-229.png"
+    }
+  ]
+}

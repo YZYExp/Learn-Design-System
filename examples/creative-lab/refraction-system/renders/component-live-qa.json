@@ -1,0 +1,32 @@
+{
+  "passed": true,
+  "results": [
+    {
+      "text": "折光\nREFRACTION\n让观看发生偏转\nA SHIFT IN PERSPECTIVE",
+      "namespace": "object",
+      "images": [],
+      "fontSize": "96px"
+    },
+    {
+      "text": "2026.11.07—12.06\n10:00—18:00 · 周一闭馆\n折光实验展厅\n虚构路 18 号",
+      "namespace": "object",
+      "images": [],
+      "fontSize": null
+    },
+    {
+      "text": "",
+      "namespace": "object",
+      "images": [
+        {
+          "src": "../../assets/Photography/refraction-light-v5.png",
+          "loaded": true
+        },
+        {
+          "src": "../../assets/Photography/refraction-light-v5.png",
+          "loaded": true
+        }
+      ],
+      "fontSize": null
+    }
+  ]
+}

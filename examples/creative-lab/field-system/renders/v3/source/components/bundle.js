@@ -1,0 +1,10 @@
+/* @ds-bundle: {"format":4,"namespace":"FieldNotes","components":[{"name":"Masthead"},{"name":"EditorialCaption"},{"name":"EventBadge"},{"name":"Cover"}]} */
+(function(){
+function el(tag,styles,text){var n=document.createElement(tag);n.style.cssText=styles;if(text)n.textContent=text;return n;}
+window.FieldNotes={
+Masthead:function(p){p=p||{};var n=el('div','display:flex;align-items:end;justify-content:space-between;gap:var(--space-24);padding:var(--space-24);background:var(--paper);color:var(--plum);font-family:"Field Sans",sans-serif');n.appendChild(el('div','font-size:var(--fn-masthead-size,88px);line-height:1',p.name||'野序'));var r=el('div','display:flex;flex-direction:column;gap:var(--space-8)');r.appendChild(el('div','font-family:"Field Serif",serif;font-size:32px;line-height:1',p.english||'FIELD NOTES'));r.appendChild(el('div','font-size:16px;color:var(--moss)',p.issue||'ISSUE 07 · SUMMER 2027'));n.appendChild(r);return n;},
+EditorialCaption:function(p){p=p||{};var n=el('div','display:flex;gap:var(--space-16);padding:var(--space-16);border-top:1px solid var(--line);background:var(--paper);color:var(--moss);font:20px/1.55 "Field Sans",sans-serif');n.appendChild(el('span','font-family:"Field Serif",serif',p.number||'01'));n.appendChild(el('span','max-width:540px',p.text||'鸢尾的褶皱与色层。AI绘画，不作为植物鉴定依据。'));return n;},
+EventBadge:function(p){p=p||{};var n=el('div','display:flex;align-items:center;gap:var(--space-16);padding:var(--space-16) var(--space-24);background:var(--pink);color:var(--plum);font:20px/1.5 "Field Sans",sans-serif;border-radius:var(--radius-label)');n.appendChild(el('span','font-family:"Field Serif",serif;font-size:32px',p.date||'06.12'));n.appendChild(el('span','',p.label||'花在纸上 · 野序小展'));return n;},
+Cover:function(){var n=el('div','padding:var(--space-40);background:var(--paper);color:var(--plum)');n.appendChild(window.FieldNotes.Masthead({}));n.appendChild(el('h2','font:48px/1.2 "Field Serif",serif;margin:var(--space-24) 0','A slower way of seeing.'));n.appendChild(window.FieldNotes.EventBadge({label:'植物、纸张与观看的编辑语言'}));return n;}
+};
+})();

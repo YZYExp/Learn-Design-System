@@ -1,0 +1,51 @@
+{
+  "native_cli": "0.26.1021",
+  "design_version": 4,
+  "refinement": "Invitation caption on independent cool-white footer; nested Proposal03 updated.",
+  "scale": 2,
+  "renamed_only": true,
+  "files": [
+    {
+      "file": "renders/export/Main.png",
+      "width": 2160,
+      "height": 2880,
+      "sha256": "8d3f45ad4155a7c5d3d2334ac65d9747d03719cd8f4a96705f6cdc050e75fb69"
+    },
+    {
+      "file": "renders/export/VisualRules.png",
+      "width": 3200,
+      "height": 2000,
+      "sha256": "ffdede57f3a120e4df1e86b837a462db3691c7267a86141901d14785cb5bba07"
+    },
+    {
+      "file": "renders/export/Invitation.png",
+      "width": 3200,
+      "height": 1800,
+      "sha256": "8cbebe4bcd270a2f81d067dd3db3df634d49538b02f7852b0c2721d6d0b67157"
+    },
+    {
+      "file": "renders/export/Proposal01.png",
+      "width": 3200,
+      "height": 1800,
+      "sha256": "5171ab6118c3c7b4250352ced744c89a46931b27da8f0b3169a90b11eed30748"
+    },
+    {
+      "file": "renders/export/Proposal02.png",
+      "width": 3200,
+      "height": 1800,
+      "sha256": "c952e34a3a64918efa48a1244fdaf4afb67a9c27c06d6f596dfc7b8bd94e90b9"
+    },
+    {
+      "file": "renders/export/Proposal03.png",
+      "width": 3200,
+      "height": 1800,
+      "sha256": "379083d5de7f876ceede2ca1b7796364cf969599c3a0834103c4d8681616378a"
+    },
+    {
+      "file": "renders/export/Revision.png",
+      "width": 3200,
+      "height": 2000,
+      "sha256": "0815b53d98d323856db6395e1d527f333de17fbbc1c761ff7ffe1b2d97b5cc46"
+    }
+  ]
+}

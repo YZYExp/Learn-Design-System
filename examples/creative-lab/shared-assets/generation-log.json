@@ -1,0 +1,82 @@
+{
+  "project": "设计的语法 / creative-lab",
+  "generated_date": "2026-10-22",
+  "recovery_note": "Prior image bytes were unavailable after workspace rollback. These are newly generated assets using the original complete prompts, not byte-identical restorations.",
+  "tool": "image_gen.imagegen (built-in)",
+  "model": "not exposed by tool result",
+  "classification": "Original AI-generated creative assets, not historical reproductions",
+  "assets": [
+    {
+      "file": "refraction-hero.png",
+      "purpose": "现代主义展览海报可编辑canvas的摄影主视觉，可裁切，竖3:4",
+      "prompt": "Use case: photorealistic-natural. Asset type: original photographic hero image for a modernist exhibition poster, portrait 3:4.\nCreate a premium architectural still-life photograph: one sculptural arrangement of overlapping thick ivory paper planes and smooth off-white plaster forms, geometric but physically plausible, on a pale stone or plaster surface. Hard angled sunlight from an unseen window creates a crisp architectural field of black and charcoal-gray shadows. A single small vermilion-red plane is the only strong color accent; almost all of the image is monochrome ivory, white, black and gray. Sophisticated quiet museum photography, realistic edge thickness, subtle paper fibers, delicate plaster pores, precise focus, controlled highlights. Asymmetrical composition with clean breathing room useful for editorial cropping; one coherent sculpture rather than a collection of unrelated objects. No text, no letters, no typography, no logos, no watermarks, no people. Do not place poster graphics or a frame around the photograph. Portrait 3:4 image.",
+      "source_path": "/workspace/scratch/0179e4a1de34/generated_images/exec-5920fab5-1dfb-4d34-92a3-05520c39efb1.png",
+      "target_path": "/workspace/scratch/0179e4a1de34/design-grammar/examples/creative-lab/shared-assets/refraction-hero.png",
+      "tool_metadata": {
+        "result_keys": [
+          "image_url",
+          "output_hint"
+        ],
+        "output_hint": "Generated images are saved to /workspace/scratch/0179e4a1de34/generated_images as /workspace/scratch/0179e4a1de34/generated_images/exec-5920fab5-1dfb-4d34-92a3-05520c39efb1.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+        "transparent_background": false
+      },
+      "qa": {
+        "text_free": true,
+        "visual_subject_checked": true,
+        "note": "Subject, palette and composition checked; no labels, letters or logos visible."
+      },
+      "width": 1086,
+      "height": 1448,
+      "size_bytes": 2455458,
+      "sha256": "151f7f199eff8dc5f9eb0f6d315169bfc343fefb23669be31f66f159fb95e4bc"
+    },
+    {
+      "file": "field-botanical.png",
+      "purpose": "植物画报可编辑canvas原创主视觉，紫鸢尾与大叶，竖3:4",
+      "prompt": "Use case: illustration-story. Asset type: original full-frame botanical painting for an artistic illustrated editorial poster, portrait 3:4.\nPaint purple iris flowers and broad green leaves in an expressive, meticulously observed gouache and soft pastel style on warm cream paper. Deep plum-purple iris petals with subtle lilac highlights, moss green and dark olive broad leaves, natural irregular stems, a few unopened buds. Rich tactile paint, visible fine brushwork, softly chalky pastel grain, layered pigment and nuanced botanical form. Asymmetrical natural composition with several blooms at different heights and leaves sweeping diagonally, some stems reaching near the edges and an airy cream breathing area; this must read as one composed painting, not isolated decorative stickers or a clip-art arrangement. Fine-art botanical editorial illustration, sensitive light and shadow, organic detail without photorealism. Limited deep plum, moss green, cream and small natural warm ochre accents. No text, no letters, no labels, no typography, no border, no logo, no watermark. Portrait 3:4 image.",
+      "source_path": "/workspace/scratch/0179e4a1de34/generated_images/exec-ec87b2b8-e62e-41d8-818b-2ea816aaf13e.png",
+      "target_path": "/workspace/scratch/0179e4a1de34/design-grammar/examples/creative-lab/shared-assets/field-botanical.png",
+      "tool_metadata": {
+        "result_keys": [
+          "image_url",
+          "output_hint"
+        ],
+        "output_hint": "Generated images are saved to /workspace/scratch/0179e4a1de34/generated_images as /workspace/scratch/0179e4a1de34/generated_images/exec-ec87b2b8-e62e-41d8-818b-2ea816aaf13e.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+        "transparent_background": false
+      },
+      "qa": {
+        "text_free": true,
+        "visual_subject_checked": true,
+        "note": "Subject, palette and composition checked; no labels, letters or logos visible."
+      },
+      "width": 1086,
+      "height": 1448,
+      "size_bytes": 3277223,
+      "sha256": "35011e09aaaf0652028b78bfbc476b65779fc17ef893a33d4be4b36bf692542a"
+    },
+    {
+      "file": "still-coffee.png",
+      "purpose": "高级咖啡品牌可编辑canvas摄影素材，深绿釉杯/纸袋，横4:3",
+      "prompt": "Use case: product-mockup. Asset type: original premium coffee brand editorial photograph, landscape 4:3.\nA carefully art-directed realistic still life on a warm pale stone countertop: a deep forest-green glazed ceramic cup filled with dark brewed coffee, a modest scattering of a few roasted coffee beans, and one unprinted brown kraft-paper coffee bag with a neatly folded top. Warm low afternoon sunlight enters from the side, creating soft slanted shadows and a quiet intimate atmosphere. Show beautiful believable material detail: subtly irregular ceramic glaze, slight highlights on the coffee surface, textured natural stone, fine kraft-paper fibers and real folds. Sophisticated warm brown, forest green, charcoal and cream palette. Asymmetrical spacious composition, cup prominent and coffee clearly visible, bag as a secondary shape, very few beans rather than a decorative heap. Professional premium product photography, tactile, understated, no excessive steam. No text on any item, no letters, no labels, no logo, no watermark, no hands, no people. Landscape 4:3 image.",
+      "source_path": "/workspace/scratch/0179e4a1de34/generated_images/exec-c9496de9-0e2f-45cd-904c-03ed734ebdfa.png",
+      "target_path": "/workspace/scratch/0179e4a1de34/design-grammar/examples/creative-lab/shared-assets/still-coffee.png",
+      "tool_metadata": {
+        "result_keys": [
+          "image_url",
+          "output_hint"
+        ],
+        "output_hint": "Generated images are saved to /workspace/scratch/0179e4a1de34/generated_images as /workspace/scratch/0179e4a1de34/generated_images/exec-c9496de9-0e2f-45cd-904c-03ed734ebdfa.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+        "transparent_background": false
+      },
+      "qa": {
+        "text_free": true,
+        "visual_subject_checked": true,
+        "note": "Coffee, dark-green glazed cup, blank kraft bag and sparse beans visible; a small out-of-focus plant appears upper-left."
+      },
+      "width": 1448,
+      "height": 1086,
+      "size_bytes": 2457238,
+      "sha256": "169a0c4a1ca04c028923bb400bc9fdcb883c41c73a0f92b689d04544950ac78c"
+    }
+  ]
+}

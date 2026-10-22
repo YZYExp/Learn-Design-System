@@ -1,0 +1,92 @@
+/* 隙间 / STILL — generated from tokens.json */
+
+:root, [data-theme="light"] {
+  --surface: #F5F3EC;
+  --surface-raised: #FFFFFF;
+  --ink: #20211D;
+  --ink-muted: #606156;
+  --accent: #F05A24;
+  --on-accent: #20211D;
+  --terracotta: #424A32;
+  --clay-text: #424A32;
+  --line: #B9BAAE;
+  --photo-bed: #424A32;
+  --shadow-soft: 0 8px 30px rgba(51,44,37,0.06);
+}
+
+[data-theme="night"] {
+  --surface: #20211D;
+  --surface-raised: #2D3028;
+  --ink: #F5F3EC;
+  --ink-muted: #C7C9BA;
+  --terracotta: #C7CEAB;
+  --clay-text: #C7CEAB;
+  --line: #6E7462;
+  --photo-bed: #161912;
+}
+
+:root {
+  --space-4: 4px;
+  --space-8: 8px;
+  --space-16: 16px;
+  --space-24: 24px;
+  --space-40: 40px;
+  --space-64: 64px;
+  --space-96: 96px;
+  --radius-none: 0px;
+  --radius-small: 0px;
+  --radius-pill: 0px;
+  --font-sans: "STILL Sans", "Noto Sans SC", sans-serif;
+  --font-editorial: Arial, "STILL Sans", sans-serif;
+}
+
+.display {
+  font-family: var(--font-sans);
+  font-size: 76px;
+  line-height: 1.18;
+  font-weight: 700;
+  letter-spacing: -4px;
+}
+
+.title {
+  font-family: var(--font-sans);
+  font-size: 44px;
+  line-height: 1.28;
+  font-weight: 400;
+}
+
+.subtitle {
+  font-family: var(--font-sans);
+  font-size: 24px;
+  line-height: 1.45;
+  font-weight: 400;
+}
+
+.body {
+  font-family: var(--font-sans);
+  font-size: 18px;
+  line-height: 1.7;
+  font-weight: 400;
+}
+
+.caption {
+  font-family: var(--font-sans);
+  font-size: 14px;
+  line-height: 1.55;
+  font-weight: 400;
+}
+
+.wordmark {
+  font-family: var(--font-editorial);
+  font-size: 120px;
+  line-height: 1;
+  font-weight: 700;
+  letter-spacing: -4px;
+}
+
+@font-face {
+  font-family: "STILL Sans";
+  src: url("fonts/NotoSansSC-Regular.ttf") format("truetype");
+  font-weight: 400;
+  font-display: swap;
+}

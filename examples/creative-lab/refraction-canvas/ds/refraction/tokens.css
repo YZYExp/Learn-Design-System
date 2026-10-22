@@ -1,0 +1,111 @@
+/* 折光 / REFRACTION · V5 — generated from tokens.json */
+
+:root, [data-theme="light"] {
+  --surface: #F2EDDF;
+  --ink: #151D20;
+  --accent: #173D78;
+  --on-accent: #F2EDDF;
+  --muted: #525957;
+  --hairline: #7D837C;
+  --light-field: #D6E1E8;
+  --amber: #D3A25C;
+  --paper-white: #FFFDF6;
+  --shadow-none: none;
+}
+
+[data-theme="dark"] {
+  --surface: #151D20;
+  --ink: #F2EDDF;
+  --muted: #BBC4C4;
+  --hairline: #858F92;
+}
+
+:root {
+  --space-xs: 8px;
+  --space-s: 16px;
+  --space-m: 32px;
+  --space-l: 64px;
+  --space-xl: 80px;
+  --radius-sharp: 0px;
+  --radius-dot: 50%;
+  --font-sans: "Refraction Sans",sans-serif;
+  --font-serif: Noto Serif CJK SC,serif;
+  --font-latin: Nimbus Roman,serif;
+}
+
+.display {
+  font-family: var(--font-serif);
+  font-size: 200px;
+  line-height: 1;
+  font-weight: 500;
+  letter-spacing: 0px;
+}
+
+.title {
+  font-family: var(--font-serif);
+  font-size: 96px;
+  line-height: 1.2;
+  font-weight: 500;
+  letter-spacing: 2px;
+}
+
+.subtitle {
+  font-family: var(--font-serif);
+  font-size: 42px;
+  line-height: 1.4;
+  font-weight: 500;
+  letter-spacing: 3px;
+}
+
+.body {
+  font-family: var(--font-serif);
+  font-size: 26px;
+  line-height: 1.7;
+  font-weight: 500;
+  letter-spacing: 0px;
+}
+
+.meta {
+  font-family: var(--font-serif);
+  font-size: 22px;
+  line-height: 1.5;
+  font-weight: 500;
+  letter-spacing: 1px;
+}
+
+.caption {
+  font-family: var(--font-serif);
+  font-size: 17px;
+  line-height: 1.5;
+  font-weight: 500;
+  letter-spacing: 0px;
+}
+
+@font-face {
+  font-family: "Refraction Sans";
+  src: url("fonts/NotoSansSC-Regular.ttf") format("truetype");
+  font-weight: 400;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Noto Serif CJK SC";
+  src: url("fonts/RefractionSong.otf") format("opentype");
+  font-weight: 500;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Nimbus Roman";
+  src: url("fonts/RefractionLatin.otf") format("opentype");
+  font-weight: 400;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Nimbus Roman";
+  src: url("fonts/RefractionLatin-Italic.otf") format("opentype");
+  font-weight: 400;
+  font-style: italic;
+  font-display: swap;
+}

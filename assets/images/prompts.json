@@ -1,0 +1,48 @@
+{
+  "title": "《设计的语法》场景插图",
+  "generated_date": "2026-10-21",
+  "palette": [
+    "暖白",
+    "墨黑",
+    "朱红",
+    "深青绿"
+  ],
+  "entries": [
+    {
+      "file": "materials-atlas.png",
+      "purpose": "第10章材料工艺对照；同一双叶母题在织物、纸印、釉陶与金属中的视觉变化",
+      "prompt": "Use case: product-mockup. Asset type: landscape educational illustration for a Chinese illustrated book about visual design systems.\nCreate a polished museum-catalog material study photographed on warm ivory paper, four equal square material samples in one horizontal row with generous margins. Each sample bears precisely the same simple two-curve leaf emblem, oriented identically and at equal apparent scale. Left to right: hand-woven natural linen with dark teal woven leaf; thick cream letterpress paper with vermilion printed leaf and slight deboss; an ivory glazed ceramic tile with dark teal leaf under shiny glaze; brushed brass panel with dark leaf engraving. Show believable tactile details, weave, ink impression, glaze reflection and metal machining. Muted warm white, ink black, vermilion and deep teal palette. Soft daylight, clean top-down composition. No words, no numbers, no labels, no logos, no watermark. This is an original contemporary teaching scene, not a historical artifact. Overall image wide 3:2 or 16:9.",
+      "source": "exec-ce39d252-4714-4ab3-a364-0dff9d3a7e7a.png",
+      "method": "built-in image_gen",
+      "classification": "AI生成教学示意；非历史作品、非工程图、非生产规格",
+      "qa": "已检查构图、风格、主体与材料关系。生成图表现不能作为材料性能或可制造性证明。"
+    },
+    {
+      "file": "studio-systems.png",
+      "purpose": "第11章品牌系统与第22章跨媒介工作坊教学场景",
+      "prompt": "Use case: product-mockup. Landscape educational editorial illustration for a book about visual design systems. A beautifully art-directed contemporary design studio flat lay of a coherent fictional coastal design festival identity, no real brand. Warm ivory backdrop, matte papers and subtle daylight shadows. Arrange a large event poster, a small accordion leaflet, a standing ivory paper shopping bag, a compact rectangular wayfinding sign with a simple arrow, a portrait smartphone showing a ticket screen. Every item uses the SAME abstract motif of three nested tidal semicircular arcs, same limited vermilion, dark teal, ink black and ivory palette, strong editorial alignment, generous whitespace. Typography only as small neutral non-legible typographic texture, no words or letters required. The media must clearly vary in scale and format while sharing graphic rules; visual hierarchy differs according to object. Crisp premium museum-catalog photography, tactile paper, no extraneous props, no people, no logos, no watermark. Wide 3:2 composition. This is an original teaching mockup, not an existing historic work.",
+      "source": "exec-4e0536c3-cfe2-4cbc-ac13-67ef8c8406a1.png",
+      "method": "built-in image_gen",
+      "classification": "AI生成教学示意；非历史作品、非工程图、非生产规格",
+      "qa": "已检查构图、风格、主体与材料关系。生成图表现不能作为材料性能或可制造性证明。"
+    },
+    {
+      "file": "space-and-object.png",
+      "purpose": "第14-15章产品模块与空间设计语言教学场景",
+      "prompt": "Use case: stylized-concept. Asset type: landscape museum-catalog educational illustration about the same visual language spanning furniture, exhibition and wayfinding. A polished isometric architectural miniature of a small contemporary design exhibition, warm ivory background with ample margin. One family of simple modular furniture: rectilinear pale birch plinths with dark teal inset panels, rounded corner benches, ivory freestanding sign panels with a vermilion circular arc motif and simple black direction arrows, three display objects on plinths. Show a clear central circulation aisle and repeated structural bay spacing; cabinets and shelves repeat the same unit proportions; variation in height responds to display function. Restrained warm white, natural birch, ink black, vermilion and deep teal palette, soft shadows and realistic tactile material, elegant detailed 3D illustration rather than a floor plan. No people, no text, no dimensions, no logos, no watermark. Original conceptual teaching scene, not a real building. Wide 3:2 composition.",
+      "source": "exec-1d042949-8993-43b6-958c-a06a5f3b9647.png",
+      "method": "built-in image_gen",
+      "classification": "AI生成教学示意；非历史作品、非工程图、非生产规格",
+      "qa": "已检查构图、风格、主体与材料关系。生成图表现不能作为材料性能或可制造性证明。"
+    },
+    {
+      "file": "style-comparison.png",
+      "purpose": "导读与第05-08章同题材视觉语法对照",
+      "prompt": "Use case: stylized-concept. Asset type: precise comparable four-panel educational art plate for an illustrated design book, no historical forgery. Four equal clean rectangular panels in a 2x2 grid with narrow warm-ivory gutters and generous outer margin. ALL FOUR panels portray THE SAME simple side-view coffee pot with a curved spout, rectangular loop handle and one leafy sprig beside it, same left-to-right arrangement and approximate scale. Transform only visual grammar: upper left flowing botanical decorative surface pattern, hand printed sinuous vines, muted teal and vermilion; upper right strict geometric construction, circles rectangles and straight black lines, vermilion and teal flat forms; lower left Swiss-style editorial poster composition, disciplined asymmetrical grid, small neutral black typographic bars as texture, coffee pot rendered in bold simplified photograph-like silhouette; lower right playful Memphis-style flat composition, off-axis wedges, small squiggles, checker patterns, vermilion and teal with black, controlled lively rhythm. Distinct grammars, same recognizable pot and sprig in every panel. Beautiful polished print graphics on matte cream paper. No readable text, no letters, no numbers, no signatures, no real artist names, no logos, no watermark. All examples are original contemporary teaching demonstrations; do not reproduce any specific artwork. Landscape 3:2.",
+      "source": "exec-4a493968-da00-4319-a9cb-3ed68eb14fc2.png",
+      "method": "built-in image_gen",
+      "classification": "AI生成教学示意；非历史作品、非工程图、非生产规格",
+      "qa": "已检查构图、风格、主体与材料关系。生成图表现不能作为材料性能或可制造性证明。"
+    }
+  ]
+}

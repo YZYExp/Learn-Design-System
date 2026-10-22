@@ -1,0 +1,124 @@
+{
+  "project": "设计的语法 / creative-lab",
+  "revision": "V5 full visual proposal → text-free material → editable native reconstruction",
+  "generated_date": "2026-10-22",
+  "tool": "image_gen.imagegen (built-in)",
+  "model": "not exposed by tool result",
+  "classification": "Original AI visual proposal and image materials; neither historical reference reproductions nor proof of native editability",
+  "recording_policy": "New V5 records contain honest production descriptions because verbatim tool prompts were unavailable; retained V4 assets preserve their existing prompt records.",
+  "assets": [
+    {
+      "file": "refraction-concept-v5.png",
+      "purpose": "折光整张海报视觉提案，含中文、英文、构图、光场与到场信息",
+      "source_path": "/workspace/scratch/0179e4a1de34/generated_images/exec-32aaafb4-28f4-41b6-ace4-265b43a78610.png",
+      "target_path": "/workspace/scratch/0179e4a1de34/design-grammar/examples/creative-lab/shared-assets/refraction-concept-v5.png",
+      "production_description": "先生成整张“折光”展览海报视觉方向：纸白表面、宋体感中文主识别、细衬线英文辅助、蓝青与金红的棱面光场、日期地点作为整体构图的一部分。此说明记录本轮实际生产意图与输出内容；原始工具prompt未保存在当前记录中，不伪称逐字原prompt。",
+      "prompt_record_type": "production description reconstructed from visible task and actual output; not a verbatim tool prompt",
+      "verbatim_prompt_available": false,
+      "role": "full_visual_proposal",
+      "tool_metadata": {
+        "tool": "image_gen.imagegen (built-in)",
+        "model": "not exposed by tool result",
+        "transparent_background": false
+      },
+      "qa": {
+        "visual_subject_checked": true,
+        "text_free": false,
+        "note": "Complete visual proposal and derived text-free material were inspected side by side; native reconstruction uses real font layers and is not claimed pixel-identical."
+      },
+      "width": 1086,
+      "height": 1448,
+      "size_bytes": 2245011,
+      "sha256": "c597e13b276546b6e7fbeef9599fc121e28397dcc12b937885a26f4902392b6c",
+      "book_copy": "assets/images/refraction-concept-v5.png",
+      "project": "refraction",
+      "not_native_background": true
+    },
+    {
+      "file": "refraction-light-v5.png",
+      "purpose": "保留完整海报提案光场构图的去字底图，用于原生可编辑版式",
+      "source_path": "/workspace/scratch/0179e4a1de34/generated_images/exec-7d6e5e8f-25e9-4bd9-8bdb-b0be58ebef2b.png",
+      "target_path": "/workspace/scratch/0179e4a1de34/design-grammar/examples/creative-lab/shared-assets/refraction-light-v5.png",
+      "production_description": "基于本轮完整视觉提案另行生成去字版本，保留纸白、棱面位置、斜向明暗、蓝青与金红光场，让中文英文、日期地点在原生Canvas中重建为真实字体。去字衍生图与提案并排核对，不宣称逐像素完全一致；本说明不是逐字原prompt。",
+      "prompt_record_type": "production description reconstructed from visible task and actual output; not a verbatim tool prompt",
+      "verbatim_prompt_available": false,
+      "role": "text_free_material",
+      "tool_metadata": {
+        "tool": "image_gen.imagegen (built-in)",
+        "model": "not exposed by tool result",
+        "transparent_background": false
+      },
+      "qa": {
+        "visual_subject_checked": true,
+        "text_free": true,
+        "note": "Complete visual proposal and derived text-free material were inspected side by side; native reconstruction uses real font layers and is not claimed pixel-identical."
+      },
+      "width": 1086,
+      "height": 1448,
+      "size_bytes": 1977767,
+      "sha256": "5108b2d301ca9edff6dde71035115c974d9022cc8622194db71fbb929582ccfd",
+      "project": "refraction",
+      "derived_from": {
+        "file": "refraction-concept-v5.png",
+        "sha256": "c597e13b276546b6e7fbeef9599fc121e28397dcc12b937885a26f4902392b6c",
+        "operation": "AI text removal while retaining the visual composition; not a pixel-identity assertion"
+      }
+    },
+    {
+      "file": "field-botanical-v4.png",
+      "purpose": "高级当代植物编辑摄影主视觉，一枝深紫鸢尾与长叶，竖3:4",
+      "prompt": "Use case: photorealistic-natural. Asset type: premium contemporary botanical editorial photographic asset, portrait 3:4, image only.\nA single deep-purple iris bloom on one slender stem, accompanied by one long green iris leaf, photographed as a carefully art-directed botanical portrait. Real macro photography: exquisite natural petal texture, veins and delicate partly translucent folds, deep plum and violet petals with small honest golden details at the flower center, finely observed organic edges. Minimal warm cream to very pale blush-pink studio backdrop, subtle natural tonal depth and quiet negative space. The single flower has a precise recognizable silhouette and rests in an asymmetrical composition with the stem and the one long leaf providing a long elegant line. Premium contemporary independent art-journal photography, sensitive controlled sidelight, beautiful but believable real botanical detail, sharp flower with gently softer stem depth. Leave breathing room for an editable cover crop. Do not create three flowers, a bouquet, a full-field floral pattern, stickers, watercolor, gouache, pastel painting, faux paper texture, heavy grain, excessive props or dramatic fake shadows. No text, no labels, no letters, no logos, no frame, no watermark. Portrait 3:4.",
+      "source_path": "/workspace/scratch/0179e4a1de34/generated_images/exec-79c0d335-769c-43dd-b9c0-9a9c7e9382e7.png",
+      "target_path": "/workspace/scratch/0179e4a1de34/design-grammar/examples/creative-lab/shared-assets/field-botanical-v4.png",
+      "tool_metadata": {
+        "result_keys": [
+          "image_url",
+          "output_hint"
+        ],
+        "output_hint": "Generated images are saved to /workspace/scratch/0179e4a1de34/generated_images as /workspace/scratch/0179e4a1de34/generated_images/exec-79c0d335-769c-43dd-b9c0-9a9c7e9382e7.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+        "transparent_background": false
+      },
+      "qa": {
+        "text_free": true,
+        "visual_subject_checked": true,
+        "note": "One realistic purple iris, one long leaf, cream/blush background. Not botanical identification evidence."
+      },
+      "width": 1086,
+      "height": 1448,
+      "size_bytes": 1924192,
+      "sha256": "55c8ec136c066d5bec069a5b30134cdaebd81ab7dbd22781b921eed69faa2ed6",
+      "role": "text_free_material",
+      "project": "field",
+      "retained_from_log": "generation-log-v4.json",
+      "generation_revision": "V4; reused without regeneration in V5"
+    },
+    {
+      "file": "still-coffee-v4.png",
+      "purpose": "独立咖啡品牌俯拍摄影素材，浅白杯与深橄榄几何台面，横4:3",
+      "prompt": "Use case: product-mockup. Asset type: premium independent coffee-brand editorial photographic asset, landscape 4:3, image only.\nA deliberate top-down photographic still life: dark brown-black brewed coffee in one small round off-white porcelain cup, on an architectural geometric tabletop composed of deep olive-green and graphite-gray planes. A very sparse arrangement of a few warm yellow-orange coffee cherries or roasted beans adds a tiny warm color counterpoint. Angled late-afternoon sun creates one or two precise confident shadows and reveals the crisp geometric surface boundaries. Bold useful negative space across part of the image, art-directed placement rather than a centered stock-photo grouping. Sophisticated contemporary editorial product photography, real ceramic rim, glossy dark coffee surface, restrained subtle tabletop finish, high-end material detail without fake roughness. Palette: warm off-white cup, near-black coffee, dark olive and graphite with tiny yellow-orange accents. Do not include green mugs, kraft coffee bags, potted plants, hands, people, bags, piles of beans, marble luxury clichés, many random shadows or rustic cafe props. No text, no letters, no logos, no labels, no watermark. Landscape 4:3, top-down view.",
+      "source_path": "/workspace/scratch/0179e4a1de34/generated_images/exec-d4aa9051-0eb9-4024-aa91-8fa1ea2ba5a5.png",
+      "target_path": "/workspace/scratch/0179e4a1de34/design-grammar/examples/creative-lab/shared-assets/still-coffee-v4.png",
+      "tool_metadata": {
+        "result_keys": [
+          "image_url",
+          "output_hint"
+        ],
+        "output_hint": "Generated images are saved to /workspace/scratch/0179e4a1de34/generated_images as /workspace/scratch/0179e4a1de34/generated_images/exec-d4aa9051-0eb9-4024-aa91-8fa1ea2ba5a5.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+        "transparent_background": false
+      },
+      "qa": {
+        "text_free": true,
+        "visual_subject_checked": true,
+        "note": "Top-down off-white coffee cup on olive/graphite geometric table, three yellow-orange cherries. Not cultivar or ingredient evidence."
+      },
+      "width": 1448,
+      "height": 1086,
+      "size_bytes": 2360075,
+      "sha256": "4f4f2b7ba87c781f42826d7a0892fc489b084efe5adc53fa0f5f96df821447ec",
+      "role": "text_free_material",
+      "project": "still",
+      "retained_from_log": "generation-log-v4.json",
+      "generation_revision": "V4; reused without regeneration in V5"
+    }
+  ]
+}

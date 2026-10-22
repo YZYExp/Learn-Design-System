@@ -1,0 +1,800 @@
+[
+  {
+    "label": "KCI原作页",
+    "url": "https://www.kci.or.jp/en/archives/digital_archives/1920s/KCI_313",
+    "chapters": [
+      "24-fashion.md",
+      "B-reading-paths.md"
+    ]
+  },
+  {
+    "label": "KCI原作页",
+    "url": "https://www.kci.or.jp/en/archives/digital_archives/1980s/KCI_260",
+    "chapters": [
+      "24-fashion.md"
+    ]
+  },
+  {
+    "label": "产品与原图来源",
+    "url": "https://www.vitsoe.com/gb/606",
+    "chapters": [
+      "14-product.md",
+      "B-reading-paths.md"
+    ]
+  },
+  {
+    "label": "馆藏记录",
+    "url": "https://www.moma.org/collection/works/3585",
+    "chapters": [
+      "14-product.md"
+    ]
+  },
+  {
+    "label": "The Met，William Morris / Philip Webb，Trellis，1864",
+    "url": "https://www.metmuseum.org/art/collection/search/384020",
+    "chapters": [
+      "05-ornament.md"
+    ]
+  },
+  {
+    "label": "Library of Congress，Alphonse Mucha，Job，1898",
+    "url": "https://www.loc.gov/item/95504874/",
+    "chapters": [
+      "05-ornament.md",
+      "26-advertising.md"
+    ]
+  },
+  {
+    "label": "V&A，William Morris textiles；含《Strawberry Thief》，1883年",
+    "url": "https://www.vam.ac.uk/articles/willam-morris-textiles",
+    "chapters": [
+      "05-ornament.md",
+      "10-craft.md"
+    ]
+  },
+  {
+    "label": "The Metropolitan Museum of Art，William Morris，Daisy，1864",
+    "url": "https://www.metmuseum.org/art/collection/search/384017",
+    "chapters": [
+      "05-ornament.md"
+    ]
+  },
+  {
+    "label": "V&A，Art Nouveau",
+    "url": "https://www.vam.ac.uk/collections/art-nouveau",
+    "chapters": [
+      "05-ornament.md"
+    ]
+  },
+  {
+    "label": "V&A，Art Deco",
+    "url": "https://www.vam.ac.uk/collections/art-deco",
+    "chapters": [
+      "05-ornament.md"
+    ]
+  },
+  {
+    "label": "The Coca-Cola Company，瓶型历史",
+    "url": "https://www.coca-colacompany.com/about-us/history/the-history-of-the-coca-cola-contour-bottle",
+    "chapters": [
+      "29-packaging.md"
+    ]
+  },
+  {
+    "label": "Smithsonian National Museum of American History，Contour Bottle",
+    "url": "https://americanhistory.si.edu/collections/object/nmah_1461961",
+    "chapters": [
+      "29-packaging.md"
+    ]
+  },
+  {
+    "label": "Tetra Pak，Tetra Classic Aseptic",
+    "url": "https://www.tetrapak.com/solutions/packaging/packages/aseptic-packages/tetra-classic-aseptic",
+    "chapters": [
+      "29-packaging.md"
+    ]
+  },
+  {
+    "label": "官方档案页面",
+    "url": "https://www.tetrapak.com/about-tetra-pak/who-we-are/heritage",
+    "chapters": [
+      "29-packaging.md"
+    ]
+  },
+  {
+    "label": "W3C对比度说明",
+    "url": "https://www.w3.org/WAI/WCAG22/Understanding/contrast-minimum.html",
+    "chapters": [
+      "03-colour.md",
+      "19-tokens.md",
+      "22-workshop.md"
+    ]
+  },
+  {
+    "label": "按钮模式",
+    "url": "https://www.w3.org/WAI/ARIA/apg/patterns/button/",
+    "chapters": [
+      "20-components.md",
+      "22-workshop.md"
+    ]
+  },
+  {
+    "label": "评估概览",
+    "url": "https://www.w3.org/WAI/test-evaluate/",
+    "chapters": [
+      "21-governance.md",
+      "22-workshop.md"
+    ]
+  },
+  {
+    "label": "CommonButton文档",
+    "url": "https://github.com/material-components/material-components-android/blob/master/docs/components/CommonButton.md",
+    "chapters": [
+      "19-tokens.md"
+    ]
+  },
+  {
+    "label": "资料：Google，Color Roles",
+    "url": "https://m3.material.io/m3/pages/color-roles?s=m3",
+    "chapters": [
+      "19-tokens.md"
+    ]
+  },
+  {
+    "label": "设计方项目页",
+    "url": "https://www.pentagram.com/work/mit-media-lab/story",
+    "chapters": [
+      "11-brand.md"
+    ]
+  },
+  {
+    "label": "设计方项目页",
+    "url": "https://www.pentagram.com/work/the-public-theater/story",
+    "chapters": [
+      "11-brand.md"
+    ]
+  },
+  {
+    "label": "MIT Media Lab",
+    "url": "https://www.pentagram.com/news/mit-media-lab",
+    "chapters": [
+      "11-brand.md"
+    ]
+  },
+  {
+    "label": "来源与功能分类",
+    "url": "https://www.nps.gov/subjects/hfc/signs.htm",
+    "chapters": [
+      "13-wayfinding.md"
+    ]
+  },
+  {
+    "label": "NPS历史说明与原图",
+    "url": "https://www.nps.gov/subjects/hfc/a-brief-history-of-the-unigrid.htm",
+    "chapters": [
+      "12-editorial.md",
+      "13-wayfinding.md",
+      "B-reading-paths.md"
+    ]
+  },
+  {
+    "label": "档案介绍",
+    "url": "https://www.reading.ac.uk/typography/collections-and-archives",
+    "chapters": [
+      "13-wayfinding.md"
+    ]
+  },
+  {
+    "label": "相关研究项目",
+    "url": "https://research.reading.ac.uk/picturingscience/",
+    "chapters": [
+      "13-wayfinding.md"
+    ]
+  },
+  {
+    "label": "颜色使用说明",
+    "url": "https://www.w3.org/WAI/WCAG22/Understanding/use-of-color",
+    "chapters": [
+      "13-wayfinding.md"
+    ]
+  },
+  {
+    "label": "NASA，Graphics Standards Manual，1976年1月",
+    "url": "https://www.nasa.gov/wp-content/uploads/2015/01/nasa_graphics_manual_nhb_1430-2_jan_1976.pdf",
+    "chapters": [
+      "01-system.md"
+    ]
+  },
+  {
+    "label": "NASA，Brand Center",
+    "url": "https://www.nasa.gov/nasa-brand-center/",
+    "chapters": [
+      "01-system.md"
+    ]
+  },
+  {
+    "label": "Eames Foundation历史页",
+    "url": "https://eamesfoundation.org/eames-house/history/",
+    "chapters": [
+      "15-space.md"
+    ]
+  },
+  {
+    "label": "建筑介绍",
+    "url": "https://franklloydwright.org/site/solomon-r-guggenheim-museum/",
+    "chapters": [
+      "15-space.md"
+    ]
+  },
+  {
+    "label": "MoMA原作页",
+    "url": "https://www.moma.org/collection/works/49624",
+    "chapters": [
+      "23-image-making.md"
+    ]
+  },
+  {
+    "label": "官方图板与规范",
+    "url": "https://www.ibm.com/design/language/illustration/flat-style/design/",
+    "chapters": [
+      "23-image-making.md"
+    ]
+  },
+  {
+    "label": "The Metropolitan Museum of Art，Ettore Sottsass，Carlton Room Divider，1981",
+    "url": "https://www.metmuseum.org/art/collection/search/486989",
+    "chapters": [
+      "08-postmodern.md"
+    ]
+  },
+  {
+    "label": "设计者资料与作品背景",
+    "url": "https://designmuseum.org/designers/ettore-sottsass",
+    "chapters": [
+      "08-postmodern.md"
+    ]
+  },
+  {
+    "label": "MoMA，Josef Müller-Brockmann，Musica Viva，1958",
+    "url": "https://www.moma.org/collection/works/7233",
+    "chapters": [
+      "07-modernism.md"
+    ]
+  },
+  {
+    "label": "MoMA，Josef Müller-Brockmann，Musica Viva，1957，58.1960",
+    "url": "https://www.moma.org/collection/works/4885",
+    "chapters": [
+      "07-modernism.md"
+    ]
+  },
+  {
+    "label": "The Craft of Scientific Communication",
+    "url": "https://www.craftscicom.org/ae_tutorial.html",
+    "chapters": [
+      "27-presentations.md"
+    ]
+  },
+  {
+    "label": "NASA原始PDF",
+    "url": "https://www.nasa.gov/wp-content/uploads/2022/08/nac_human_exploration_and_operations_heo_committee_report_august_2022.pdf",
+    "chapters": [
+      "27-presentations.md"
+    ]
+  },
+  {
+    "label": "Penn State，Slide Research",
+    "url": "https://www.writing.engr.psu.edu/research.html",
+    "chapters": [
+      "27-presentations.md"
+    ]
+  },
+  {
+    "label": "Harvard Catalyst，Slides",
+    "url": "https://catalyst.harvard.edu/writing-communication-center/visualize-science/slides/",
+    "chapters": [
+      "27-presentations.md"
+    ]
+  },
+  {
+    "label": "MoMA，Plakate der Avantgarde，1930",
+    "url": "https://www.moma.org/collection/works/7292",
+    "chapters": [
+      "04-grid.md"
+    ]
+  },
+  {
+    "label": "The Metropolitan Museum of Art，Islamic Art and Geometric Design，2004",
+    "url": "https://resources.metmuseum.org/resources/metpublications/pdf/Islamic_Art_and_Geometric_Design_Activities_for_Learning.pdf",
+    "chapters": [
+      "04-grid.md",
+      "B-reading-paths.md"
+    ]
+  },
+  {
+    "label": "原作与馆藏信息",
+    "url": "https://www.vam.ac.uk/exhibitions/degrees-of-disruption-vera-molnar-and-generative-art",
+    "chapters": [
+      "17-generative.md"
+    ]
+  },
+  {
+    "label": "馆方作品页",
+    "url": "https://massmoca.org/event/walldrawing797/",
+    "chapters": [
+      "17-generative.md"
+    ]
+  },
+  {
+    "label": "资料：Molnár，《Inconceivable Images》，1990",
+    "url": "https://digitalartmuseum.org/molnar/biog3.html",
+    "chapters": [
+      "17-generative.md"
+    ]
+  },
+  {
+    "label": "The Met，Wang Gai，Page from the Mustard Seed Garden Manual of Painting，CP8，初版1679年",
+    "url": "https://www.metmuseum.org/art/collection/search/63201",
+    "chapters": [
+      "09-east-asian.md"
+    ]
+  },
+  {
+    "label": "The Met，Hu Zhengyan and others，Page from the Ten Bamboo Studio Manual，CP75，初版1633年",
+    "url": "https://www.metmuseum.org/art/collection/search/63403",
+    "chapters": [
+      "09-east-asian.md"
+    ]
+  },
+  {
+    "label": "W3C，Requirements for Chinese Text Layout，Group Note Draft，2026-10-07",
+    "url": "https://www.w3.org/TR/clreq/",
+    "chapters": [
+      "09-east-asian.md",
+      "12-editorial.md"
+    ]
+  },
+  {
+    "label": "The Metropolitan Museum of Art，Ogata Kōrin，Irises at Yatsuhashi (Eight Bridges)，1709年以后",
+    "url": "https://www.metmuseum.org/art/collection/search/39664",
+    "chapters": [
+      "09-east-asian.md"
+    ]
+  },
+  {
+    "label": "The Metropolitan Museum of Art，Koike Izumi no Kami Naomasa，家纹散唐草文鐔，16世纪末至17世纪初",
+    "url": "https://www.metmuseum.org/art/collection/search/30091",
+    "chapters": [
+      "09-east-asian.md"
+    ]
+  },
+  {
+    "label": "Penguin官方设计史",
+    "url": "https://www.penguin.co.uk/discover/articles/penguin-modern-classics-design",
+    "chapters": [
+      "12-editorial.md"
+    ]
+  },
+  {
+    "label": "北斋原图",
+    "url": "https://www.metmuseum.org/art/collection/search/45434",
+    "chapters": [
+      "02-seeing.md",
+      "30-deliberate-practice.md"
+    ]
+  },
+  {
+    "label": "官方说明",
+    "url": "https://www.carbondesignsystem.com/building-blocks/core/components/data-table/guidelines",
+    "chapters": [
+      "18-digital.md",
+      "21-governance.md"
+    ]
+  },
+  {
+    "label": "资料：GOV.UK，Styles / Components / Patterns",
+    "url": "https://design-system.service.gov.uk/",
+    "chapters": [
+      "18-digital.md",
+      "B-reading-paths.md"
+    ]
+  },
+  {
+    "label": "资料：Google，Material Design Foundations",
+    "url": "https://m3.material.io/foundations/",
+    "chapters": [
+      "18-digital.md"
+    ]
+  },
+  {
+    "label": "资料：IBM，About Carbon",
+    "url": "https://www.carbondesignsystem.com/getting-started/about-carbon",
+    "chapters": [
+      "18-digital.md"
+    ]
+  },
+  {
+    "label": "馆藏记录与原图",
+    "url": "https://www.moma.org/collection/works/5665",
+    "chapters": [
+      "16-motion.md"
+    ]
+  },
+  {
+    "label": "唱片封套记录",
+    "url": "https://www.moma.org/collection/works/185648",
+    "chapters": [
+      "16-motion.md"
+    ]
+  },
+  {
+    "label": "《Team Fortress 2 中的插画式渲染》讲义",
+    "url": "https://cdn.cloudflare.steamstatic.com/apps/valve/2007/NPAR07_IllustrativeRenderingInTeamFortress2_Slides.pdf",
+    "chapters": [
+      "16-motion.md"
+    ]
+  },
+  {
+    "label": "Tingly Design命令指南",
+    "url": "https://github.com/tingly-dev/tingly-design/blob/main/docs/en/cli.md",
+    "chapters": [
+      "31-creative-lab.md"
+    ]
+  },
+  {
+    "label": "MoMA，Marianne Brandt，Teapot，1924",
+    "url": "https://www.moma.org/collection/works/2438",
+    "chapters": [
+      "06-bauhaus.md"
+    ]
+  },
+  {
+    "label": "MoMA，Gerrit Rietveld，Red Blue Chair，1918—1923",
+    "url": "https://www.moma.org/collection/works/4044/",
+    "chapters": [
+      "06-bauhaus.md"
+    ]
+  },
+  {
+    "label": "German Historical Institute，The Global Reach of the Bauhaus School (1919–1933)",
+    "url": "https://germanhistorydocs.org/en/weimar-germany-1918-1933/the-global-reach-of-the-bauhaus-school-1919-1933",
+    "chapters": [
+      "06-bauhaus.md"
+    ]
+  },
+  {
+    "label": "Bauhaus-Archiv，Bauhaus Lab Online",
+    "url": "https://www.bauhaus.de/en/join-in/formats/bauhaus-lab-online/",
+    "chapters": [
+      "06-bauhaus.md"
+    ]
+  },
+  {
+    "label": "MoMA，The Electro-Library，De Stijl专题",
+    "url": "https://www.moma.org/slideshows/43/798",
+    "chapters": [
+      "06-bauhaus.md"
+    ]
+  },
+  {
+    "label": "Wikimedia Commons文件页",
+    "url": "https://commons.wikimedia.org/wiki/File:Ver_Sacrum,_Issue_1,_January_1898.jpg",
+    "chapters": [
+      "28-magazines.md"
+    ]
+  },
+  {
+    "label": "Leopold Museum馆藏说明",
+    "url": "https://onlinecollection.leopoldmuseum.org/en/object/7726-ver-sacrum-magazine-of-the-union-of-austrian-artists-founders-issue-september-1898-1st-year-no-9/",
+    "chapters": [
+      "28-magazines.md"
+    ]
+  },
+  {
+    "label": "LIFE官方摄影家页",
+    "url": "https://www.life.com/photographer/margaret-bourke-white/",
+    "chapters": [
+      "28-magazines.md"
+    ]
+  },
+  {
+    "label": "原刊专题重刊",
+    "url": "https://www.life.com/history/lifes-first-ever-cover-story-building-the-fort-peck-dam-1936/",
+    "chapters": [
+      "28-magazines.md"
+    ]
+  },
+  {
+    "label": "原件与年代记录",
+    "url": "https://www.loc.gov/item/2004671509/",
+    "chapters": [
+      "26-advertising.md"
+    ]
+  },
+  {
+    "label": "Volkswagen官方回顾",
+    "url": "https://www.vw.com/en/newsroom/lifestyle-and-heritage/70-years-of-vw-in-the-u-s.html",
+    "chapters": [
+      "26-advertising.md"
+    ]
+  },
+  {
+    "label": "Volkswagen集团历史与创作人员记录",
+    "url": "https://www.volkswagen-group.com/en/volkswagen-chronicle-17351/1950-to-1960-internationalisation-and-mass-production-in-the-era-of-germanys-economic-miracle-17356",
+    "chapters": [
+      "26-advertising.md"
+    ]
+  },
+  {
+    "label": "创作归属核对",
+    "url": "https://creativehalloffame.org/inductees/julian-koenig/",
+    "chapters": [
+      "26-advertising.md"
+    ]
+  },
+  {
+    "label": "原PDF",
+    "url": "https://assets.publishing.service.gov.uk/media/66e447b50d913026165c3e9b/Recommended_method_of_submission_guidance.pdf",
+    "chapters": [
+      "20-components.md"
+    ]
+  },
+  {
+    "label": "资料：GDS，Error Summary",
+    "url": "https://design-system.service.gov.uk/components/error-summary/",
+    "chapters": [
+      "20-components.md"
+    ]
+  },
+  {
+    "label": "资料：GDS，Contribution Criteria",
+    "url": "https://design-system.service.gov.uk/community/contribution-criteria/",
+    "chapters": [
+      "21-governance.md"
+    ]
+  },
+  {
+    "label": "资料：USWDS，Component Lifecycle",
+    "url": "https://designsystem.digital.gov/components/lifecycle/",
+    "chapters": [
+      "21-governance.md"
+    ]
+  },
+  {
+    "label": "资料：Semantic Versioning 2.0.0",
+    "url": "https://semver.org/lang/zh-CN/spec/v2.0.0.html",
+    "chapters": [
+      "21-governance.md"
+    ]
+  },
+  {
+    "label": "MoMA，Anni Albers，Design for Wall Hanging，1926",
+    "url": "https://www.moma.org/collection/works/3749",
+    "chapters": [
+      "10-craft.md"
+    ]
+  },
+  {
+    "label": "MoMA，Anni Albers，Wall Hanging，1927年设计、1964年在作者指导下织成",
+    "url": "https://www.moma.org/collection/works/3032",
+    "chapters": [
+      "10-craft.md"
+    ]
+  },
+  {
+    "label": "制作展示",
+    "url": "https://lookup.vam.ac.uk/east-storehouse/storagedisplays/USE2174/",
+    "chapters": [
+      "10-craft.md"
+    ]
+  },
+  {
+    "label": "原作与馆藏记录",
+    "url": "https://www.metmuseum.org/art/collection/search/333990",
+    "chapters": [
+      "25-posters.md"
+    ]
+  },
+  {
+    "label": "劳特累克博物馆",
+    "url": "https://www.musee-toulouse-lautrec.com/en/collections/masterpieces/Moulin-Rouge-poster/",
+    "chapters": [
+      "25-posters.md"
+    ]
+  },
+  {
+    "label": "Mucha Foundation作品记录",
+    "url": "https://www.muchafoundation.org/en/gallery/browse-works/object_type/posters/object/21/",
+    "chapters": [
+      "25-posters.md"
+    ]
+  },
+  {
+    "label": "所用复制品图像来源",
+    "url": "https://store.mucha.cz/en/gismonda",
+    "chapters": [
+      "25-posters.md"
+    ]
+  },
+  {
+    "label": "MoMA原作记录",
+    "url": "https://www.moma.org/collection/works/105963/",
+    "chapters": [
+      "25-posters.md"
+    ]
+  },
+  {
+    "label": "Met，Wheat Field with Cypresses，1889",
+    "url": "https://www.metmuseum.org/art/collection/search/436535",
+    "chapters": [
+      "03-colour.md"
+    ]
+  },
+  {
+    "label": "Josef & Anni Albers Foundation，Interaction of Color",
+    "url": "https://www.albersfoundation.org/alberses/teaching/interaction-of-color",
+    "chapters": [
+      "03-colour.md",
+      "B-reading-paths.md"
+    ]
+  },
+  {
+    "label": "Getty，Elements of Art",
+    "url": "https://www.getty.edu/education/teachers/building_lessons/formal_analysis.html",
+    "chapters": [
+      "02-seeing.md",
+      "B-reading-paths.md"
+    ]
+  },
+  {
+    "label": "Getty，Principles of Design",
+    "url": "https://www.getty.edu/education/teachers/building_lessons/formal_analysis2.html",
+    "chapters": [
+      "02-seeing.md"
+    ]
+  },
+  {
+    "label": "V&A：Arts and Crafts",
+    "url": "https://www.vam.ac.uk/articles/arts-and-crafts-an-introduction",
+    "chapters": [
+      "B-reading-paths.md"
+    ]
+  },
+  {
+    "label": "Bauhaus-Archiv",
+    "url": "https://www.bauhaus.de/en/",
+    "chapters": [
+      "B-reading-paths.md"
+    ]
+  },
+  {
+    "label": "MoMA 藏品",
+    "url": "https://www.moma.org/collection/",
+    "chapters": [
+      "B-reading-paths.md"
+    ]
+  },
+  {
+    "label": "MIT Media Lab 识别项目，Pentagram",
+    "url": "https://www.pentagram.com/work/mit-media-lab",
+    "chapters": [
+      "B-reading-paths.md"
+    ]
+  },
+  {
+    "label": "Eames Foundation",
+    "url": "https://eamesfoundation.org/",
+    "chapters": [
+      "B-reading-paths.md"
+    ]
+  },
+  {
+    "label": "MoMA：Becher 2008年展览",
+    "url": "https://www.moma.org/calendar/exhibitions/95",
+    "chapters": [
+      "B-reading-paths.md"
+    ]
+  },
+  {
+    "label": "Carbon Design System",
+    "url": "https://carbondesignsystem.com/",
+    "chapters": [
+      "B-reading-paths.md"
+    ]
+  },
+  {
+    "label": "Material Design",
+    "url": "https://m3.material.io/",
+    "chapters": [
+      "B-reading-paths.md"
+    ]
+  },
+  {
+    "label": "W3C WCAG 2.2",
+    "url": "https://www.w3.org/TR/WCAG22/",
+    "chapters": [
+      "B-reading-paths.md"
+    ]
+  },
+  {
+    "label": "Pentagram项目档案",
+    "url": "https://www.pentagram.com/work/reddit",
+    "chapters": [
+      "11-brand.md",
+      "32-contemporary-brands.md"
+    ]
+  },
+  {
+    "label": "Wise官方发布",
+    "url": "https://wise.com/gb/blog/a-brand-for-everywhere-wise-unveils-bold-new-look",
+    "chapters": [
+      "18-digital.md",
+      "32-contemporary-brands.md"
+    ]
+  },
+  {
+    "label": "Wolff Olins项目档案",
+    "url": "https://wolffolins.com/work/decathlon",
+    "chapters": [
+      "26-advertising.md"
+    ]
+  },
+  {
+    "label": "原始出处",
+    "url": "https://www.wolffolins.com/work/decathlon",
+    "chapters": [
+      "26-advertising.md",
+      "32-contemporary-brands.md"
+    ]
+  },
+  {
+    "label": "PepsiCo官方案例",
+    "url": "https://www.pepsico.com/en/innovation/case-studies/2023/pepsi-global-redesign",
+    "chapters": [
+      "29-packaging.md",
+      "32-contemporary-brands.md"
+    ]
+  },
+  {
+    "label": "2023发布说明",
+    "url": "https://www.pepsico.com/newsroom/press-releases/2023/pepsi-unveils-a-new-logo-and-visual-identity-marking-the-iconic-brands-next-era",
+    "chapters": [
+      "32-contemporary-brands.md"
+    ]
+  },
+  {
+    "label": "Reddit官方更新说明",
+    "url": "https://redditinc.com/news/evolving-the-reddit-brand-a-more-accessible-bespoke-typography-new-conversation-bubbles-and-colors-and-a-new-snoo-logo-now-with-opposable-thumbs",
+    "chapters": [
+      "32-contemporary-brands.md"
+    ]
+  },
+  {
+    "label": "Ragged Edge项目说明",
+    "url": "https://raggededge.com/partnerships/wise",
+    "chapters": [
+      "32-contemporary-brands.md"
+    ]
+  },
+  {
+    "label": "原始出处",
+    "url": "https://newsroom.spotify.com/2024-05-22/introducing-spotify-mix-our-new-and-exclusive-font/",
+    "chapters": [
+      "32-contemporary-brands.md"
+    ]
+  },
+  {
+    "label": "原始出处",
+    "url": "https://www.figma.com/blog/how-we-shaped-the-visual-identity-for-config-2025/",
+    "chapters": [
+      "32-contemporary-brands.md"
+    ]
+  },
+  {
+    "label": "品牌官方新身份发布",
+    "url": "https://www.decathlon-united.media/decathlon-new-identity",
+    "chapters": [
+      "32-contemporary-brands.md"
+    ]
+  }
+]

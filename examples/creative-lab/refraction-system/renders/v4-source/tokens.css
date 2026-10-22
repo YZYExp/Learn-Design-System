@@ -1,0 +1,82 @@
+/* 折光 / REFRACTION · V4 — generated from tokens.json */
+
+:root, [data-theme="light"] {
+  --surface: #F4F5F7;
+  --ink: #101114;
+  --accent: #D62A20;
+  --on-accent: #FFFFFF;
+  --muted: #4E535B;
+  --hairline: #A5ABB4;
+  --silver: #C6CBD1;
+  --paper-white: #FFFFFF;
+  --shadow-none: none;
+}
+
+[data-theme="dark"] {
+  --surface: #101114;
+  --ink: #F4F5F7;
+  --muted: #B8BEC6;
+  --hairline: #666C75;
+}
+
+:root {
+  --space-xs: 8px;
+  --space-s: 16px;
+  --space-m: 32px;
+  --space-l: 64px;
+  --space-xl: 80px;
+  --radius-sharp: 0px;
+  --radius-dot: 50%;
+  --font-sans: "Refraction Sans", "Noto Sans SC", Arial, sans-serif;
+}
+
+.display {
+  font-family: var(--font-sans);
+  font-size: 180px;
+  line-height: 1;
+  font-weight: 900;
+  letter-spacing: -7px;
+}
+
+.title {
+  font-family: var(--font-sans);
+  font-size: 96px;
+  line-height: 1.15;
+  font-weight: 800;
+  letter-spacing: -2px;
+}
+
+.subtitle {
+  font-family: var(--font-sans);
+  font-size: 44px;
+  line-height: 1.3;
+  font-weight: 600;
+}
+
+.body {
+  font-family: var(--font-sans);
+  font-size: 28px;
+  line-height: 1.65;
+  font-weight: 400;
+}
+
+.meta {
+  font-family: var(--font-sans);
+  font-size: 24px;
+  line-height: 1.5;
+  font-weight: 400;
+}
+
+.caption {
+  font-family: var(--font-sans);
+  font-size: 18px;
+  line-height: 1.5;
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: "Refraction Sans";
+  src: url("fonts/NotoSansSC-Regular.ttf") format("truetype");
+  font-weight: 400;
+  font-display: swap;
+}

@@ -1,0 +1,13 @@
+{
+  "kind": "original-programmatic-teaching-diagrams",
+  "count": 24,
+  "script": "scripts/render_figures.py",
+  "palette": [
+    "#F6F2E9",
+    "#202621",
+    "#B94432",
+    "#28665E"
+  ],
+  "font": "Noto Sans SC",
+  "historical_reproductions": false
+}

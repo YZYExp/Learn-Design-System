@@ -1,0 +1,574 @@
+{
+  "projects": [
+    {
+      "path": "examples/creative-lab/refraction-system",
+      "kind": "design-system",
+      "components": [
+        {
+          "component": "ExhibitTitle",
+          "calls": {
+            "ExhibitTitle": 2
+          },
+          "rendered_nodes": 9,
+          "connected_returns": 2
+        },
+        {
+          "component": "InfoStrip",
+          "calls": {
+            "InfoStrip": 1
+          },
+          "rendered_nodes": 10,
+          "connected_returns": 1
+        },
+        {
+          "component": "PictureFrame",
+          "calls": {
+            "PictureFrame": 2
+          },
+          "rendered_nodes": 7,
+          "connected_returns": 2
+        }
+      ],
+      "renders": [
+        {
+          "file": "examples/creative-lab/refraction-system/renders/check/折光 - REFRACTION · V5-overview.png",
+          "size": [
+            1920,
+            2398
+          ]
+        },
+        {
+          "file": "examples/creative-lab/refraction-system/renders/check/折光 - REFRACTION · V5-colors.png",
+          "size": [
+            1920,
+            1328
+          ]
+        },
+        {
+          "file": "examples/creative-lab/refraction-system/renders/check/折光 - REFRACTION · V5-type.png",
+          "size": [
+            1920,
+            2444
+          ]
+        },
+        {
+          "file": "examples/creative-lab/refraction-system/renders/check/折光 - REFRACTION · V5-space.png",
+          "size": [
+            1920,
+            1324
+          ]
+        },
+        {
+          "file": "examples/creative-lab/refraction-system/renders/check/折光 - REFRACTION · V5-components.png",
+          "size": [
+            1920,
+            3908
+          ]
+        },
+        {
+          "file": "examples/creative-lab/refraction-system/renders/check/折光 - REFRACTION · V5-assets.png",
+          "size": [
+            1920,
+            1046
+          ]
+        }
+      ],
+      "namespace": "REFRACTION"
+    },
+    {
+      "path": "examples/creative-lab/refraction-canvas",
+      "kind": "canvas",
+      "boards": [
+        {
+          "file": "VisualRules.dc.html",
+          "size": [
+            1600,
+            1000
+          ],
+          "editable_text_nodes": 18,
+          "native_nodes": 27,
+          "hidden": false,
+          "renders": [
+            "examples/creative-lab/refraction-canvas/renders/check/VisualRules.png",
+            "examples/creative-lab/refraction-canvas/renders/export/VisualRules.png"
+          ]
+        },
+        {
+          "file": "Main.dc.html",
+          "size": [
+            1080,
+            1440
+          ],
+          "editable_text_nodes": 8,
+          "native_nodes": 12,
+          "hidden": false,
+          "renders": [
+            "examples/creative-lab/refraction-canvas/renders/check/Main.png",
+            "examples/creative-lab/refraction-canvas/renders/export/Main.png"
+          ]
+        },
+        {
+          "file": "Invitation.dc.html",
+          "size": [
+            1600,
+            900
+          ],
+          "editable_text_nodes": 8,
+          "native_nodes": 10,
+          "hidden": false,
+          "renders": [
+            "examples/creative-lab/refraction-canvas/renders/check/Invitation.png",
+            "examples/creative-lab/refraction-canvas/renders/export/Invitation.png"
+          ]
+        },
+        {
+          "file": "Proposal01.dc.html",
+          "size": [
+            1600,
+            900
+          ],
+          "editable_text_nodes": 4,
+          "native_nodes": 7,
+          "hidden": false,
+          "renders": [
+            "examples/creative-lab/refraction-canvas/renders/check/Proposal01.png",
+            "examples/creative-lab/refraction-canvas/renders/export/Proposal01.png"
+          ]
+        },
+        {
+          "file": "Proposal02.dc.html",
+          "size": [
+            1600,
+            900
+          ],
+          "editable_text_nodes": 6,
+          "native_nodes": 9,
+          "hidden": false,
+          "renders": [
+            "examples/creative-lab/refraction-canvas/renders/check/Proposal02.png",
+            "examples/creative-lab/refraction-canvas/renders/export/Proposal02.png"
+          ]
+        },
+        {
+          "file": "Proposal03.dc.html",
+          "size": [
+            1600,
+            900
+          ],
+          "editable_text_nodes": 21,
+          "native_nodes": 28,
+          "hidden": false,
+          "renders": [
+            "examples/creative-lab/refraction-canvas/renders/check/Proposal03.png",
+            "examples/creative-lab/refraction-canvas/renders/export/Proposal03.png"
+          ]
+        },
+        {
+          "file": "Revision.dc.html",
+          "size": [
+            1600,
+            1000
+          ],
+          "editable_text_nodes": 18,
+          "native_nodes": 24,
+          "hidden": false,
+          "renders": [
+            "examples/creative-lab/refraction-canvas/renders/check/Revision.png",
+            "examples/creative-lab/refraction-canvas/renders/export/Revision.png"
+          ]
+        }
+      ],
+      "snapshots": [
+        {
+          "namespace": "refraction",
+          "upstream": "examples/creative-lab/refraction-system",
+          "tokens_sha256": "68c430fc1d51cc5b2c06624d980682865d0ee01e0e7eb2530d0722783c00b0d2"
+        }
+      ]
+    },
+    {
+      "path": "examples/creative-lab/field-system",
+      "kind": "design-system",
+      "components": [
+        {
+          "component": "Masthead",
+          "calls": {
+            "Masthead": 1
+          },
+          "rendered_nodes": 7,
+          "connected_returns": 1
+        },
+        {
+          "component": "EditorialCaption",
+          "calls": {
+            "EditorialCaption": 1
+          },
+          "rendered_nodes": 6,
+          "connected_returns": 1
+        },
+        {
+          "component": "EventBadge",
+          "calls": {
+            "EventBadge": 1
+          },
+          "rendered_nodes": 6,
+          "connected_returns": 1
+        }
+      ],
+      "renders": [
+        {
+          "file": "examples/creative-lab/field-system/renders/check/野序 - FIELD NOTES · V4-overview.png",
+          "size": [
+            1920,
+            3996
+          ]
+        },
+        {
+          "file": "examples/creative-lab/field-system/renders/check/野序 - FIELD NOTES · V4-colors.png",
+          "size": [
+            1920,
+            1188
+          ]
+        },
+        {
+          "file": "examples/creative-lab/field-system/renders/check/野序 - FIELD NOTES · V4-type.png",
+          "size": [
+            1920,
+            2346
+          ]
+        },
+        {
+          "file": "examples/creative-lab/field-system/renders/check/野序 - FIELD NOTES · V4-space.png",
+          "size": [
+            1920,
+            2178
+          ]
+        },
+        {
+          "file": "examples/creative-lab/field-system/renders/check/野序 - FIELD NOTES · V4-components.png",
+          "size": [
+            1920,
+            3704
+          ]
+        },
+        {
+          "file": "examples/creative-lab/field-system/renders/check/野序 - FIELD NOTES · V4-assets.png",
+          "size": [
+            1920,
+            1556
+          ]
+        }
+      ],
+      "namespace": "FieldNotes"
+    },
+    {
+      "path": "examples/creative-lab/field-canvas",
+      "kind": "canvas",
+      "boards": [
+        {
+          "file": "Rules.dc.html",
+          "size": [
+            1600,
+            1120
+          ],
+          "editable_text_nodes": 23,
+          "native_nodes": 41,
+          "hidden": false,
+          "renders": [
+            "examples/creative-lab/field-canvas/renders/export/Rules.png"
+          ]
+        },
+        {
+          "file": "Main.dc.html",
+          "size": [
+            1080,
+            1440
+          ],
+          "editable_text_nodes": 15,
+          "native_nodes": 28,
+          "hidden": false,
+          "renders": [
+            "examples/creative-lab/field-canvas/renders/export/Main.png"
+          ]
+        },
+        {
+          "file": "Spread.dc.html",
+          "size": [
+            1800,
+            1200
+          ],
+          "editable_text_nodes": 18,
+          "native_nodes": 34,
+          "hidden": false,
+          "renders": [
+            "examples/creative-lab/field-canvas/renders/export/Spread.png"
+          ]
+        },
+        {
+          "file": "Exhibition.dc.html",
+          "size": [
+            1080,
+            1440
+          ],
+          "editable_text_nodes": 15,
+          "native_nodes": 28,
+          "hidden": false,
+          "renders": [
+            "examples/creative-lab/field-canvas/renders/export/Exhibition.png"
+          ]
+        },
+        {
+          "file": "Before.dc.html",
+          "size": [
+            1080,
+            1440
+          ],
+          "editable_text_nodes": 7,
+          "native_nodes": 15,
+          "hidden": false,
+          "renders": [
+            "examples/creative-lab/field-canvas/renders/export/Before.png"
+          ]
+        },
+        {
+          "file": "CropStudies.dc.html",
+          "size": [
+            1800,
+            1060
+          ],
+          "editable_text_nodes": 13,
+          "native_nodes": 27,
+          "hidden": false,
+          "renders": [
+            "examples/creative-lab/field-canvas/renders/export/CropStudies.png"
+          ]
+        }
+      ],
+      "snapshots": [
+        {
+          "namespace": "fieldnotes",
+          "upstream": "examples/creative-lab/field-system",
+          "tokens_sha256": "0ff43e60fb82529aa817776c4396cf749dca029c83a9f17154ba08bfd720eb7d"
+        }
+      ]
+    },
+    {
+      "path": "examples/creative-lab/still-system",
+      "kind": "design-system",
+      "components": [
+        {
+          "component": "ActionButton",
+          "calls": {
+            "ActionButton": 3
+          },
+          "rendered_nodes": 7,
+          "connected_returns": 3
+        },
+        {
+          "component": "FlavorTag",
+          "calls": {
+            "FlavorTag": 3
+          },
+          "rendered_nodes": 6,
+          "connected_returns": 3
+        },
+        {
+          "component": "ProductCard",
+          "calls": {
+            "ProductCard": 2
+          },
+          "rendered_nodes": 21,
+          "connected_returns": 2
+        }
+      ],
+      "renders": [
+        {
+          "file": "examples/creative-lab/still-system/renders/check/隙间 - STILL-overview.png",
+          "size": [
+            1920,
+            4122
+          ]
+        },
+        {
+          "file": "examples/creative-lab/still-system/renders/check/隙间 - STILL-colors.png",
+          "size": [
+            1920,
+            1520
+          ]
+        },
+        {
+          "file": "examples/creative-lab/still-system/renders/check/隙间 - STILL-type.png",
+          "size": [
+            1920,
+            1996
+          ]
+        },
+        {
+          "file": "examples/creative-lab/still-system/renders/check/隙间 - STILL-space.png",
+          "size": [
+            1920,
+            1624
+          ]
+        },
+        {
+          "file": "examples/creative-lab/still-system/renders/check/隙间 - STILL-components.png",
+          "size": [
+            1920,
+            2954
+          ]
+        },
+        {
+          "file": "examples/creative-lab/still-system/renders/check/隙间 - STILL-assets.png",
+          "size": [
+            1920,
+            1124
+          ]
+        }
+      ],
+      "namespace": "STILL"
+    },
+    {
+      "path": "examples/creative-lab/still-canvas",
+      "kind": "canvas",
+      "boards": [
+        {
+          "file": "Main.dc.html",
+          "size": [
+            1600,
+            1000
+          ],
+          "editable_text_nodes": 27,
+          "native_nodes": 76,
+          "hidden": false,
+          "renders": [
+            "examples/creative-lab/still-canvas/renders/export/Main.png"
+          ]
+        },
+        {
+          "file": "Campaign.dc.html",
+          "size": [
+            1600,
+            900
+          ],
+          "editable_text_nodes": 13,
+          "native_nodes": 20,
+          "hidden": false,
+          "renders": [
+            "examples/creative-lab/still-canvas/renders/export/Campaign.png"
+          ]
+        },
+        {
+          "file": "Packaging.dc.html",
+          "size": [
+            1600,
+            1050
+          ],
+          "editable_text_nodes": 45,
+          "native_nodes": 135,
+          "hidden": false,
+          "renders": [
+            "examples/creative-lab/still-canvas/renders/export/Packaging.png"
+          ]
+        },
+        {
+          "file": "Subscription.dc.html",
+          "size": [
+            1440,
+            1100
+          ],
+          "editable_text_nodes": 26,
+          "native_nodes": 46,
+          "hidden": false,
+          "renders": [
+            "examples/creative-lab/still-canvas/renders/export/Subscription.png"
+          ]
+        },
+        {
+          "file": "Stress.dc.html",
+          "size": [
+            1440,
+            1100
+          ],
+          "editable_text_nodes": 22,
+          "native_nodes": 53,
+          "hidden": false,
+          "renders": [
+            "examples/creative-lab/still-canvas/renders/export/Stress.png"
+          ]
+        },
+        {
+          "file": "ProductCard.dc.html",
+          "size": [
+            405,
+            240
+          ],
+          "editable_text_nodes": 6,
+          "native_nodes": 9,
+          "hidden": true
+        }
+      ],
+      "snapshots": [
+        {
+          "namespace": "still",
+          "upstream": "examples/creative-lab/still-system",
+          "tokens_sha256": "f9e0f989c8aef490ec492f9d12d98c7ddd7b5aa8d049d71a0c5a4bcc40a33be9"
+        }
+      ]
+    }
+  ],
+  "ai_assets": [
+    {
+      "file": "examples/creative-lab/shared-assets/refraction-concept-v5.png",
+      "sha256": "c597e13b276546b6e7fbeef9599fc121e28397dcc12b937885a26f4902392b6c",
+      "size": [
+        1086,
+        1448
+      ],
+      "verified_project_copies": []
+    },
+    {
+      "file": "examples/creative-lab/shared-assets/refraction-light-v5.png",
+      "sha256": "5108b2d301ca9edff6dde71035115c974d9022cc8622194db71fbb929582ccfd",
+      "size": [
+        1086,
+        1448
+      ],
+      "verified_project_copies": [
+        "examples/creative-lab/refraction-canvas/uploads/refraction-light-v5.png",
+        "examples/creative-lab/refraction-system/assets/Photography/refraction-light-v5.png"
+      ]
+    },
+    {
+      "file": "examples/creative-lab/shared-assets/field-botanical-v4.png",
+      "sha256": "55c8ec136c066d5bec069a5b30134cdaebd81ab7dbd22781b921eed69faa2ed6",
+      "size": [
+        1086,
+        1448
+      ],
+      "verified_project_copies": [
+        "examples/creative-lab/field-canvas/uploads/field-botanical-v4.png"
+      ]
+    },
+    {
+      "file": "examples/creative-lab/shared-assets/still-coffee-v4.png",
+      "sha256": "4f4f2b7ba87c781f42826d7a0892fc489b084efe5adc53fa0f5f96df821447ec",
+      "size": [
+        1448,
+        1086
+      ],
+      "verified_project_copies": [
+        "examples/creative-lab/still-canvas/uploads/still-coffee-v4.png",
+        "examples/creative-lab/still-system/assets/Photography/still-coffee-v4.png"
+      ]
+    }
+  ],
+  "errors": [],
+  "warnings": [],
+  "summary": {
+    "projects": 6,
+    "canvas_boards": 19,
+    "component_previews_executed": 9,
+    "errors": 0,
+    "warnings": 0
+  }
+}

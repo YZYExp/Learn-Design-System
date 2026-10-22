@@ -1,0 +1,84 @@
+{
+  "version": 4,
+  "tool": "tingly-design@0.26.1021",
+  "native_creation_identity_preserved": true,
+  "installed_systems": [
+    {
+      "title": "野序 / FIELD NOTES · V4",
+      "namespace": "fieldnotes",
+      "artifact": "projects/field-system",
+      "version": "0ff43e60fb82",
+      "copiedAt": "2026-10-22T02:40:14.296Z"
+    }
+  ],
+  "canvas_check": {
+    "name": "field-canvas",
+    "kind": "design",
+    "problems": [],
+    "snapshots": [
+      "/workspace/scratch/0179e4a1de34/design-grammar/examples/creative-lab/field-canvas/renders/check/Main.png",
+      "/workspace/scratch/0179e4a1de34/design-grammar/examples/creative-lab/field-canvas/renders/check/Rules.png",
+      "/workspace/scratch/0179e4a1de34/design-grammar/examples/creative-lab/field-canvas/renders/check/Spread.png",
+      "/workspace/scratch/0179e4a1de34/design-grammar/examples/creative-lab/field-canvas/renders/check/Exhibition.png",
+      "/workspace/scratch/0179e4a1de34/design-grammar/examples/creative-lab/field-canvas/renders/check/Before.png",
+      "/workspace/scratch/0179e4a1de34/design-grammar/examples/creative-lab/field-canvas/renders/check/CropStudies.png"
+    ]
+  },
+  "system_check": {
+    "name": "field-system",
+    "kind": "design-system",
+    "problems": [],
+    "snapshots": [
+      "/workspace/scratch/0179e4a1de34/design-grammar/examples/creative-lab/field-system/renders/check/野序 - FIELD NOTES · V4-overview.png",
+      "/workspace/scratch/0179e4a1de34/design-grammar/examples/creative-lab/field-system/renders/check/野序 - FIELD NOTES · V4-colors.png",
+      "/workspace/scratch/0179e4a1de34/design-grammar/examples/creative-lab/field-system/renders/check/野序 - FIELD NOTES · V4-type.png",
+      "/workspace/scratch/0179e4a1de34/design-grammar/examples/creative-lab/field-system/renders/check/野序 - FIELD NOTES · V4-space.png",
+      "/workspace/scratch/0179e4a1de34/design-grammar/examples/creative-lab/field-system/renders/check/野序 - FIELD NOTES · V4-components.png",
+      "/workspace/scratch/0179e4a1de34/design-grammar/examples/creative-lab/field-system/renders/check/野序 - FIELD NOTES · V4-assets.png"
+    ]
+  },
+  "component_runtime": {
+    "passed": true,
+    "components": [
+      "Masthead",
+      "EditorialCaption",
+      "EventBadge",
+      "Cover"
+    ],
+    "screenshot": "renders/components/ActualComponents.png"
+  },
+  "export": {
+    "scale": 2,
+    "failed": [],
+    "normalized_files": [
+      "renders/export/Main.png",
+      "renders/export/Spread.png",
+      "renders/export/Exhibition.png",
+      "renders/export/Rules.png",
+      "renders/export/Before.png",
+      "renders/export/CropStudies.png"
+    ]
+  },
+  "design_changes": [
+    "Single-stem editorial photographic AI study replaces dense painted flowers.",
+    "Chinese identity reduced; genuine Nimbus Roman regular and italic handle English display.",
+    "Cover right-hand portrait, spread central photograph with outer columns, poster narrow calendar spine.",
+    "Before is a legible hierarchy counterexample; it deliberately avoids random low-contrast collisions."
+  ],
+  "v3_archive": "renders/v3",
+  "source": "source/build_field.py",
+  "font_rendering_note": "Canvas inline font families use unquoted CSS identifiers to avoid native parser quote-entity fallback. Actual serif appearance visually verified.",
+  "crop_identity_revision": {
+    "text": "同一AI生成图像的三种取景；非真实摄影记录",
+    "position": "浅纸底，标题与三张取景之间",
+    "source_synced": true,
+    "visual_checked": true,
+    "targeted_export": {
+      "board": "CropStudies.dc.html",
+      "scale": 2,
+      "file": "renders/export/CropStudies.png",
+      "failed": []
+    },
+    "other_board_exports_unchanged": true
+  }
+}

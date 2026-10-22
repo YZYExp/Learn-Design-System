@@ -1,0 +1,90 @@
+{
+  "v": 3,
+  "title": "野序 · Botanical Editorial Studio",
+  "createdOnFiles": {
+    "v": 1,
+    "at": "2026-10-22T01:30:37.664Z"
+  },
+  "boards": {
+    "Rules.dc.html": {
+      "x": 0,
+      "y": 0,
+      "w": 1600,
+      "h": 1120,
+      "title": "01 · 编辑语法"
+    },
+    "Main.dc.html": {
+      "x": 1680,
+      "y": 0,
+      "w": 1080,
+      "h": 1440,
+      "title": "02 · 封面"
+    },
+    "Spread.dc.html": {
+      "x": 2840,
+      "y": 0,
+      "w": 1800,
+      "h": 1200,
+      "title": "03 · 跨页文章"
+    },
+    "Exhibition.dc.html": {
+      "x": 0,
+      "y": 1560,
+      "w": 1080,
+      "h": 1440,
+      "title": "04 · 展览招贴"
+    },
+    "Before.dc.html": {
+      "x": 1160,
+      "y": 1560,
+      "w": 1080,
+      "h": 1440,
+      "title": "05 · 受控反例"
+    },
+    "CropStudies.dc.html": {
+      "x": 2320,
+      "y": 1560,
+      "w": 1800,
+      "h": 1060,
+      "title": "06 · 摄影取景"
+    }
+  },
+  "order": [
+    "Main.dc.html",
+    "Rules.dc.html",
+    "Spread.dc.html",
+    "Exhibition.dc.html",
+    "Before.dc.html",
+    "CropStudies.dc.html"
+  ],
+  "notes": {
+    "field-title": {
+      "kind": "title1",
+      "x": 0,
+      "y": -280,
+      "text": "野序 / FIELD NOTES · A closer look",
+      "maxW": 4400
+    },
+    "editorial-decision": {
+      "x": 1160,
+      "y": 3080,
+      "w": 1080,
+      "fill": "pink",
+      "size": 24,
+      "text": "V4不是图片替换：中文身份退到纸边，英文衬线承担语气；封面为边缘取景、跨页为靠近观看、广告为日期与照片并置。Before以同等音量造成层级问题。V3归档不进入画布order。"
+    }
+  },
+  "pages": [],
+  "launch": {
+    "view": "canvas"
+  },
+  "designSystems": [
+    {
+      "title": "野序 / FIELD NOTES · V4",
+      "namespace": "fieldnotes",
+      "artifact": "projects/field-system",
+      "version": "0ff43e60fb82",
+      "copiedAt": "2026-10-22T02:40:14.296Z"
+    }
+  ]
+}

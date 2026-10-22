@@ -1,0 +1,50 @@
+[
+  {
+    "file": "assets/images/reference-morris-daisy.jpg",
+    "artist": "William Morris",
+    "title": "Daisy",
+    "date": "1864",
+    "institution": "The Metropolitan Museum of Art",
+    "objectID": 384017,
+    "accessionNumber": "23.163.4b",
+    "medium": "Block-printed in distemper colors",
+    "objectURL": "https://www.metmuseum.org/art/collection/search/384017",
+    "imageURL": "https://images.metmuseum.org/CRDImages/dp/original/DP306732.jpg",
+    "isPublicDomain": true,
+    "license": "Public Domain / The Met Open Access (CC0)",
+    "licenseURL": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access",
+    "retrieved": "2026-10-21"
+  },
+  {
+    "file": "assets/images/reference-korin-yatsuhashi.jpg",
+    "artist": "Ogata Kōrin",
+    "title": "Irises at Yatsuhashi (Eight Bridges)",
+    "date": "after 1709",
+    "institution": "The Metropolitan Museum of Art",
+    "objectID": 39664,
+    "accessionNumber": "53.7.1, .2",
+    "medium": "Pair of six-panel folding screens; ink and color on gold leaf on paper",
+    "objectURL": "https://www.metmuseum.org/art/collection/search/39664",
+    "imageURL": "https://images.metmuseum.org/CRDImages/as/original/DT231.jpg",
+    "isPublicDomain": true,
+    "license": "Public Domain / The Met Open Access (CC0)",
+    "licenseURL": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access",
+    "retrieved": "2026-10-21"
+  },
+  {
+    "file": "assets/images/reference-naomasa-tsuba.jpg",
+    "artist": "Koike Izumi no Kami Naomasa",
+    "title": "Sword guard (<i>Tsuba</i>) Depicting Crests and Arabesques (家紋散唐草文鐔)",
+    "date": "late 16th–early 17th century",
+    "institution": "The Metropolitan Museum of Art",
+    "objectID": 30091,
+    "accessionNumber": "36.120.92",
+    "medium": "Iron, brass, copper",
+    "objectURL": "https://www.metmuseum.org/art/collection/search/30091",
+    "imageURL": "https://images.metmuseum.org/CRDImages/aa/original/36.120.92_001mar2014.jpg",
+    "isPublicDomain": true,
+    "license": "Public Domain / The Met Open Access (CC0)",
+    "licenseURL": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access",
+    "retrieved": "2026-10-21"
+  }
+]

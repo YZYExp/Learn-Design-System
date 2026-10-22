@@ -1,0 +1,489 @@
+{
+  "created": "2026-10-21",
+  "images": [
+    {
+      "file": "assets/images/revision-presentations-ae-tutorial.png",
+      "kind": "real_artwork",
+      "title": "Michael Alley团队Assertion–Evidence教程例页",
+      "creator": "Michael Alley团队；页内实验图标Settles et al., 2002",
+      "source_page": "https://www.craftscicom.org/ae_tutorial.html",
+      "source_image_or_pdf": "https://www.craftscicom.org/uploads/5/6/1/4/56145985/screenshot-2026-07-07-141546_orig.png",
+      "retrieved": "2026-10-21",
+      "rights": "作者站公开教程原图；未获开放再许可，保留相应权利。用于本书具体评论；斜带为原图一部分。",
+      "size": [
+        767,
+        571
+      ],
+      "sha256": "5eb656f7c1e5ef13c9f7cb91f5a280fa4499b49623ea01a49c37b08390aa4237",
+      "ai_generated": false,
+      "provenance_kind": "actual-work-reproduction"
+    },
+    {
+      "file": "assets/images/revision-presentations-nasa-page-6.png",
+      "kind": "real_artwork",
+      "title": "NASA HEO Committee Report PDF第6页",
+      "creator": "N. Wayne Hale, Jr.署名报告，NASA Advisory Council，2022-08-10",
+      "source_page": "https://www.nasa.gov/wp-content/uploads/2022/08/nac_human_exploration_and_operations_heo_committee_report_august_2022.pdf",
+      "source_image_or_pdf": "https://www.nasa.gov/wp-content/uploads/2022/08/nac_human_exploration_and_operations_heo_committee_report_august_2022.pdf",
+      "retrieved": "2026-10-21",
+      "rights": "NASA官方PDF整页栅格化；页内合作机构图像、名称和标志保留相应权利，不统一改标CC。历史计划非当前排期。",
+      "size": [
+        1344,
+        756
+      ],
+      "sha256": "9fe60896093029dcb59b583deaf7d74d09aabaccf23f8902775f159a04fee050",
+      "ai_generated": false,
+      "provenance_kind": "actual-work-reproduction"
+    },
+    {
+      "file": "assets/images/revision-presentations-nasa-page-8.png",
+      "kind": "real_artwork",
+      "title": "NASA HEO Committee Report PDF第8页，备查源图未在新增章使用",
+      "creator": "N. Wayne Hale, Jr.署名报告，NASA Advisory Council，2022-08-10",
+      "source_page": "https://www.nasa.gov/wp-content/uploads/2022/08/nac_human_exploration_and_operations_heo_committee_report_august_2022.pdf",
+      "source_image_or_pdf": "https://www.nasa.gov/wp-content/uploads/2022/08/nac_human_exploration_and_operations_heo_committee_report_august_2022.pdf",
+      "retrieved": "2026-10-21",
+      "rights": "NASA官方PDF整页栅格化；页内合作机构图像、名称和标志保留相应权利，不统一改标CC。历史资料。",
+      "size": [
+        1344,
+        756
+      ],
+      "sha256": "cf26552e4f1b1da61ba5d40a578a1aa1081bd8f45b2780bee18f877ec351b1e6",
+      "ai_generated": false,
+      "provenance_kind": "actual-work-reproduction"
+    },
+    {
+      "file": "assets/images/revision-presentations-nasa-page-11.png",
+      "kind": "real_artwork",
+      "title": "NASA HEO Committee Report PDF第11页，Artemis II轨迹",
+      "creator": "N. Wayne Hale, Jr.署名报告，NASA Advisory Council，2022-08-10；页内10/7/2021",
+      "source_page": "https://www.nasa.gov/wp-content/uploads/2022/08/nac_human_exploration_and_operations_heo_committee_report_august_2022.pdf",
+      "source_image_or_pdf": "https://www.nasa.gov/wp-content/uploads/2022/08/nac_human_exploration_and_operations_heo_committee_report_august_2022.pdf",
+      "retrieved": "2026-10-21",
+      "rights": "NASA官方PDF整页栅格化；名称与标志保留相应权利。示意非真实距离比例。历史任务计划，不代表当前日期或轨迹。",
+      "size": [
+        1344,
+        756
+      ],
+      "sha256": "c9ee63bad7dc63800bc195e66d2bf32d63b85d802d17c2a0ce95cd5d0ab8d045",
+      "ai_generated": false,
+      "provenance_kind": "actual-work-reproduction"
+    },
+    {
+      "file": "assets/images/revision-magazines-ver-sacrum-1898.jpg",
+      "kind": "real_artwork",
+      "title": "Ver Sacrum 1898年1月创刊封面",
+      "creator": "Alfred Roller，1898",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Ver_Sacrum,_Issue_1,_January_1898.jpg",
+      "source_image_or_pdf": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Ver_Sacrum%2C_Issue_1%2C_January_1898.jpg",
+      "retrieved": "2026-10-21",
+      "rights": "Commons文件页标PD-Art (PD-old-70)，原图来源Ader Paris。本书没有从海德堡大学或Leopold Museum下载该图。",
+      "size": [
+        1467,
+        1600
+      ],
+      "sha256": "8e4ced181b6cde6752aef952bdb4f095bbda02804d7cbd978a6bbf7b74a8163b",
+      "ai_generated": false,
+      "provenance_kind": "actual-work-reproduction"
+    },
+    {
+      "file": "assets/images/revision-magazines-life-1936-cover.jpg",
+      "kind": "real_artwork",
+      "title": "LIFE 1936-11-23创刊号封面",
+      "creator": "Margaret Bourke-White / The LIFE Picture Collection",
+      "source_page": "https://www.life.com/photographer/margaret-bourke-white/",
+      "source_image_or_pdf": "https://static.life.com/wp-content/uploads/migrated/2012/11/150330-fort-peck-dam-34-756x1024.jpg",
+      "retrieved": "2026-10-21",
+      "rights": "©相应作者与The LIFE Picture Collection，官方保留版权；用于具体原作结构评论，不纳入本书原创许可。",
+      "size": [
+        756,
+        1024
+      ],
+      "sha256": "a30bd10eb7331d2305530dbff9e4fb703e9f68e7515bd805e479695343cdac2f",
+      "ai_generated": false,
+      "provenance_kind": "actual-work-reproduction"
+    },
+    {
+      "file": "assets/images/revision-magazines-life-1936-spread.jpg",
+      "kind": "real_artwork",
+      "title": "LIFE 1936-11-23第9页（单页，文件名spread不代表跨页）",
+      "creator": "Margaret Bourke-White / The LIFE Picture Collection",
+      "source_page": "https://www.life.com/history/lifes-first-ever-cover-story-building-the-fort-peck-dam-1936/",
+      "source_image_or_pdf": "https://static.life.com/wp-content/uploads/migrated/2012/11/150330-fort-peck-dam-35.jpg",
+      "retrieved": "2026-10-21",
+      "rights": "©相应作者与The LIFE Picture Collection，官方保留版权；用于具体原作结构评论，不纳入本书原创许可。",
+      "size": [
+        738,
+        1000
+      ],
+      "sha256": "a4b5d48e733863eb9f1a720b9bc23cc66c0dca734d564f1785cf000815872b1d",
+      "ai_generated": false,
+      "provenance_kind": "actual-work-reproduction"
+    },
+    {
+      "file": "assets/images/revision-magazines-ad-boundary.png",
+      "kind": "original_teaching",
+      "source_file": null,
+      "script": "scripts/render_revision_presentations_magazines.py",
+      "rights": "Original teaching material; no external artwork reproduced in this image.",
+      "fictitious_data": "All museum visitor counts, capacity, staffing, tests and market editorial scenarios are fictitious.",
+      "size": [
+        1920,
+        1080
+      ],
+      "sha256": "080d72f151b5bf083a1c3478d72c18b5d574b9b73d94447dc84df5464d682e63",
+      "ai_generated": false,
+      "provenance_kind": "original-programmatic-teaching-layout"
+    },
+    {
+      "file": "assets/images/revision-magazines-cover-edit.png",
+      "kind": "original_teaching",
+      "source_file": null,
+      "script": "scripts/render_revision_presentations_magazines.py",
+      "rights": "Original teaching material; no external artwork reproduced in this image.",
+      "fictitious_data": "All museum visitor counts, capacity, staffing, tests and market editorial scenarios are fictitious.",
+      "size": [
+        1920,
+        1080
+      ],
+      "sha256": "649cfc8268c01b3a4862004476a4f1bbbac295c31753d7813de6bbcc8c735bb6",
+      "ai_generated": false,
+      "provenance_kind": "original-programmatic-teaching-layout"
+    },
+    {
+      "file": "assets/images/revision-magazines-eight-pages.png",
+      "kind": "original_teaching",
+      "source_file": null,
+      "script": "scripts/render_revision_presentations_magazines.py",
+      "rights": "Original teaching material; no external artwork reproduced in this image.",
+      "fictitious_data": "All museum visitor counts, capacity, staffing, tests and market editorial scenarios are fictitious.",
+      "size": [
+        1920,
+        1080
+      ],
+      "sha256": "c44522c76ec5547efe46270cdb6b4e423dd030f811ad3f73aa8cf1fcdafb2124",
+      "ai_generated": false,
+      "provenance_kind": "original-programmatic-teaching-layout"
+    },
+    {
+      "file": "assets/images/revision-magazines-life-cover-analysis.png",
+      "kind": "original_analysis",
+      "source_file": "assets/images/revision-magazines-life-1936-cover.jpg",
+      "script": "scripts/render_revision_presentations_magazines.py",
+      "rights": "Underlying artwork retains original rights; added annotations are original teaching material.",
+      "fictitious_data": null,
+      "size": [
+        1920,
+        1080
+      ],
+      "sha256": "125f1f6e2f313bdfd3375444a5f93fd28ba87bef853127ae6a69cf321632a27f",
+      "ai_generated": false,
+      "provenance_kind": "original-annotation-of-actual-work"
+    },
+    {
+      "file": "assets/images/revision-magazines-life-page9-analysis.png",
+      "kind": "original_analysis",
+      "source_file": "assets/images/revision-magazines-life-1936-spread.jpg",
+      "script": "scripts/render_revision_presentations_magazines.py",
+      "rights": "Underlying artwork retains original rights; added annotations are original teaching material.",
+      "fictitious_data": null,
+      "size": [
+        1920,
+        1080
+      ],
+      "sha256": "3f2ab623d08971233dadae2ccc35ad73a5626402aedae0470f80694900923dd6",
+      "ai_generated": false,
+      "provenance_kind": "original-annotation-of-actual-work"
+    },
+    {
+      "file": "assets/images/revision-magazines-spread-edit-0.png",
+      "kind": "original_teaching",
+      "source_file": null,
+      "script": "scripts/render_revision_presentations_magazines.py",
+      "rights": "Original teaching material; no external artwork reproduced in this image.",
+      "fictitious_data": "All museum visitor counts, capacity, staffing, tests and market editorial scenarios are fictitious.",
+      "size": [
+        1920,
+        1080
+      ],
+      "sha256": "f39027abf86acfa544bd4fb35ad19455995531bf00e73a9ce918a1d42dce3516",
+      "ai_generated": false,
+      "provenance_kind": "original-programmatic-teaching-layout"
+    },
+    {
+      "file": "assets/images/revision-magazines-spread-edit-1.png",
+      "kind": "original_teaching",
+      "source_file": null,
+      "script": "scripts/render_revision_presentations_magazines.py",
+      "rights": "Original teaching material; no external artwork reproduced in this image.",
+      "fictitious_data": "All museum visitor counts, capacity, staffing, tests and market editorial scenarios are fictitious.",
+      "size": [
+        1920,
+        1080
+      ],
+      "sha256": "96e146709bb114be507270ad8a96a125ce7542470e2132e4ef896531ace146a5",
+      "ai_generated": false,
+      "provenance_kind": "original-programmatic-teaching-layout"
+    },
+    {
+      "file": "assets/images/revision-magazines-spread-edit-2.png",
+      "kind": "original_teaching",
+      "source_file": null,
+      "script": "scripts/render_revision_presentations_magazines.py",
+      "rights": "Original teaching material; no external artwork reproduced in this image.",
+      "fictitious_data": "All museum visitor counts, capacity, staffing, tests and market editorial scenarios are fictitious.",
+      "size": [
+        1920,
+        1080
+      ],
+      "sha256": "ca5bf4efeacaff2e16b78c31dbb7b3b6af0730b5b27e791171cc267e476b939a",
+      "ai_generated": false,
+      "provenance_kind": "original-programmatic-teaching-layout"
+    },
+    {
+      "file": "assets/images/revision-magazines-spread-edit-3.png",
+      "kind": "original_teaching",
+      "source_file": null,
+      "script": "scripts/render_revision_presentations_magazines.py",
+      "rights": "Original teaching material; no external artwork reproduced in this image.",
+      "fictitious_data": "All museum visitor counts, capacity, staffing, tests and market editorial scenarios are fictitious.",
+      "size": [
+        1920,
+        1080
+      ],
+      "sha256": "80db7f5a82dc69d714d84f4fb907c07467c2e326de098228cf3c2a4dccd0163c",
+      "ai_generated": false,
+      "provenance_kind": "original-programmatic-teaching-layout"
+    },
+    {
+      "file": "assets/images/revision-magazines-ver-sacrum-analysis.png",
+      "kind": "original_analysis",
+      "source_file": "assets/images/revision-magazines-ver-sacrum-1898.jpg",
+      "script": "scripts/render_revision_presentations_magazines.py",
+      "rights": "Underlying artwork retains original rights; added annotations are original teaching material.",
+      "fictitious_data": null,
+      "size": [
+        1920,
+        1080
+      ],
+      "sha256": "a1b4e7ee8b9f1237b918cfe5d9dcde2f5a4703fe93ece5521743ec3b2997d25e",
+      "ai_generated": false,
+      "provenance_kind": "original-annotation-of-actual-work"
+    },
+    {
+      "file": "assets/images/revision-presentations-edit-0.png",
+      "kind": "original_teaching",
+      "source_file": null,
+      "script": "scripts/render_revision_presentations_magazines.py",
+      "rights": "Original teaching material; no external artwork reproduced in this image.",
+      "fictitious_data": "All museum visitor counts, capacity, staffing, tests and market editorial scenarios are fictitious.",
+      "size": [
+        1920,
+        1080
+      ],
+      "sha256": "1652c7680b8d346d7aceaae06ebc81ecd0f2a2c6143f90a2060b2de728e6356a",
+      "ai_generated": false,
+      "provenance_kind": "original-programmatic-teaching-layout"
+    },
+    {
+      "file": "assets/images/revision-presentations-edit-1.png",
+      "kind": "original_teaching",
+      "source_file": null,
+      "script": "scripts/render_revision_presentations_magazines.py",
+      "rights": "Original teaching material; no external artwork reproduced in this image.",
+      "fictitious_data": "All museum visitor counts, capacity, staffing, tests and market editorial scenarios are fictitious.",
+      "size": [
+        1920,
+        1080
+      ],
+      "sha256": "59efdb4bf23e7fd6b6d2d49848752210bc99a84bf95b21ad9b720765d1900bf8",
+      "ai_generated": false,
+      "provenance_kind": "original-programmatic-teaching-layout"
+    },
+    {
+      "file": "assets/images/revision-presentations-edit-2.png",
+      "kind": "original_teaching",
+      "source_file": null,
+      "script": "scripts/render_revision_presentations_magazines.py",
+      "rights": "Original teaching material; no external artwork reproduced in this image.",
+      "fictitious_data": "All museum visitor counts, capacity, staffing, tests and market editorial scenarios are fictitious.",
+      "size": [
+        1920,
+        1080
+      ],
+      "sha256": "dc938c96c4355ec20201480363583545ea6e74ca4b66c3ac57bfb740da3c8372",
+      "ai_generated": false,
+      "provenance_kind": "original-programmatic-teaching-layout"
+    },
+    {
+      "file": "assets/images/revision-presentations-edit-3.png",
+      "kind": "original_teaching",
+      "source_file": null,
+      "script": "scripts/render_revision_presentations_magazines.py",
+      "rights": "Original teaching material; no external artwork reproduced in this image.",
+      "fictitious_data": "All museum visitor counts, capacity, staffing, tests and market editorial scenarios are fictitious.",
+      "size": [
+        1920,
+        1080
+      ],
+      "sha256": "c02f977ed5ea09e2301991ddd5a8b940224222d836320d79b0a498d61f98e632",
+      "ai_generated": false,
+      "provenance_kind": "original-programmatic-teaching-layout"
+    },
+    {
+      "file": "assets/images/revision-presentations-nasa-analysis.png",
+      "kind": "original_analysis",
+      "source_file": "assets/images/revision-presentations-nasa-page-11.png",
+      "script": "scripts/render_revision_presentations_magazines.py",
+      "rights": "Underlying artwork retains original rights; added annotations are original teaching material.",
+      "fictitious_data": null,
+      "size": [
+        1920,
+        1080
+      ],
+      "sha256": "3680b8582d091629a2d47038c1ec5e47f0906392ef84a1c864c485098e705f0e",
+      "ai_generated": false,
+      "provenance_kind": "original-annotation-of-actual-work"
+    },
+    {
+      "file": "assets/images/revision-presentations-report-01.png",
+      "kind": "original_teaching",
+      "source_file": null,
+      "script": "scripts/render_revision_presentations_magazines.py",
+      "rights": "Original teaching material; no external artwork reproduced in this image.",
+      "fictitious_data": "All museum visitor counts, capacity, staffing, tests and market editorial scenarios are fictitious.",
+      "size": [
+        1920,
+        1080
+      ],
+      "sha256": "4c84b92a608fdcec5588f7b7e263e8adfbbe166e7a49eb8f995a9a797f619734",
+      "ai_generated": false,
+      "provenance_kind": "original-programmatic-teaching-layout"
+    },
+    {
+      "file": "assets/images/revision-presentations-report-02.png",
+      "kind": "original_teaching",
+      "source_file": null,
+      "script": "scripts/render_revision_presentations_magazines.py",
+      "rights": "Original teaching material; no external artwork reproduced in this image.",
+      "fictitious_data": "All museum visitor counts, capacity, staffing, tests and market editorial scenarios are fictitious.",
+      "size": [
+        1920,
+        1080
+      ],
+      "sha256": "d421065722a16c0370c9f35cb3bfc209a135d35122f22e73024f43ab4077049e",
+      "ai_generated": false,
+      "provenance_kind": "original-programmatic-teaching-layout"
+    },
+    {
+      "file": "assets/images/revision-presentations-report-03.png",
+      "kind": "original_teaching",
+      "source_file": null,
+      "script": "scripts/render_revision_presentations_magazines.py",
+      "rights": "Original teaching material; no external artwork reproduced in this image.",
+      "fictitious_data": "All museum visitor counts, capacity, staffing, tests and market editorial scenarios are fictitious.",
+      "size": [
+        1920,
+        1080
+      ],
+      "sha256": "031deaec4f13e96d90291907cbac88a68eea7be38fada63e108f14174130c583",
+      "ai_generated": false,
+      "provenance_kind": "original-programmatic-teaching-layout"
+    },
+    {
+      "file": "assets/images/revision-presentations-report-04.png",
+      "kind": "original_teaching",
+      "source_file": null,
+      "script": "scripts/render_revision_presentations_magazines.py",
+      "rights": "Original teaching material; no external artwork reproduced in this image.",
+      "fictitious_data": "All museum visitor counts, capacity, staffing, tests and market editorial scenarios are fictitious.",
+      "size": [
+        1920,
+        1080
+      ],
+      "sha256": "fc3292658128bbe57769ddd1515e78e4a14b8f289448c3030b695ba631aefb54",
+      "ai_generated": false,
+      "provenance_kind": "original-programmatic-teaching-layout"
+    },
+    {
+      "file": "assets/images/revision-presentations-report-05.png",
+      "kind": "original_teaching",
+      "source_file": null,
+      "script": "scripts/render_revision_presentations_magazines.py",
+      "rights": "Original teaching material; no external artwork reproduced in this image.",
+      "fictitious_data": "All museum visitor counts, capacity, staffing, tests and market editorial scenarios are fictitious.",
+      "size": [
+        1920,
+        1080
+      ],
+      "sha256": "bf91e7663f5bec1aad91048c0d89ae94eb6e53f23e3d33b31aafe9d8a3cf363f",
+      "ai_generated": false,
+      "provenance_kind": "original-programmatic-teaching-layout"
+    },
+    {
+      "file": "assets/images/revision-presentations-report-06.png",
+      "kind": "original_teaching",
+      "source_file": null,
+      "script": "scripts/render_revision_presentations_magazines.py",
+      "rights": "Original teaching material; no external artwork reproduced in this image.",
+      "fictitious_data": "All museum visitor counts, capacity, staffing, tests and market editorial scenarios are fictitious.",
+      "size": [
+        1920,
+        1080
+      ],
+      "sha256": "a478ec24d0bd2c0e2bf7327d6468b1c856c6599c009ab48ca68494d74dff28cd",
+      "ai_generated": false,
+      "provenance_kind": "original-programmatic-teaching-layout"
+    },
+    {
+      "file": "assets/images/revision-presentations-report-07.png",
+      "kind": "original_teaching",
+      "source_file": null,
+      "script": "scripts/render_revision_presentations_magazines.py",
+      "rights": "Original teaching material; no external artwork reproduced in this image.",
+      "fictitious_data": "All museum visitor counts, capacity, staffing, tests and market editorial scenarios are fictitious.",
+      "size": [
+        1920,
+        1080
+      ],
+      "sha256": "f1a529e69a8083ab937792148b71a2fa98a1a7b57f204802e4b66bd741e33aa9",
+      "ai_generated": false,
+      "provenance_kind": "original-programmatic-teaching-layout"
+    },
+    {
+      "file": "assets/images/revision-presentations-report-08.png",
+      "kind": "original_teaching",
+      "source_file": null,
+      "script": "scripts/render_revision_presentations_magazines.py",
+      "rights": "Original teaching material; no external artwork reproduced in this image.",
+      "fictitious_data": "All museum visitor counts, capacity, staffing, tests and market editorial scenarios are fictitious.",
+      "size": [
+        1920,
+        1080
+      ],
+      "sha256": "4ed30d81638dd59295990b876bfec70d81701f2c458065d73b1f4e3d7c83f98a",
+      "ai_generated": false,
+      "provenance_kind": "original-programmatic-teaching-layout"
+    },
+    {
+      "file": "assets/images/revision-presentations-report-sequence.png",
+      "kind": "original_teaching",
+      "source_file": null,
+      "script": "scripts/render_revision_presentations_magazines.py",
+      "rights": "Original teaching material; no external artwork reproduced in this image.",
+      "fictitious_data": "All museum visitor counts, capacity, staffing, tests and market editorial scenarios are fictitious.",
+      "size": [
+        1920,
+        2160
+      ],
+      "sha256": "ffd1bb92655f6be2b6463f41373b9ddaa8f94bee3906d09adc570ed5e3d5856a",
+      "ai_generated": false,
+      "provenance_kind": "original-programmatic-teaching-layout"
+    }
+  ],
+  "notes": [
+    "No originals were redrawn or generated.",
+    "Original market illustrations are programmatic illustrations, not documentary photographs.",
+    "No editable PPTX was produced; actual eight-page PNG report and source renderer are included."
+  ]
+}

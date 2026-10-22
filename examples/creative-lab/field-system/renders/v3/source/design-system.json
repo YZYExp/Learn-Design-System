@@ -1,0 +1,30 @@
+{
+  "v": 3,
+  "layout": "files",
+  "createdOnFiles": {
+    "v": 1,
+    "at": "2026-10-22T01:30:37.384Z"
+  },
+  "title": "野序 / FIELD NOTES",
+  "namespace": "FieldNotes",
+  "libraries": [],
+  "sections": {},
+  "groups": [
+    {
+      "id": "Editorial",
+      "name": "Editorial"
+    }
+  ],
+  "assetGroups": {},
+  "blobs": {},
+  "docs": {
+    "readme": "project/README.md",
+    "sections": []
+  },
+  "lastChange": {
+    "by": "Claude",
+    "at": "2026-10-22T01:30:37.384Z",
+    "via": "tingly-design",
+    "note": "created"
+  }
+}

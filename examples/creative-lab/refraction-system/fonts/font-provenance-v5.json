@@ -1,0 +1,36 @@
+{
+  "serif_chinese": {
+    "family": "Noto Serif CJK SC",
+    "weight": 500,
+    "upstream": "https://github.com/notofonts/noto-cjk/tree/main/Serif",
+    "download_url": "https://raw.githubusercontent.com/notofonts/noto-cjk/main/Serif/OTF/SimplifiedChinese/NotoSerifCJKsc-Medium.otf",
+    "license": "RefractionSong-OFL.txt"
+  },
+  "serif_latin": {
+    "family": "Nimbus Roman",
+    "source_in_project": "field-system/fonts/FieldSerif.otf and FieldSerif-Italic.otf",
+    "license": "URW-COPYRIGHT.txt"
+  },
+  "files": [
+    {
+      "file": "RefractionSong.otf",
+      "sha256": "19322be2ecf5dd2abd546db7a86cc83c286026cbd28593583bfcfd721e48c9fe",
+      "size_bytes": 24805308
+    },
+    {
+      "file": "RefractionLatin.otf",
+      "sha256": "fd41669443616a7ae890c42e53a58f47fa24a940fd1e367acaff665cf5b6e9d8",
+      "size_bytes": 98200
+    },
+    {
+      "file": "RefractionLatin-Italic.otf",
+      "sha256": "b7c424e6cb79baddfcdcd9a9d87f9fc4fdd06f0e5160066e2b2e47bcd647c7b9",
+      "size_bytes": 105684
+    },
+    {
+      "file": "NotoSansSC-Regular.ttf",
+      "sha256": "546d1261fa6abab372837e9053439731b585fe10b0bffac51930e51ef3051b65",
+      "size_bytes": 10596288
+    }
+  ]
+}

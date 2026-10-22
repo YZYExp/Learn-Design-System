@@ -1,0 +1,93 @@
+/* 隙间 / STILL — generated from tokens.json */
+
+:root, [data-theme="light"] {
+  --surface: #E9DFCF;
+  --surface-raised: #F5F0E7;
+  --ink: #332C25;
+  --ink-muted: #655A4E;
+  --accent: #173F37;
+  --on-accent: #F5F0E7;
+  --terracotta: #A74E32;
+  --clay-text: #954128;
+  --line: #A79C89;
+  --photo-bed: #D8CEBC;
+  --shadow-soft: 0 8px 30px rgba(51,44,37,0.06);
+}
+
+[data-theme="night"] {
+  --surface: #173F37;
+  --surface-raised: #214F45;
+  --ink: #F5F0E7;
+  --ink-muted: #D8CEBC;
+  --accent: #E9DFCF;
+  --on-accent: #173F37;
+  --terracotta: #E6AA8E;
+  --clay-text: #E6AA8E;
+  --line: #6E887D;
+  --photo-bed: #102E27;
+}
+
+:root {
+  --space-4: 4px;
+  --space-8: 8px;
+  --space-16: 16px;
+  --space-24: 24px;
+  --space-40: 40px;
+  --space-64: 64px;
+  --space-96: 96px;
+  --radius-none: 0px;
+  --radius-small: 2px;
+  --radius-pill: 40px;
+  --font-sans: "STILL Sans", "Noto Sans SC", sans-serif;
+  --font-editorial: Georgia, "Times New Roman", serif;
+}
+
+.display {
+  font-family: var(--font-sans);
+  font-size: 76px;
+  line-height: 1.18;
+  font-weight: 400;
+}
+
+.title {
+  font-family: var(--font-sans);
+  font-size: 44px;
+  line-height: 1.28;
+  font-weight: 400;
+}
+
+.subtitle {
+  font-family: var(--font-sans);
+  font-size: 24px;
+  line-height: 1.45;
+  font-weight: 400;
+}
+
+.body {
+  font-family: var(--font-sans);
+  font-size: 18px;
+  line-height: 1.7;
+  font-weight: 400;
+}
+
+.caption {
+  font-family: var(--font-sans);
+  font-size: 14px;
+  line-height: 1.55;
+  font-weight: 400;
+}
+
+.wordmark {
+  font-family: var(--font-editorial);
+  font-size: 72px;
+  line-height: 1;
+  font-weight: 400;
+  letter-spacing: 4px;
+}
+
+@font-face {
+  font-family: "STILL Sans";
+  src: url("fonts/NotoSansSC-Regular.ttf") format("truetype");
+  font-weight: 400;
+  font-display: swap;
+}

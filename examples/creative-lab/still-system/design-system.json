@@ -1,0 +1,33 @@
+{
+  "v": 3,
+  "layout": "files",
+  "createdOnFiles": {
+    "v": 1,
+    "at": "2026-10-22T01:30:01.574Z"
+  },
+  "title": "隙间 / STILL",
+  "namespace": "STILL",
+  "libraries": [],
+  "sections": {},
+  "groups": [
+    {
+      "name": "产品与行动"
+    }
+  ],
+  "assetGroups": {
+    "Photography": {
+      "title": "材料与场景摄影"
+    }
+  },
+  "blobs": {},
+  "docs": {
+    "readme": "project/README.md",
+    "sections": []
+  },
+  "lastChange": {
+    "by": "Codex",
+    "at": "2026-10-22T03:01:43.686882+00:00",
+    "via": "native-files",
+    "note": "V4：纸白、石墨、橄榄、鲜橙；编辑品牌与间隙图形"
+  }
+}

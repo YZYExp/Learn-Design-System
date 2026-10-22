@@ -1,0 +1,92 @@
+{
+  "v": 3,
+  "title": "隙间 / STILL · 从品牌规则到订阅",
+  "createdOnFiles": {
+    "v": 1,
+    "at": "2026-10-22T01:30:02.107Z"
+  },
+  "boards": {
+    "Main.dc.html": {
+      "x": 0,
+      "y": 0,
+      "w": 1600,
+      "h": 1000,
+      "title": "01 品牌规则"
+    },
+    "Campaign.dc.html": {
+      "x": 1680,
+      "y": 0,
+      "w": 1600,
+      "h": 900,
+      "title": "02 摄影广告"
+    },
+    "Packaging.dc.html": {
+      "x": 3360,
+      "y": 0,
+      "w": 1600,
+      "h": 1050,
+      "title": "03 包装平面"
+    },
+    "Subscription.dc.html": {
+      "x": 0,
+      "y": 1170,
+      "w": 1440,
+      "h": 1100,
+      "title": "04 订阅电商",
+      "is_interactive": true
+    },
+    "Stress.dc.html": {
+      "x": 1520,
+      "y": 1170,
+      "w": 1440,
+      "h": 1100,
+      "title": "05 夜间与长文本"
+    },
+    "ProductCard.dc.html": {
+      "x": 3040,
+      "y": 1170,
+      "w": 405,
+      "h": 240,
+      "title": "组件 / ProductCard",
+      "hidden": true
+    }
+  },
+  "order": [
+    "Main.dc.html",
+    "Campaign.dc.html",
+    "Packaging.dc.html",
+    "Subscription.dc.html",
+    "Stress.dc.html",
+    "ProductCard.dc.html"
+  ],
+  "notes": {
+    "title": {
+      "kind": "title1",
+      "x": 0,
+      "y": -250,
+      "text": "隙间 / STILL：从材料到行动",
+      "maxW": 4960
+    },
+    "n1": {
+      "x": 3360,
+      "y": 1170,
+      "w": 600,
+      "fill": "gray",
+      "size": 24,
+      "text": "V4：纸白、石墨、橄榄、鲜橙。条纹／等高线／轨道保留间隙。AI图仅为情境；黄色果实不作物种判断。所有商品与价格为虚构教学内容。"
+    }
+  },
+  "pages": [],
+  "launch": {
+    "view": "canvas"
+  },
+  "designSystems": [
+    {
+      "title": "隙间 / STILL",
+      "namespace": "still",
+      "artifact": "../still-system",
+      "version": 4,
+      "copiedAt": "2026-10-22T03:01:43.686882+00:00"
+    }
+  ]
+}

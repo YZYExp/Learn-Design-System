@@ -1,0 +1,90 @@
+{
+  "v": 3,
+  "title": "野序 · Botanical Editorial Studio",
+  "createdOnFiles": {
+    "v": 1,
+    "at": "2026-10-22T01:30:37.664Z"
+  },
+  "boards": {
+    "Rules.dc.html": {
+      "x": 0,
+      "y": 0,
+      "w": 1600,
+      "h": 1120,
+      "title": "01 · 编辑规则"
+    },
+    "Main.dc.html": {
+      "x": 1680,
+      "y": 0,
+      "w": 1080,
+      "h": 1440,
+      "title": "02 · 封面完成稿"
+    },
+    "Spread.dc.html": {
+      "x": 2840,
+      "y": 0,
+      "w": 1800,
+      "h": 1200,
+      "title": "03 · 双页文章"
+    },
+    "Exhibition.dc.html": {
+      "x": 0,
+      "y": 1560,
+      "w": 1080,
+      "h": 1440,
+      "title": "04 · 花展广告"
+    },
+    "Before.dc.html": {
+      "x": 1160,
+      "y": 1560,
+      "w": 1080,
+      "h": 1440,
+      "title": "05 · 封面初稿（比较）"
+    },
+    "CropStudies.dc.html": {
+      "x": 2320,
+      "y": 1560,
+      "w": 1800,
+      "h": 1000,
+      "title": "06 · 裁切与改稿"
+    }
+  },
+  "order": [
+    "Rules.dc.html",
+    "Main.dc.html",
+    "Spread.dc.html",
+    "Exhibition.dc.html",
+    "Before.dc.html",
+    "CropStudies.dc.html"
+  ],
+  "notes": {
+    "field-title": {
+      "kind": "title1",
+      "x": 0,
+      "y": -280,
+      "text": "野序 / FIELD NOTES · 纸上的花期",
+      "maxW": 4400
+    },
+    "iteration": {
+      "x": 1160,
+      "y": 3080,
+      "w": 1080,
+      "fill": "pink",
+      "size": 24,
+      "text": "保留初稿供比较：直接压花瓣的文字对比不稳定。完成稿将刊名、专题、期号移入独立纸色区。初稿不作为可交付封面。"
+    }
+  },
+  "pages": [],
+  "launch": {
+    "view": "canvas"
+  },
+  "designSystems": [
+    {
+      "title": "野序 / FIELD NOTES",
+      "namespace": "fieldnotes",
+      "artifact": "projects/field-system",
+      "version": "f7366b8f35f3",
+      "copiedAt": "2026-10-22T01:32:03.645Z"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+name: Build illustrated book
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  pdf:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v7
+      - uses: actions/setup-python@v7
+        with:
+          python-version: '3.12'
+          cache: pip
+      - name: Install dependencies
+        run: python -m pip install -r requirements.txt
+      - name: Build full book
+        run: |
+          python scripts/restore_native_fonts.py
+          python scripts/build_book.py
+      - name: Validate PDF and artwork
+        run: |
+          python scripts/check_book.py --render
+          python scripts/check_book_embedding.py
+      - name: Upload PDF and validation reports
+        uses: actions/upload-artifact@v7
+        with:
+          name: design-grammar-v5-pdf
+          path: |
+            build/design-grammar.pdf
+            build/check-report.json
+            references/embedded-artwork-current-audit.json
+          retention-days: 90
+          if-no-files-found: error

@@ -1,0 +1,10 @@
+{
+  "passed": true,
+  "components": [
+    "Masthead",
+    "EditorialCaption",
+    "EventBadge",
+    "Cover"
+  ],
+  "screenshot": "renders/components/ActualComponents.png"
+}

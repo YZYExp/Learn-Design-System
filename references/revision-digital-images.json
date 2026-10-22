@@ -1,0 +1,247 @@
+[
+  {
+    "file": "assets/images/revision-digital-molnar.jpg",
+    "download_url": "https://assets-cdn.vam.ac.uk/2026/08/26/12/37/49/42a96a25-e7f5-4b78-b0c2-024abdf8f474/1280.jpg",
+    "title": "Untitled (Imaginer, Construire), museum E.999-2008",
+    "creator": "Vera Molnár",
+    "date": "1985",
+    "source_url": "https://www.vam.ac.uk/exhibitions/degrees-of-disruption-vera-molnar-and-generative-art",
+    "rights": "© Victoria and Albert Museum, London；作品版权保留",
+    "use": "书内研究与评论引图；非开放许可声明；二次出版需另核权限",
+    "kind": "real_artwork",
+    "filename": "revision-digital-molnar.jpg"
+  },
+  {
+    "file": "assets/images/revision-digital-lewitt.jpg",
+    "download_url": "https://massmoca.org/wp-content/uploads/2015/12/797-1.jpg",
+    "title": "Wall Drawing 797，MASS MoCA安装视图",
+    "creator": "Sol LeWitt",
+    "date": "1995（作品）",
+    "source_url": "https://massmoca.org/event/walldrawing797/",
+    "rights": "© Sol LeWitt作品权利人；图片来自MASS MoCA，未见单独摄影署名，权利保留",
+    "use": "书内研究与评论引图；非开放许可声明；二次出版需另核权限",
+    "kind": "real_artwork",
+    "filename": "revision-digital-lewitt.jpg"
+  },
+  {
+    "file": "assets/images/revision-digital-becher.jpg",
+    "download_url": "https://www.moma.org/media/W1siZiIsIjMwMzE5OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDIwMDB4MjAwMFx1MDAzZSJdXQ.jpg?sha=ea903f19078eef6d",
+    "title": "Water Towers, object 254.1996.a-i",
+    "creator": "Bernd and Hilla Becher",
+    "date": "1988",
+    "source_url": "https://www.moma.org/collection/works/49624",
+    "rights": "© 2026 Estate of Bernd Becher and Hilla Becher；MoMA馆藏图像",
+    "use": "书内研究与评论引图；非开放许可声明；二次出版需另核权限",
+    "kind": "real_artwork",
+    "filename": "revision-digital-becher.jpg"
+  },
+  {
+    "file": "assets/images/revision-digital-vionnet.jpg",
+    "download_url": "https://www.kci.or.jp/archives/digital_archives/photos/313_xl_AC007007.jpg",
+    "title": "Wedding Dress，AC7007 91-15-3A",
+    "creator": "Madeleine Vionnet；摄影Richard Haughton",
+    "date": "1922",
+    "source_url": "https://www.kci.or.jp/en/archives/digital_archives/1920s/KCI_313",
+    "rights": "© The Kyoto Costume Institute，photo by Richard Haughton",
+    "use": "书内研究与评论引图；非开放许可声明；二次出版需另核权限",
+    "kind": "real_artwork",
+    "filename": "revision-digital-vionnet.jpg"
+  },
+  {
+    "file": "assets/images/revision-digital-ibm-flat.png",
+    "download_url": "https://design-language-website.netlify.app/design/language/static/c8c5acf1ea607291e43a2784a003090b/3cbba/flat-1.png",
+    "title": "Flat style illustration example 1",
+    "creator": "IBM Design Language团队",
+    "date": "官网现行示例，读取2026-10-21",
+    "source_url": "https://www.ibm.com/design/language/illustration/flat-style/design/",
+    "rights": "© IBM；官方图板，未据此推定为CC",
+    "use": "书内研究与评论引图；非开放许可声明；二次出版需另核权限",
+    "kind": "real_artwork",
+    "filename": "revision-digital-ibm-flat.png"
+  },
+  {
+    "file": "assets/images/revision-digital-ibm-grid.png",
+    "download_url": "https://design-language-website.netlify.app/design/language/static/b5b2346b49b96cfdf6d4ac35e81a7507/3cbba/grid.png",
+    "title": "Flat style elements applied to grid",
+    "creator": "IBM Design Language团队",
+    "date": "官网现行示例，读取2026-10-21",
+    "source_url": "https://www.ibm.com/design/language/illustration/flat-style/design/",
+    "rights": "© IBM；官方图板，未据此推定为CC",
+    "use": "书内研究与评论引图；非开放许可声明；二次出版需另核权限",
+    "kind": "real_artwork",
+    "filename": "revision-digital-ibm-grid.png"
+  },
+  {
+    "file": "assets/images/revision-digital-carbon-anatomy-1.png",
+    "download_url": "https://s3.us-south.cloud-object-storage.appdomain.cloud/cxp-prod-payload-cms/datatable-anatomy-1.png",
+    "title": "Data table anatomy",
+    "creator": "IBM Carbon团队",
+    "date": "官网现行示例，读取2026-10-21",
+    "source_url": "https://www.carbondesignsystem.com/building-blocks/core/components/data-table/guidelines",
+    "rights": "© IBM；官方图板，代码许可不自动等于图像开放许可",
+    "use": "书内研究与评论引图；非开放许可声明；二次出版需另核权限",
+    "kind": "real_artwork",
+    "filename": "revision-digital-carbon-anatomy-1.png"
+  },
+  {
+    "file": "assets/images/revision-digital-carbon-multi-select-1.png",
+    "download_url": "https://s3.us-south.cloud-object-storage.appdomain.cloud/cxp-prod-payload-cms/datatable-multi-select-1.png",
+    "title": "Data table with selection",
+    "creator": "IBM Carbon团队",
+    "date": "官网现行示例，读取2026-10-21",
+    "source_url": "https://www.carbondesignsystem.com/building-blocks/core/components/data-table/guidelines",
+    "rights": "© IBM；官方图板，代码许可不自动等于图像开放许可",
+    "use": "书内研究与评论引图；非开放许可声明；二次出版需另核权限",
+    "kind": "real_artwork",
+    "filename": "revision-digital-carbon-multi-select-1.png"
+  },
+  {
+    "file": "assets/images/revision-digital-carbon-sorting-1.png",
+    "download_url": "https://s3.us-south.cloud-object-storage.appdomain.cloud/cxp-prod-payload-cms/datatable-sorting-1.png",
+    "title": "Data table unsorted",
+    "creator": "IBM Carbon团队",
+    "date": "官网现行示例，读取2026-10-21",
+    "source_url": "https://www.carbondesignsystem.com/building-blocks/core/components/data-table/guidelines",
+    "rights": "© IBM；官方图板，代码许可不自动等于图像开放许可",
+    "use": "书内研究与评论引图；非开放许可声明；二次出版需另核权限",
+    "kind": "real_artwork",
+    "filename": "revision-digital-carbon-sorting-1.png"
+  },
+  {
+    "file": "assets/images/revision-digital-material-buttons.png",
+    "download_url": "https://raw.githubusercontent.com/material-components/material-components-android/master/docs/components/assets/buttons/commonbutton-types.png",
+    "title": "Material common button official example",
+    "creator": "Google Material Components团队",
+    "date": "仓库master文档读取2026-10-21",
+    "source_url": "https://github.com/material-components/material-components-android/blob/master/docs/components/CommonButton.md",
+    "rights": "Google/Material Components项目；研究引图，不推定CC",
+    "kind": "real_artwork",
+    "use": "书内研究评论",
+    "filename": "revision-digital-material-buttons.png"
+  },
+  {
+    "file": "assets/images/revision-digital-material-light.png",
+    "download_url": "https://raw.githubusercontent.com/material-components/material-components-android/master/docs/components/assets/buttons/default-filled-button-light.png",
+    "title": "Material common button official example",
+    "creator": "Google Material Components团队",
+    "date": "仓库master文档读取2026-10-21",
+    "source_url": "https://github.com/material-components/material-components-android/blob/master/docs/components/CommonButton.md",
+    "rights": "Google/Material Components项目；研究引图，不推定CC",
+    "kind": "real_artwork",
+    "use": "书内研究评论",
+    "filename": "revision-digital-material-light.png"
+  },
+  {
+    "file": "assets/images/revision-digital-material-dark.png",
+    "download_url": "https://raw.githubusercontent.com/material-components/material-components-android/master/docs/components/assets/buttons/default-filled-button-dark.png",
+    "title": "Material common button official example",
+    "creator": "Google Material Components团队",
+    "date": "仓库master文档读取2026-10-21",
+    "source_url": "https://github.com/material-components/material-components-android/blob/master/docs/components/CommonButton.md",
+    "rights": "Google/Material Components项目；研究引图，不推定CC",
+    "kind": "real_artwork",
+    "use": "书内研究评论",
+    "filename": "revision-digital-material-dark.png"
+  },
+  {
+    "file": "assets/images/revision-digital-gov-page13.png",
+    "title": "Recommended method of submission guidance，printed page13 Figure17",
+    "creator": "UK Department for Education",
+    "date": "2024",
+    "source_url": "https://assets.publishing.service.gov.uk/media/66e447b50d913026165c3e9b/Recommended_method_of_submission_guidance.pdf",
+    "rights": "© Crown copyright 2024；PDF第22页：Open Government Licence v3.0，第三方例外从其声明",
+    "kind": "real_artwork",
+    "use": "书内研究评论",
+    "filename": "revision-digital-gov-page13.png"
+  },
+  {
+    "file": "assets/images/revision-digital-yamamoto.jpg",
+    "filename": "revision-digital-yamamoto.jpg",
+    "kind": "real_artwork",
+    "title": "Jacket, Dress, Pants",
+    "creator": "Yohji Yamamoto；摄影Takashi Hatakeyama",
+    "date": "Spring/Summer 1983",
+    "source_url": "https://www.kci.or.jp/en/archives/digital_archives/1980s/KCI_260",
+    "download_url": "https://www.kci.or.jp/archives/digital_archives/photos/203_xl_AC07755.jpg",
+    "rights": "© The Kyoto Costume Institute，photo by Takashi Hatakeyama",
+    "use": "书内研究评论引图，非CC授权"
+  },
+  {
+    "file": "assets/images/revision-digital-gov-error-detail.png",
+    "filename": "revision-digital-gov-error-detail.png",
+    "kind": "real_artwork",
+    "title": "英国教育部指引第13页图17，局部截取",
+    "creator": "UK Department for Education",
+    "date": "2024",
+    "source_url": "https://assets.publishing.service.gov.uk/media/66e447b50d913026165c3e9b/Recommended_method_of_submission_guidance.pdf",
+    "rights": "© Crown copyright 2024；OGL v3.0，第三方例外从其声明",
+    "use": "研究引图，PDF同页局部放大"
+  },
+  {
+    "file": "assets/images/revision-digital-analysis-molnar.png",
+    "filename": "revision-digital-analysis-molnar.png",
+    "kind": "original_analysis",
+    "title": "revision-digital-analysis-molnar.png",
+    "creator": "本书编辑：原作局部研究标注",
+    "date": "2026-10-21",
+    "source_files": [
+      "revision-digital-molnar.jpg"
+    ],
+    "rights": "标注与版式为本书原创；原图版权沿用对应来源条目，不据此获得作品再许可",
+    "use": "书内研究评论"
+  },
+  {
+    "file": "assets/images/revision-digital-analysis-roles.png",
+    "filename": "revision-digital-analysis-roles.png",
+    "kind": "original_analysis",
+    "title": "revision-digital-analysis-roles.png",
+    "creator": "本书编辑：原作局部研究标注",
+    "date": "2026-10-21",
+    "source_files": [
+      "revision-digital-material-light.png",
+      "revision-digital-material-dark.png"
+    ],
+    "rights": "标注与版式为本书原创；原图版权沿用对应来源条目，不据此获得作品再许可",
+    "use": "书内研究评论"
+  },
+  {
+    "file": "assets/images/revision-digital-analysis-errors.png",
+    "filename": "revision-digital-analysis-errors.png",
+    "kind": "original_analysis",
+    "title": "revision-digital-analysis-errors.png",
+    "creator": "本书编辑：原作局部研究标注",
+    "date": "2026-10-21",
+    "source_files": [
+      "revision-digital-gov-page13.png",
+      "revision-digital-gov-error-detail.png"
+    ],
+    "rights": "标注与版式为本书原创；原图版权沿用对应来源条目，不据此获得作品再许可",
+    "use": "书内研究评论"
+  },
+  {
+    "file": "assets/images/revision-digital-analysis-becher.png",
+    "filename": "revision-digital-analysis-becher.png",
+    "kind": "original_analysis",
+    "title": "revision-digital-analysis-becher.png",
+    "creator": "本书编辑：原作局部研究标注",
+    "date": "2026-10-21",
+    "source_files": [
+      "revision-digital-becher.jpg"
+    ],
+    "rights": "标注与版式为本书原创；原图版权沿用对应来源条目，不据此获得作品再许可",
+    "use": "书内研究评论"
+  },
+  {
+    "file": "assets/images/revision-digital-analysis-vionnet.png",
+    "filename": "revision-digital-analysis-vionnet.png",
+    "kind": "original_analysis",
+    "title": "revision-digital-analysis-vionnet.png",
+    "creator": "本书编辑：原作局部研究标注",
+    "date": "2026-10-21",
+    "source_files": [
+      "revision-digital-vionnet.jpg"
+    ],
+    "rights": "标注与版式为本书原创；原图版权沿用对应来源条目，不据此获得作品再许可",
+    "use": "书内研究评论"
+  }
+]

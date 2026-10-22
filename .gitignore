@@ -1,0 +1,24 @@
+build/
+__pycache__/
+*.pyc
+.venv/
+.DS_Store
+*.tmp.png
+
+.tmp-*
+*.png.tmp
+
+**/.journal.jsonl
+*.pending
+
+# Native checks and unused system exports can be reproduced with the CLI.
+examples/creative-lab/*/renders/check/*.png
+examples/creative-lab/*/renders/v3/*.png
+examples/creative-lab/*-system/renders/export/*.png
+!examples/creative-lab/still-system/renders/export/Colors.png
+
+# Runtime server discovery is recreated on open.
+**/.server.json
+
+# Complete CJK serif is restored from versioned binary parts.
+**/RefractionSong.otf

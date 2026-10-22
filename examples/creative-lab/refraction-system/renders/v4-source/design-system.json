@@ -1,0 +1,38 @@
+{
+  "v": 3,
+  "layout": "files",
+  "createdOnFiles": {
+    "v": 1,
+    "at": "2026-10-22T01:29:40.046Z"
+  },
+  "title": "折光 / REFRACTION · V4",
+  "namespace": "REFRACTION",
+  "libraries": [],
+  "sections": {},
+  "groups": [
+    {
+      "name": "Exhibition",
+      "components": [
+        "ExhibitTitle",
+        "InfoStrip",
+        "PictureFrame"
+      ]
+    }
+  ],
+  "assetGroups": {
+    "Photography": {
+      "title": "光学玻璃主视觉"
+    }
+  },
+  "blobs": {},
+  "docs": {
+    "readme": "project/README.md",
+    "sections": []
+  },
+  "lastChange": {
+    "by": "Claude",
+    "at": "2026-10-22T01:29:40.046Z",
+    "via": "tingly-design",
+    "note": "created"
+  }
+}

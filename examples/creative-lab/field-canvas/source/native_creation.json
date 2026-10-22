@@ -1,0 +1,38 @@
+[
+  {
+    "command": [
+      "node",
+      "/root/.npm/_npx/d656037fc4069836/node_modules/tingly-design/cli.mjs",
+      "new",
+      "design-system",
+      "/workspace/scratch/0179e4a1de34/design-grammar/examples/creative-lab/field-system",
+      "--title",
+      "野序 / FIELD NOTES",
+      "--json"
+    ],
+    "stdout": "{\n  \"name\": \"field-system\",\n  \"kind\": \"design-system\",\n  \"dir\": \"/workspace/scratch/0179e4a1de34/design-grammar/examples/creative-lab/field-system\"\n}",
+    "native_createdOnFiles": {
+      "v": 1,
+      "at": "2026-10-22T01:30:37.384Z"
+    }
+  },
+  {
+    "command": [
+      "node",
+      "/root/.npm/_npx/d656037fc4069836/node_modules/tingly-design/cli.mjs",
+      "new",
+      "canvas",
+      "/workspace/scratch/0179e4a1de34/design-grammar/examples/creative-lab/field-canvas",
+      "--title",
+      "野序 · Botanical Editorial Studio",
+      "--json",
+      "--size",
+      "1080x1440"
+    ],
+    "stdout": "{\n  \"name\": \"field-canvas\",\n  \"kind\": \"canvas\",\n  \"dir\": \"/workspace/scratch/0179e4a1de34/design-grammar/examples/creative-lab/field-canvas\"\n}",
+    "native_createdOnFiles": {
+      "v": 1,
+      "at": "2026-10-22T01:30:37.664Z"
+    }
+  }
+]

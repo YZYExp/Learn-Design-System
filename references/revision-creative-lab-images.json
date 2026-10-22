@@ -1,0 +1,602 @@
+[
+  {
+    "file": "examples/creative-lab/shared-assets/refraction-concept-v5.png",
+    "kind": "ai_illustration",
+    "pixels": [
+      1086,
+      1448
+    ],
+    "sha256": "c597e13b276546b6e7fbeef9599fc121e28397dcc12b937885a26f4902392b6c",
+    "creator": "本书原创AI素材",
+    "role": "full_visual_proposal",
+    "prompt": null,
+    "production_description": "先生成整张“折光”展览海报视觉方向：纸白表面、宋体感中文主识别、细衬线英文辅助、蓝青与金红的棱面光场、日期地点作为整体构图的一部分。此说明记录本轮实际生产意图与输出内容；原始工具prompt未保存在当前记录中，不伪称逐字原prompt。",
+    "prompt_record_type": "production description reconstructed from visible task and actual output; not a verbatim tool prompt",
+    "provenance_log": "examples/creative-lab/shared-assets/generation-log-v5.json"
+  },
+  {
+    "file": "examples/creative-lab/shared-assets/refraction-light-v5.png",
+    "kind": "ai_illustration",
+    "pixels": [
+      1086,
+      1448
+    ],
+    "sha256": "5108b2d301ca9edff6dde71035115c974d9022cc8622194db71fbb929582ccfd",
+    "creator": "本书原创AI素材",
+    "role": "text_free_material",
+    "prompt": null,
+    "production_description": "基于本轮完整视觉提案另行生成去字版本，保留纸白、棱面位置、斜向明暗、蓝青与金红光场，让中文英文、日期地点在原生Canvas中重建为真实字体。去字衍生图与提案并排核对，不宣称逐像素完全一致；本说明不是逐字原prompt。",
+    "prompt_record_type": "production description reconstructed from visible task and actual output; not a verbatim tool prompt",
+    "provenance_log": "examples/creative-lab/shared-assets/generation-log-v5.json"
+  },
+  {
+    "file": "examples/creative-lab/shared-assets/field-botanical-v4.png",
+    "kind": "ai_illustration",
+    "pixels": [
+      1086,
+      1448
+    ],
+    "sha256": "55c8ec136c066d5bec069a5b30134cdaebd81ab7dbd22781b921eed69faa2ed6",
+    "creator": "本书原创AI素材",
+    "role": "text_free_material",
+    "prompt": "Use case: photorealistic-natural. Asset type: premium contemporary botanical editorial photographic asset, portrait 3:4, image only.\nA single deep-purple iris bloom on one slender stem, accompanied by one long green iris leaf, photographed as a carefully art-directed botanical portrait. Real macro photography: exquisite natural petal texture, veins and delicate partly translucent folds, deep plum and violet petals with small honest golden details at the flower center, finely observed organic edges. Minimal warm cream to very pale blush-pink studio backdrop, subtle natural tonal depth and quiet negative space. The single flower has a precise recognizable silhouette and rests in an asymmetrical composition with the stem and the one long leaf providing a long elegant line. Premium contemporary independent art-journal photography, sensitive controlled sidelight, beautiful but believable real botanical detail, sharp flower with gently softer stem depth. Leave breathing room for an editable cover crop. Do not create three flowers, a bouquet, a full-field floral pattern, stickers, watercolor, gouache, pastel painting, faux paper texture, heavy grain, excessive props or dramatic fake shadows. No text, no labels, no letters, no logos, no frame, no watermark. Portrait 3:4.",
+    "production_description": null,
+    "prompt_record_type": "verbatim prompt retained from V4 record",
+    "provenance_log": "examples/creative-lab/shared-assets/generation-log-v5.json"
+  },
+  {
+    "file": "examples/creative-lab/shared-assets/still-coffee-v4.png",
+    "kind": "ai_illustration",
+    "pixels": [
+      1448,
+      1086
+    ],
+    "sha256": "4f4f2b7ba87c781f42826d7a0892fc489b084efe5adc53fa0f5f96df821447ec",
+    "creator": "本书原创AI素材",
+    "role": "text_free_material",
+    "prompt": "Use case: product-mockup. Asset type: premium independent coffee-brand editorial photographic asset, landscape 4:3, image only.\nA deliberate top-down photographic still life: dark brown-black brewed coffee in one small round off-white porcelain cup, on an architectural geometric tabletop composed of deep olive-green and graphite-gray planes. A very sparse arrangement of a few warm yellow-orange coffee cherries or roasted beans adds a tiny warm color counterpoint. Angled late-afternoon sun creates one or two precise confident shadows and reveals the crisp geometric surface boundaries. Bold useful negative space across part of the image, art-directed placement rather than a centered stock-photo grouping. Sophisticated contemporary editorial product photography, real ceramic rim, glossy dark coffee surface, restrained subtle tabletop finish, high-end material detail without fake roughness. Palette: warm off-white cup, near-black coffee, dark olive and graphite with tiny yellow-orange accents. Do not include green mugs, kraft coffee bags, potted plants, hands, people, bags, piles of beans, marble luxury clichés, many random shadows or rustic cafe props. No text, no letters, no logos, no labels, no watermark. Landscape 4:3, top-down view.",
+    "production_description": null,
+    "prompt_record_type": "verbatim prompt retained from V4 record",
+    "provenance_log": "examples/creative-lab/shared-assets/generation-log-v5.json"
+  },
+  {
+    "file": "assets/images/refraction-concept-v5.png",
+    "kind": "ai_illustration",
+    "pixels": [
+      1086,
+      1448
+    ],
+    "sha256": "c597e13b276546b6e7fbeef9599fc121e28397dcc12b937885a26f4902392b6c",
+    "creator": "本书原创完整AI视觉提案",
+    "role": "full_visual_proposal",
+    "source_asset": "examples/creative-lab/shared-assets/refraction-concept-v5.png",
+    "provenance_log": "examples/creative-lab/shared-assets/generation-log-v5.json",
+    "copy_editable": false
+  },
+  {
+    "file": "examples/creative-lab/refraction-canvas/renders/export/Main.png",
+    "kind": "original_design",
+    "pixels": [
+      2160,
+      2880
+    ],
+    "sha256": "9a4e9442eeb43b0bba4693976bd18e129471fb8745f03b2dbcbe3aebedc39ce7",
+    "title": "竖版海报",
+    "creator": "本书原创：AI素材与可编辑版式联合创作",
+    "tool": "Tingly Design 0.26.1021",
+    "source_canvas": "examples/creative-lab/refraction-canvas/Main.dc.html",
+    "source_index": "examples/creative-lab/refraction-canvas/canvas.json",
+    "system": "examples/creative-lab/refraction-system/design-system.json",
+    "contains_ai_raster": true,
+    "copy_editable": true
+  },
+  {
+    "file": "examples/creative-lab/refraction-canvas/renders/export/VisualRules.png",
+    "kind": "original_design",
+    "pixels": [
+      3200,
+      2000
+    ],
+    "sha256": "050d6593e4c30d383419c0d6873e0b1bbf86c4d8beb89288beec5cd6fbbb65fa",
+    "title": "视觉规则",
+    "creator": "本书原创：AI素材与可编辑版式联合创作",
+    "tool": "Tingly Design 0.26.1021",
+    "source_canvas": "examples/creative-lab/refraction-canvas/VisualRules.dc.html",
+    "source_index": "examples/creative-lab/refraction-canvas/canvas.json",
+    "system": "examples/creative-lab/refraction-system/design-system.json",
+    "contains_ai_raster": true,
+    "copy_editable": true
+  },
+  {
+    "file": "examples/creative-lab/refraction-canvas/renders/export/Invitation.png",
+    "kind": "original_design",
+    "pixels": [
+      3200,
+      1800
+    ],
+    "sha256": "0344ce1debdf943d1602d71a491db898fed942a9b882d0901ca778214842af03",
+    "title": "开幕邀请",
+    "creator": "本书原创：AI素材与可编辑版式联合创作",
+    "tool": "Tingly Design 0.26.1021",
+    "source_canvas": "examples/creative-lab/refraction-canvas/Invitation.dc.html",
+    "source_index": "examples/creative-lab/refraction-canvas/canvas.json",
+    "system": "examples/creative-lab/refraction-system/design-system.json",
+    "contains_ai_raster": true,
+    "copy_editable": true
+  },
+  {
+    "file": "examples/creative-lab/refraction-canvas/renders/export/Proposal01.png",
+    "kind": "original_design",
+    "pixels": [
+      3200,
+      1800
+    ],
+    "sha256": "4ad906af8f35630fdad39fe796819c0c5dcff4cd9362d102d66be4391950fe3f",
+    "title": "提案01 · 展览命题",
+    "creator": "本书原创：AI素材与可编辑版式联合创作",
+    "tool": "Tingly Design 0.26.1021",
+    "source_canvas": "examples/creative-lab/refraction-canvas/Proposal01.dc.html",
+    "source_index": "examples/creative-lab/refraction-canvas/canvas.json",
+    "system": "examples/creative-lab/refraction-system/design-system.json",
+    "contains_ai_raster": true,
+    "copy_editable": true
+  },
+  {
+    "file": "examples/creative-lab/refraction-canvas/renders/export/Proposal02.png",
+    "kind": "original_design",
+    "pixels": [
+      3200,
+      1800
+    ],
+    "sha256": "951cfb4e33e665177792fc181b1f8ccc2e8f87f79485028b677f892b6f49709c",
+    "title": "提案02 · 观看路径",
+    "creator": "本书原创：AI素材与可编辑版式联合创作",
+    "tool": "Tingly Design 0.26.1021",
+    "source_canvas": "examples/creative-lab/refraction-canvas/Proposal02.dc.html",
+    "source_index": "examples/creative-lab/refraction-canvas/canvas.json",
+    "system": "examples/creative-lab/refraction-system/design-system.json",
+    "contains_ai_raster": true,
+    "copy_editable": true
+  },
+  {
+    "file": "examples/creative-lab/refraction-canvas/renders/export/Proposal03.png",
+    "kind": "original_design",
+    "pixels": [
+      3200,
+      1800
+    ],
+    "sha256": "0f507bcc91ef0144a14ba7404bbca996435df5868df3119e49417ccb93e4218a",
+    "title": "提案03 · 跨媒介",
+    "creator": "本书原创：AI素材与可编辑版式联合创作",
+    "tool": "Tingly Design 0.26.1021",
+    "source_canvas": "examples/creative-lab/refraction-canvas/Proposal03.dc.html",
+    "source_index": "examples/creative-lab/refraction-canvas/canvas.json",
+    "system": "examples/creative-lab/refraction-system/design-system.json",
+    "contains_ai_raster": true,
+    "copy_editable": true
+  },
+  {
+    "file": "examples/creative-lab/refraction-canvas/renders/export/Revision.png",
+    "kind": "original_design",
+    "pixels": [
+      3200,
+      2000
+    ],
+    "sha256": "c4e9383203f7bd500ffe128565698d19eba0022d2233f271e76ce91b7f411cbb",
+    "title": "V4 → V5方向修订",
+    "creator": "本书原创：AI素材与可编辑版式联合创作",
+    "tool": "Tingly Design 0.26.1021",
+    "source_canvas": "examples/creative-lab/refraction-canvas/Revision.dc.html",
+    "source_index": "examples/creative-lab/refraction-canvas/canvas.json",
+    "system": "examples/creative-lab/refraction-system/design-system.json",
+    "contains_ai_raster": true,
+    "copy_editable": true
+  },
+  {
+    "file": "examples/creative-lab/refraction-system/renders/check/折光 - REFRACTION · V5-assets.png",
+    "kind": "original_design",
+    "pixels": [
+      1920,
+      1046
+    ],
+    "sha256": "efe15730ccb52744fb4b68a32e5ced5d3360e1e0e903bdef36b5a2a24ee3b4ba",
+    "creator": "本书原创设计系统原生视图",
+    "tool": "Tingly Design 0.26.1021"
+  },
+  {
+    "file": "examples/creative-lab/refraction-system/renders/check/折光 - REFRACTION · V5-colors.png",
+    "kind": "original_design",
+    "pixels": [
+      1920,
+      1328
+    ],
+    "sha256": "d49764325810fd94b37a6dcec420e06312d62baa63a3c1186f99eba9254b2612",
+    "creator": "本书原创设计系统原生视图",
+    "tool": "Tingly Design 0.26.1021"
+  },
+  {
+    "file": "examples/creative-lab/refraction-system/renders/check/折光 - REFRACTION · V5-components.png",
+    "kind": "original_design",
+    "pixels": [
+      1920,
+      3908
+    ],
+    "sha256": "5e068c155f841d191e928a1a83d488ad2c696ea994ca0c48736134423e374f0a",
+    "creator": "本书原创设计系统原生视图",
+    "tool": "Tingly Design 0.26.1021"
+  },
+  {
+    "file": "examples/creative-lab/refraction-system/renders/check/折光 - REFRACTION · V5-overview.png",
+    "kind": "original_design",
+    "pixels": [
+      1920,
+      2398
+    ],
+    "sha256": "19c76526f0a5c280555556104257146e96074f25b07a7e7c67dd3ed4e2fff48b",
+    "creator": "本书原创设计系统原生视图",
+    "tool": "Tingly Design 0.26.1021"
+  },
+  {
+    "file": "examples/creative-lab/refraction-system/renders/check/折光 - REFRACTION · V5-space.png",
+    "kind": "original_design",
+    "pixels": [
+      1920,
+      1324
+    ],
+    "sha256": "79c43ab58a0093822aeb446106d97410cfe705df827812c82c99d2411214c291",
+    "creator": "本书原创设计系统原生视图",
+    "tool": "Tingly Design 0.26.1021"
+  },
+  {
+    "file": "examples/creative-lab/refraction-system/renders/check/折光 - REFRACTION · V5-type.png",
+    "kind": "original_design",
+    "pixels": [
+      1920,
+      2444
+    ],
+    "sha256": "f1bf15f1dd85d3970e5876c76428cb551320b4c7c36ed53444ace2c1caf8b46a",
+    "creator": "本书原创设计系统原生视图",
+    "tool": "Tingly Design 0.26.1021"
+  },
+  {
+    "file": "examples/creative-lab/field-canvas/renders/export/Main.png",
+    "kind": "original_design",
+    "pixels": [
+      2160,
+      2880
+    ],
+    "sha256": "d5d9fe1399bc830bf13c5cbbcbd0d81732e3aa4f8ce29477717e542803fb3d01",
+    "title": "02 · 封面",
+    "creator": "本书原创：AI素材与可编辑版式联合创作",
+    "tool": "Tingly Design 0.26.1021",
+    "source_canvas": "examples/creative-lab/field-canvas/Main.dc.html",
+    "source_index": "examples/creative-lab/field-canvas/canvas.json",
+    "system": "examples/creative-lab/field-system/design-system.json",
+    "contains_ai_raster": true,
+    "copy_editable": true
+  },
+  {
+    "file": "examples/creative-lab/field-canvas/renders/export/Rules.png",
+    "kind": "original_design",
+    "pixels": [
+      3200,
+      2240
+    ],
+    "sha256": "02f9fbaedae249f033c09f09285acf62fdb607d49c6b2b27951615713c840443",
+    "title": "01 · 编辑语法",
+    "creator": "本书原创：AI素材与可编辑版式联合创作",
+    "tool": "Tingly Design 0.26.1021",
+    "source_canvas": "examples/creative-lab/field-canvas/Rules.dc.html",
+    "source_index": "examples/creative-lab/field-canvas/canvas.json",
+    "system": "examples/creative-lab/field-system/design-system.json",
+    "contains_ai_raster": true,
+    "copy_editable": true
+  },
+  {
+    "file": "examples/creative-lab/field-canvas/renders/export/Spread.png",
+    "kind": "original_design",
+    "pixels": [
+      3600,
+      2400
+    ],
+    "sha256": "1979412d9e151aa8550e2cfe3fa7256d529a807ef43967b69faca96ce0706b6e",
+    "title": "03 · 跨页文章",
+    "creator": "本书原创：AI素材与可编辑版式联合创作",
+    "tool": "Tingly Design 0.26.1021",
+    "source_canvas": "examples/creative-lab/field-canvas/Spread.dc.html",
+    "source_index": "examples/creative-lab/field-canvas/canvas.json",
+    "system": "examples/creative-lab/field-system/design-system.json",
+    "contains_ai_raster": true,
+    "copy_editable": true
+  },
+  {
+    "file": "examples/creative-lab/field-canvas/renders/export/Exhibition.png",
+    "kind": "original_design",
+    "pixels": [
+      2160,
+      2880
+    ],
+    "sha256": "7c2b85af7f262b0d58541f82efaa00bef8152c15661fd4df64aecd6f02cdff3d",
+    "title": "04 · 展览招贴",
+    "creator": "本书原创：AI素材与可编辑版式联合创作",
+    "tool": "Tingly Design 0.26.1021",
+    "source_canvas": "examples/creative-lab/field-canvas/Exhibition.dc.html",
+    "source_index": "examples/creative-lab/field-canvas/canvas.json",
+    "system": "examples/creative-lab/field-system/design-system.json",
+    "contains_ai_raster": true,
+    "copy_editable": true
+  },
+  {
+    "file": "examples/creative-lab/field-canvas/renders/export/Before.png",
+    "kind": "original_design",
+    "pixels": [
+      2160,
+      2880
+    ],
+    "sha256": "b671febc2a52d1f2bbf5852e7a066f81ac5aad2fa649d140c0b527c8d0c5e03d",
+    "title": "05 · 受控反例",
+    "creator": "本书原创：AI素材与可编辑版式联合创作",
+    "tool": "Tingly Design 0.26.1021",
+    "source_canvas": "examples/creative-lab/field-canvas/Before.dc.html",
+    "source_index": "examples/creative-lab/field-canvas/canvas.json",
+    "system": "examples/creative-lab/field-system/design-system.json",
+    "contains_ai_raster": true,
+    "copy_editable": true
+  },
+  {
+    "file": "examples/creative-lab/field-canvas/renders/export/CropStudies.png",
+    "kind": "original_design",
+    "pixels": [
+      3600,
+      2120
+    ],
+    "sha256": "16550afe73127e0700f1daf481c121e5bb1ea75ee84a77d09bc1d25d805bf473",
+    "title": "06 · 摄影取景",
+    "creator": "本书原创：AI素材与可编辑版式联合创作",
+    "tool": "Tingly Design 0.26.1021",
+    "source_canvas": "examples/creative-lab/field-canvas/CropStudies.dc.html",
+    "source_index": "examples/creative-lab/field-canvas/canvas.json",
+    "system": "examples/creative-lab/field-system/design-system.json",
+    "contains_ai_raster": true,
+    "copy_editable": true
+  },
+  {
+    "file": "examples/creative-lab/field-system/renders/check/野序 - FIELD NOTES · V4-assets.png",
+    "kind": "original_design",
+    "pixels": [
+      1920,
+      1556
+    ],
+    "sha256": "3624ab1227d8989565ec421da65a8a6d48b773d88e298d25c3f63d5ca4f44dd5",
+    "creator": "本书原创设计系统原生视图",
+    "tool": "Tingly Design 0.26.1021"
+  },
+  {
+    "file": "examples/creative-lab/field-system/renders/check/野序 - FIELD NOTES · V4-colors.png",
+    "kind": "original_design",
+    "pixels": [
+      1920,
+      1188
+    ],
+    "sha256": "6857636c684b017c2012e9850f9612196356f104ebc17a45b723a59f7b52e5a1",
+    "creator": "本书原创设计系统原生视图",
+    "tool": "Tingly Design 0.26.1021"
+  },
+  {
+    "file": "examples/creative-lab/field-system/renders/check/野序 - FIELD NOTES · V4-components.png",
+    "kind": "original_design",
+    "pixels": [
+      1920,
+      3704
+    ],
+    "sha256": "ad9b80ce98dd559792010f6553196c92641111f6daed346e705152f4b9036912",
+    "creator": "本书原创设计系统原生视图",
+    "tool": "Tingly Design 0.26.1021"
+  },
+  {
+    "file": "examples/creative-lab/field-system/renders/check/野序 - FIELD NOTES · V4-overview.png",
+    "kind": "original_design",
+    "pixels": [
+      1920,
+      3996
+    ],
+    "sha256": "fb10c1cadb1f0bee4574ea7f9084a6e79a7ae71350961b555cb378b3e9912e2c",
+    "creator": "本书原创设计系统原生视图",
+    "tool": "Tingly Design 0.26.1021"
+  },
+  {
+    "file": "examples/creative-lab/field-system/renders/check/野序 - FIELD NOTES · V4-space.png",
+    "kind": "original_design",
+    "pixels": [
+      1920,
+      2178
+    ],
+    "sha256": "ff27b3e4ccda2cfdb8e2b73fe45280bca7d5dc93cd8ea3f57e311016413494a2",
+    "creator": "本书原创设计系统原生视图",
+    "tool": "Tingly Design 0.26.1021"
+  },
+  {
+    "file": "examples/creative-lab/field-system/renders/check/野序 - FIELD NOTES · V4-type.png",
+    "kind": "original_design",
+    "pixels": [
+      1920,
+      2346
+    ],
+    "sha256": "6f7746578e598447899f778fecc91f1918bc09beb6aeddc957c049a5dba74e33",
+    "creator": "本书原创设计系统原生视图",
+    "tool": "Tingly Design 0.26.1021"
+  },
+  {
+    "file": "examples/creative-lab/still-canvas/renders/export/Main.png",
+    "kind": "original_design",
+    "pixels": [
+      3200,
+      2000
+    ],
+    "sha256": "524a1b8e389a60cc618e1576256fb3304a946d8dfe6c88ee6911abe9fef6aa16",
+    "title": "01 品牌规则",
+    "creator": "本书原创：AI素材与可编辑版式联合创作",
+    "tool": "Tingly Design 0.26.1021",
+    "source_canvas": "examples/creative-lab/still-canvas/Main.dc.html",
+    "source_index": "examples/creative-lab/still-canvas/canvas.json",
+    "system": "examples/creative-lab/still-system/design-system.json",
+    "contains_ai_raster": true,
+    "copy_editable": true
+  },
+  {
+    "file": "examples/creative-lab/still-canvas/renders/export/Campaign.png",
+    "kind": "original_design",
+    "pixels": [
+      3200,
+      1800
+    ],
+    "sha256": "cd22861ab756328f00350916909daf26fbf7c507f8de0472316ea951dfb8b31f",
+    "title": "02 摄影广告",
+    "creator": "本书原创：AI素材与可编辑版式联合创作",
+    "tool": "Tingly Design 0.26.1021",
+    "source_canvas": "examples/creative-lab/still-canvas/Campaign.dc.html",
+    "source_index": "examples/creative-lab/still-canvas/canvas.json",
+    "system": "examples/creative-lab/still-system/design-system.json",
+    "contains_ai_raster": true,
+    "copy_editable": true
+  },
+  {
+    "file": "examples/creative-lab/still-canvas/renders/export/Packaging.png",
+    "kind": "original_design",
+    "pixels": [
+      3200,
+      2100
+    ],
+    "sha256": "92c3df26766dced05f77a47dd31b325c6b548655977d48e344eccbd8a6bae78f",
+    "title": "03 包装平面",
+    "creator": "本书原创：AI素材与可编辑版式联合创作",
+    "tool": "Tingly Design 0.26.1021",
+    "source_canvas": "examples/creative-lab/still-canvas/Packaging.dc.html",
+    "source_index": "examples/creative-lab/still-canvas/canvas.json",
+    "system": "examples/creative-lab/still-system/design-system.json",
+    "contains_ai_raster": false,
+    "copy_editable": true
+  },
+  {
+    "file": "examples/creative-lab/still-canvas/renders/export/Subscription.png",
+    "kind": "original_design",
+    "pixels": [
+      2880,
+      2200
+    ],
+    "sha256": "2d34bdc82e7a23610fc780217c7376236be4396fafbbb46215c2734feb43c02b",
+    "title": "04 订阅电商",
+    "creator": "本书原创：AI素材与可编辑版式联合创作",
+    "tool": "Tingly Design 0.26.1021",
+    "source_canvas": "examples/creative-lab/still-canvas/Subscription.dc.html",
+    "source_index": "examples/creative-lab/still-canvas/canvas.json",
+    "system": "examples/creative-lab/still-system/design-system.json",
+    "contains_ai_raster": true,
+    "copy_editable": true
+  },
+  {
+    "file": "examples/creative-lab/still-canvas/renders/export/Stress.png",
+    "kind": "original_design",
+    "pixels": [
+      2880,
+      2200
+    ],
+    "sha256": "8f086503297c7e27fbffbec81ae71a8afe0f55908fe3a0215398aab955502f67",
+    "title": "05 夜间与长文本",
+    "creator": "本书原创：AI素材与可编辑版式联合创作",
+    "tool": "Tingly Design 0.26.1021",
+    "source_canvas": "examples/creative-lab/still-canvas/Stress.dc.html",
+    "source_index": "examples/creative-lab/still-canvas/canvas.json",
+    "system": "examples/creative-lab/still-system/design-system.json",
+    "contains_ai_raster": true,
+    "copy_editable": true
+  },
+  {
+    "file": "examples/creative-lab/still-system/renders/check/隙间 - STILL-assets.png",
+    "kind": "original_design",
+    "pixels": [
+      1920,
+      1124
+    ],
+    "sha256": "a0ee11161fb89089ef74e8fa0a98e3e5d521b63a89242e2b6d6fd60a950890fd",
+    "creator": "本书原创设计系统原生视图",
+    "tool": "Tingly Design 0.26.1021"
+  },
+  {
+    "file": "examples/creative-lab/still-system/renders/check/隙间 - STILL-colors.png",
+    "kind": "original_design",
+    "pixels": [
+      1920,
+      1520
+    ],
+    "sha256": "bc4db3fb463ad2b781780199e657b091e8579dc33df3e051acd216685c8debf9",
+    "creator": "本书原创设计系统原生视图",
+    "tool": "Tingly Design 0.26.1021"
+  },
+  {
+    "file": "examples/creative-lab/still-system/renders/check/隙间 - STILL-components.png",
+    "kind": "original_design",
+    "pixels": [
+      1920,
+      2954
+    ],
+    "sha256": "add7a29d11ff1e8168dfe0029cb218d1622ceabcdb6b6b89e004f917c0561b35",
+    "creator": "本书原创设计系统原生视图",
+    "tool": "Tingly Design 0.26.1021"
+  },
+  {
+    "file": "examples/creative-lab/still-system/renders/check/隙间 - STILL-overview.png",
+    "kind": "original_design",
+    "pixels": [
+      1920,
+      4122
+    ],
+    "sha256": "24077e3ac5fc4f1659ab25634d06cc4349fb334944aaa865b1d05def81937c1b",
+    "creator": "本书原创设计系统原生视图",
+    "tool": "Tingly Design 0.26.1021"
+  },
+  {
+    "file": "examples/creative-lab/still-system/renders/check/隙间 - STILL-space.png",
+    "kind": "original_design",
+    "pixels": [
+      1920,
+      1624
+    ],
+    "sha256": "9ba8e3ad4a392e58749fb693dd96e02660c7e4f6e5e61d30a6004a20e865821b",
+    "creator": "本书原创设计系统原生视图",
+    "tool": "Tingly Design 0.26.1021"
+  },
+  {
+    "file": "examples/creative-lab/still-system/renders/check/隙间 - STILL-type.png",
+    "kind": "original_design",
+    "pixels": [
+      1920,
+      1996
+    ],
+    "sha256": "a10b3116b22191155dfb3fedb42574ab3552de1679ebe29654115cecf8d2037b",
+    "creator": "本书原创设计系统原生视图",
+    "tool": "Tingly Design 0.26.1021"
+  },
+  {
+    "file": "examples/creative-lab/still-system/renders/export/Colors.png",
+    "kind": "original_design",
+    "pixels": [
+      1920,
+      1520
+    ],
+    "sha256": "bc4db3fb463ad2b781780199e657b091e8579dc33df3e051acd216685c8debf9",
+    "creator": "隙间原创系统的实际颜色视图",
+    "tool": "Tingly Design 0.26.1021"
+  },
+  {
+    "file": "assets/images/creative-inputs.png",
+    "kind": "ai_illustration",
+    "pixels": [
+      1800,
+      950
+    ],
+    "sha256": "e9a3f5d01d0621afec8da40af09e5bd14d6cd14110cf788ea157d87599a9e810",
+    "creator": "本书AI素材联系表",
+    "processing": "只缩放排版，未改绘图像"
+  }
+]

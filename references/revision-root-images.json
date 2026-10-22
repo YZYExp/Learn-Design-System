@@ -1,0 +1,128 @@
+[
+  {
+    "file": "revision-root-hokusai.jpg",
+    "kind": "real_artwork",
+    "creator": "Katsushika Hokusai",
+    "title": "Under the Wave off Kanagawa (Kanagawa oki nami ura), also known as The Great Wave, from the series Thirty-six Views of Mount Fuji (Fugaku sanjūrokkei)",
+    "date": "ca. 1830–32",
+    "source": "https://www.metmuseum.org/art/collection/search/45434",
+    "image_url": "https://images.metmuseum.org/CRDImages/as/original/DP130155.jpg",
+    "rights": "Met Open Access / Public Domain"
+  },
+  {
+    "file": "revision-root-tschichold.jpg",
+    "kind": "real_artwork",
+    "creator": "Jan Tschichold",
+    "title": "Plakate der Avantgarde",
+    "date": "1930",
+    "source": "https://www.moma.org/collection/works/7292",
+    "image_url": "https://www.moma.org/media/W1siZiIsIjUyMDM4MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDIwMDB4MjAwMFx1MDAzZSJdXQ.jpg",
+    "rights": "MoMA馆藏公开图，权利归原权利人；仅随本书分析引图，不声明开放许可。"
+  },
+  {
+    "file": "revision-root-vangogh.jpg",
+    "kind": "real_artwork",
+    "creator": "Vincent van Gogh",
+    "title": "Wheat Field with Cypresses",
+    "date": "1889",
+    "source": "https://www.metmuseum.org/art/collection/search/436535",
+    "image_url": "https://images.metmuseum.org/CRDImages/ep/original/DP-42549-001.jpg",
+    "rights": "Met Open Access / Public Domain"
+  },
+  {
+    "file": "revision-root-nasa-19.png",
+    "kind": "real_artwork",
+    "creator": "Danne & Blackburn / NASA",
+    "title": "NASA Graphics Standards Manual：Headquarters Letterhead and Envelope",
+    "date": "1976年1月版本",
+    "source": "https://www.nasa.gov/wp-content/uploads/2015/01/nasa_graphics_manual_nhb_1430-2_jan_1976.pdf",
+    "source_page": 19,
+    "rights": "NASA公开机构规范，标识与名称不意味着对本书背书。"
+  },
+  {
+    "file": "revision-root-nasa-52.png",
+    "kind": "real_artwork",
+    "creator": "Danne & Blackburn / NASA",
+    "title": "NASA Graphics Standards Manual：Motor Vehicle Identification Demonstrations",
+    "date": "1976年1月版本",
+    "source": "https://www.nasa.gov/wp-content/uploads/2015/01/nasa_graphics_manual_nhb_1430-2_jan_1976.pdf",
+    "source_page": 52,
+    "rights": "NASA公开机构规范，标识与名称不意味着对本书背书。"
+  },
+  {
+    "file": "revision-root-coke-timeline.jpg",
+    "kind": "real_artwork",
+    "creator": "Root Glass Company / The Coca-Cola Company",
+    "title": "Coca-Cola瓶型演变（品牌官方历史图）",
+    "date": "各瓶型年代以图中标签为准",
+    "source": "https://www.coca-colacompany.com/about-us/history/the-history-of-the-coca-cola-contour-bottle",
+    "image_url": "https://www.coca-colacompany.com/content/dam/corporate/us/en/tccc/about-us/coca-cola-history/the-history-of-the-coca-cola-contour-bottle/coca-cola-contour-bottles-timeline.jpg",
+    "rights": "The Coca-Cola Company官方公开历史图，版权归权利人；本书分析引图不声明开放许可。"
+  },
+  {
+    "file": "revision-root-tetra.jpg",
+    "kind": "real_artwork",
+    "creator": "Tetra Pak档案",
+    "title": "手持早期四面体包装的法国男子",
+    "date": "馆方资产标记1953–1956，照片确切拍摄日不明",
+    "source": "https://www.tetrapak.com/about-tetra-pak/who-we-are/heritage",
+    "image_url": "https://s7g10.scene7.com/is/image/tetrapak/French-gentleman-1953-56?wid=1600&fmt=jpg",
+    "rights": "Tetra Pak官方公开历史照片，版权归原权利人；本书研究引图不声明开放许可。"
+  },
+  {
+    "file": "revision-root-hokusai-analysis.png",
+    "kind": "original_analysis",
+    "title": "Hokusai构图三层标注",
+    "source": "https://www.metmuseum.org/art/collection/search/45434",
+    "method": "原创标注/对照；原作处理方式见图注，不伪称原作"
+  },
+  {
+    "file": "revision-root-vangogh-analysis.png",
+    "kind": "original_analysis",
+    "title": "Van Gogh色彩与灰度分析",
+    "source": "https://www.metmuseum.org/art/collection/search/436535",
+    "method": "原创标注/对照；原作处理方式见图注，不伪称原作"
+  },
+  {
+    "file": "revision-root-tschichold-analysis.png",
+    "kind": "original_analysis",
+    "title": "Tschichold展览海报的阅读角色标注",
+    "source": "https://www.moma.org/collection/works/7292",
+    "method": "原创标注/对照；原作处理方式见图注，不伪称原作"
+  },
+  {
+    "file": "revision-root-poster-rewrite.png",
+    "kind": "original_analysis",
+    "title": "公众讲座海报的三步原创改稿",
+    "source": "https://www.metmuseum.org/art/collection/search/45434",
+    "method": "原创标注/对照；原作处理方式见图注，不伪称原作"
+  },
+  {
+    "file": "revision-root-packaging-analysis.png",
+    "kind": "original_analysis",
+    "title": "Coca-Cola瓶型演变的三层观察",
+    "source": "https://www.coca-colacompany.com/about-us/history/the-history-of-the-coca-cola-contour-bottle",
+    "method": "原创标注/对照；原作处理方式见图注，不伪称原作"
+  },
+  {
+    "file": "revision-root-data-rewrite.png",
+    "kind": "original_analysis",
+    "title": "虚构客流条形图的轴线修订",
+    "source": "本书原创教学数据",
+    "method": "原创标注/对照；原作处理方式见图注，不伪称原作"
+  },
+  {
+    "file": "revision-root-coffee-family.png",
+    "kind": "original_analysis",
+    "title": "虚构咖啡包装的名称图形与字段结构",
+    "source": "本书原创教学示例",
+    "method": "原创标注/对照；原作处理方式见图注，不伪称原作"
+  },
+  {
+    "file": "revision-root-packaging-map.png",
+    "kind": "original_analysis",
+    "title": "虚构咖啡包装正侧背面信息分工",
+    "source": "本书原创教学示例",
+    "method": "原创标注/对照；原作处理方式见图注，不伪称原作"
+  }
+]

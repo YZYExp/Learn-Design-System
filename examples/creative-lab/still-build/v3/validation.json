@@ -1,0 +1,48 @@
+{
+  "tool": "tingly-design",
+  "version": "0.26.1021",
+  "created_by_native_cli": true,
+  "recovered_after_workspace_rollback": true,
+  "system_check": {
+    "snapshots": 6,
+    "problems": []
+  },
+  "canvas_check": {
+    "snapshots": 5,
+    "problems": []
+  },
+  "export": {
+    "scale": 2,
+    "failed": [],
+    "files": [
+      "still-canvas/renders/export/Main.png",
+      "still-canvas/renders/export/Campaign.png",
+      "still-canvas/renders/export/Packaging.png",
+      "still-canvas/renders/export/Subscription.png",
+      "still-canvas/renders/export/Stress.png",
+      "still-system/renders/export/Colors.png"
+    ]
+  },
+  "interaction": {
+    "environment": "native editor Play mode",
+    "passed": [
+      "monthly 148 → once 156",
+      "confirm displays local-only message",
+      "return monthly resets to 148 and clears confirmation",
+      "three imported product names match"
+    ]
+  },
+  "ai_asset": "shared-assets/still-coffee.png",
+  "native_components": [
+    "STILL.ActionButton",
+    "STILL.FlavorTag",
+    "STILL.ProductCard"
+  ],
+  "canvas_component": "still-canvas/ProductCard.dc.html",
+  "themes": [
+    "light",
+    "night"
+  ],
+  "color_tokens": 10,
+  "at": "2026-10-22T01:32:07.372158+00:00"
+}

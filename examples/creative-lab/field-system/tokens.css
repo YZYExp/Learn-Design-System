@@ -1,0 +1,103 @@
+/* 野序 / FIELD NOTES · V4 — generated from tokens.json */
+
+:root, [data-theme="paper"] {
+  --paper: #F4EEDC;
+  --plum: #482C45;
+  --moss: #3E5947;
+  --blush: #E4D2D2;
+  --ink-secondary: #675A60;
+  --rule: #B4AA97;
+  --white: #FFFFFF;
+  --on-plum: #F4EEDC;
+}
+
+:root {
+  --space-8: 8px;
+  --space-16: 16px;
+  --space-24: 24px;
+  --space-40: 40px;
+  --space-56: 56px;
+  --space-80: 80px;
+  --radius-none: 0px;
+  --radius-label: 2px;
+  --radius-seal: 999px;
+  --component-label: 16px;
+  --component-name: 42px;
+  --component-english: 46px;
+  --component-date: 52px;
+  --component-display: 84px;
+  --rule-width: 1px;
+  --font-sans: "Field Sans", sans-serif;
+  --font-serif: "Field Serif", serif;
+}
+
+.masthead {
+  font-family: var(--font-sans);
+  font-size: 42px;
+  line-height: 1.1;
+  font-weight: 400;
+}
+
+.feature-title {
+  font-family: var(--font-sans);
+  font-size: 60px;
+  line-height: 1.16;
+  font-weight: 400;
+}
+
+.section-title {
+  font-family: var(--font-sans);
+  font-size: 28px;
+  line-height: 1.3;
+  font-weight: 400;
+}
+
+.body {
+  font-family: var(--font-sans);
+  font-size: 21px;
+  line-height: 1.8;
+  font-weight: 400;
+}
+
+.caption {
+  font-family: var(--font-sans);
+  font-size: 16px;
+  line-height: 1.5;
+  font-weight: 400;
+}
+
+.latin-display {
+  font-family: var(--font-serif);
+  font-size: 176px;
+  line-height: 0.92;
+  font-weight: 400;
+}
+
+.latin-pullquote {
+  font-family: var(--font-serif);
+  font-size: 42px;
+  line-height: 1.12;
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: "Field Sans";
+  src: url("fonts/NotoSansSC-Regular.ttf") format("truetype");
+  font-weight: 100 900;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Field Serif";
+  src: url("fonts/FieldSerif.otf") format("opentype");
+  font-weight: 400;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Field Serif";
+  src: url("fonts/FieldSerif-Italic.otf") format("opentype");
+  font-weight: 400;
+  font-style: italic;
+  font-display: swap;
+}

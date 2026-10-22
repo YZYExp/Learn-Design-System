@@ -1,0 +1,6 @@
+/* @ds-bundle: {"format":4,"namespace":"STILL","components":[{"name":"ActionButton"},{"name":"FlavorTag"},{"name":"ProductCard"}]} */
+(function(){function el(tag,cls,text){var n=document.createElement(tag);if(cls)n.className=cls;if(text!=null)n.textContent=text;return n;}
+function ActionButton(p){p=p||{};var n=el('button','still-button',p.label||'加入订阅');n.type='button';n.dataset.variant=p.variant||'solid';n.disabled=!!p.disabled;if(p.onClick)n.addEventListener('click',p.onClick);return n;}
+function FlavorTag(p){p=p||{};return el('span','still-flavor',p.label||'坚果 · 可可');}
+function ProductCard(p){p=p||{};var n=el('article','still-product'),im=el('img');im.src=p.image||'../../assets/Photography/still-coffee.png';im.alt='AI生成材料情境摄影：绿釉咖啡杯与牛皮纸袋';n.appendChild(im);n.appendChild(el('p','',p.series||'01 / 日常拼配'));n.appendChild(el('h3','',p.name||'把早晨留给自己'));n.appendChild(FlavorTag({label:p.flavor||'榛果 · 可可 · 焦糖'}));n.appendChild(el('p','',p.description||'中度烘焙，250 g。适合手冲与奶咖。'));var f=el('footer');f.appendChild(el('strong','',p.price||'¥ 68'));f.appendChild(ActionButton({label:p.action||'查看咖啡',onClick:p.onClick}));n.appendChild(f);return n;}
+window.STILL={ActionButton:ActionButton,FlavorTag:FlavorTag,ProductCard:ProductCard};})();

@@ -1,0 +1,97 @@
+{
+  "v": 3,
+  "title": "折光 / REFRACTION · 纸白光场",
+  "createdOnFiles": {
+    "v": 1,
+    "at": "2026-10-22T01:29:40.198Z"
+  },
+  "boards": {
+    "VisualRules.dc.html": {
+      "x": 0,
+      "y": 0,
+      "w": 1600,
+      "h": 1000,
+      "title": "视觉规则"
+    },
+    "Main.dc.html": {
+      "x": 0,
+      "y": 1120,
+      "w": 1080,
+      "h": 1440,
+      "title": "竖版海报"
+    },
+    "Invitation.dc.html": {
+      "x": 1160,
+      "y": 1120,
+      "w": 1600,
+      "h": 900,
+      "title": "开幕邀请"
+    },
+    "Proposal01.dc.html": {
+      "x": 0,
+      "y": 2680,
+      "w": 1600,
+      "h": 900,
+      "title": "提案01 · 展览命题"
+    },
+    "Proposal02.dc.html": {
+      "x": 1680,
+      "y": 2680,
+      "w": 1600,
+      "h": 900,
+      "title": "提案02 · 观看路径"
+    },
+    "Proposal03.dc.html": {
+      "x": 3360,
+      "y": 2680,
+      "w": 1600,
+      "h": 900,
+      "title": "提案03 · 跨媒介"
+    },
+    "Revision.dc.html": {
+      "x": 1680,
+      "y": 0,
+      "w": 1600,
+      "h": 1000,
+      "title": "V4 → V5方向修订"
+    }
+  },
+  "order": [
+    "Main.dc.html",
+    "VisualRules.dc.html",
+    "Invitation.dc.html",
+    "Proposal01.dc.html",
+    "Proposal02.dc.html",
+    "Proposal03.dc.html",
+    "Revision.dc.html"
+  ],
+  "notes": {
+    "t1": {
+      "kind": "title1",
+      "x": 0,
+      "y": -250,
+      "text": "REFRACTION / 光学与感知研究展",
+      "maxW": 3280
+    },
+    "t2": {
+      "kind": "title1",
+      "x": 0,
+      "y": 2430,
+      "text": "一种识别，三次不同的相遇",
+      "maxW": 4960
+    }
+  },
+  "pages": [],
+  "launch": {
+    "view": "canvas"
+  },
+  "designSystems": [
+    {
+      "title": "折光 / REFRACTION",
+      "namespace": "refraction",
+      "artifact": "projects/refraction-system",
+      "version": 5,
+      "copiedAt": "2026-10-22T05:34:25.571709+00:00"
+    }
+  ]
+}
