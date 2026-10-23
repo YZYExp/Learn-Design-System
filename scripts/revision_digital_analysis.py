@@ -12,14 +12,14 @@ def place(im,f,box,crop=None,bg='white'):
 meta=[]
 def save(im,name,sources):
  tmp=D/(name+'.tmp');im.save(tmp,format='PNG');tmp.replace(D/name);meta.append(dict(file='assets/images/'+name,filename=name,kind='original_analysis',title=name,creator='本书编辑：原作局部研究标注',date='2026-10-21',source_files=sources,rights='标注与版式为本书原创；原图版权沿用对应来源条目，不据此获得作品再许可',use='书内研究评论'))
-im,d=canvas('17  看清变化发生在哪里：Molnár 1985',1000)
+im,d=canvas('看清变化发生在哪里：Molnár 1985',1000)
 place(im,'revision-digital-molnar.jpg',(40,105,885,750));
 place(im,'revision-digital-molnar.jpg',(930,120,1750,360),(95,70,1160,175));text(d,(940,370),'A 上沿：逐个矩形的小幅高低变化')
 place(im,'revision-digital-molnar.jpg',(930,445,1750,735),(95,380,1170,520));text(d,(940,750),'B 交接带：密集横边使局部聚成一条带')
 text(d,(45,850),'原作保留红线、白纸与两组竖矩形；分析聚焦位置与密度。',30)
 text(d,(45,910),'局部裁切为研究引图。不是原作算法复原，不能从照片反推随机参数。',26)
 save(im,'revision-digital-analysis-molnar.png',['revision-digital-molnar.jpg'])
-im,d=canvas('19  同一行动角色，两组实际前景／背景',880)
+im,d=canvas('同一行动角色，两组实际前景／背景',880)
 for x,fn,bg,label in [(50,'revision-digital-material-light.png','#fffbfe','浅色主题的官方按钮样图'),(930,'revision-digital-material-dark.png','#1c1b1f','深色主题的官方按钮样图')]:
  d.rectangle((x,125,x+820,570),fill=bg);place(im,fn,(x+75,240,x+745,460),bg=bg);text(d,(x,605),label,30)
 text(d,(50,700),'观察：填充色的明暗顺序与文字明暗一起改变。',32)
@@ -28,20 +28,20 @@ save(im,'revision-digital-analysis-roles.png',['revision-digital-material-light.
 doc=fitz.open(R/'build/revision-digital/gov-report.pdf');p=doc[12]
 # Select the official figure only, leave the uncropped page separately available.
 rect=fitz.Rect(58,184,475,370);detail=D/'revision-digital-gov-error-detail.png';tmp=detail.with_name(detail.stem+'.tmp.png');p.get_pixmap(matrix=fitz.Matrix(3,3),clip=rect).save(tmp);tmp.replace(detail)
-im,d=canvas('20  错误摘要：三个有位置的视觉线索',900)
+im,d=canvas('错误摘要：三个有位置的视觉线索',900)
 place(im,'revision-digital-gov-error-detail.png',(35,110,1280,775));
 text(d,(1320,180),'1 红边界',32);text(d,(1320,235),'圈定整体问题区',27)
 text(d,(1320,355),'2 下划线链接',32);text(d,(1320,410),'每条指向待改字段',27)
 text(d,(1320,530),'3 黄色焦点',32);text(d,(1320,585),'标明当前键盘位置',27)
 text(d,(45,815),'原始页面：英国教育部2024年指引第13页图17。局部放大，未改页面颜色。',26)
 save(im,'revision-digital-analysis-errors.png',['revision-digital-gov-page13.png','revision-digital-gov-error-detail.png'])
-im,d=canvas('23  类型学的比较单位：先保持整幅，再读局部',1100)
+im,d=canvas('类型学的比较单位：先保持整幅，再读局部',1100)
 place(im,'revision-digital-becher.jpg',(30,100,780,1030));
 place(im,'revision-digital-becher.jpg',(850,120,1760,510),(0,0,1553,665));text(d,(860,535),'第一行局部：罐体轮廓与支承方式不同',30)
 text(d,(860,675),'读图顺序',34);text(d,(860,740),'整幅：三列三行的重复间距',29);text(d,(860,800),'单幅：主体占比、正面与地面位置',29);text(d,(860,860),'跨幅：罐体、支柱、开口的变化',29)
 text(d,(860,960),'局部放大未重排原作。',26);text(d,(860,1005),'© Becher遗产管理方；图片来源MoMA。',25)
 save(im,'revision-digital-analysis-becher.png',['revision-digital-becher.jpg'])
-im,d=canvas('24  Vionnet 1922：三种不同的体积与边界',1100)
+im,d=canvas('Vionnet 1922：三种不同的体积与边界',1100)
 place(im,'revision-digital-vionnet.jpg',(30,110,650,1035));
 place(im,'revision-digital-vionnet.jpg',(700,110,1210,600),(410,500,900,1070));text(d,(710,625),'A 背部蝴蝶结：体积集中',27)
 place(im,'revision-digital-vionnet.jpg',(1260,110,1765,600),(385,345,815,785));text(d,(1270,625),'B 袖部薄纱：透明与花饰',27)

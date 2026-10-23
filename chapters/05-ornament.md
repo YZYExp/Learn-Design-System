@@ -1,4 +1,6 @@
-# 第05章｜纹样与装饰：繁复之中，谁在维持秩序
+# 第06章｜纹样与装饰：繁复之中，谁在维持秩序
+
+插画与摄影确定了主体怎样出现；纹样进一步处理图形怎样连续。为岸线保留一块不带文字的纹样小样，检查重复边缘和远近尺度，避免装饰在海报上合适、进入窄纸带后却把信息淹没。
 
 看一块印花布，最先吸引你的是花鸟，决定它能铺满整间屋子的却是更不显眼的东西：花枝怎样在边缘接回，深浅区域如何交替，放大以后还有没有节奏。装饰设计的系统性，常常藏在“这一小块怎样变成一大片”之中。花朵的形状、重复方式与应用尺度，共同决定了表面的观看效果。
 
@@ -6,7 +8,7 @@
 
 ![莫里斯和韦布的格架壁纸](../assets/images/revision-history-trellis.jpg)
 
-真实作品05B｜威廉·莫里斯设计、菲利普·韦布设计鸟形，《Trellis》（格架），Met藏品标注1864年；Morris & Company制造、Jeffrey & Co.印制，版印壁纸，藏品号23.163.4h。Met Open Access / Public Domain（CC0）。[The Met，William Morris / Philip Webb，Trellis，1864](https://www.metmuseum.org/art/collection/search/384020)
+真实作品06B｜威廉·莫里斯设计、菲利普·韦布设计鸟形，《Trellis》（格架），Met藏品标注1864年；Morris & Company制造、Jeffrey & Co.印制，版印壁纸，藏品号23.163.4h。Met Open Access / Public Domain（CC0）。[The Met，William Morris / Philip Webb，Trellis，1864](https://www.metmuseum.org/art/collection/search/384020)
 
 先把目光放在图的中部：水平与竖直的灰色格架，把花枝背后的空间分出明确节拍；玫瑰枝沿格架生长，却不被关在每一个格子里。右上和左下的鸟又把你的视线带离整齐的直线。这里可以读出两套关系：格架使重复容易察觉，植物与鸟使每个局部不至于像算术表。这是本书对构图的分析。馆方记载设计构思始于1862年，1864年上市；设计构思、上市与具体纸张的印制时间需分别记录。[The Met，William Morris / Philip Webb，Trellis，1864](https://www.metmuseum.org/art/collection/search/384020)
 
@@ -16,11 +18,11 @@
 
 ![两件莫里斯壁纸的真实局部比较](../assets/images/revision-history-analysis-05.png)
 
-分析图05C｜《Daisy》与《Trellis》实际馆藏图的局部裁切并列，原图均为Met CC0。裁切不是最小重复单元的测量，也不宣称左右边界可直接无缝相接。
+分析图06C｜《Daisy》与《Trellis》实际馆藏图的局部裁切并列，原图均为Met CC0。裁切不是最小重复单元的测量，也不宣称左右边界可直接无缝相接。
 
 ![穆夏JOB1898海报](../assets/images/revision-history-mucha.jpg)
 
-真实作品05D｜阿尔丰斯·穆夏《Job》，1898年，LOC Prints and Photographs Division，编号95504874，彩色广告海报。此处使用LOC的1898年版本，不能套用1896年另一版《JOB》的构图。[Library of Congress，Alphonse Mucha，Job，1898](https://www.loc.gov/item/95504874/) 图像保留作者与馆藏归属；本书研究分析引图，不将公开可访问解释成开放许可。
+真实作品06D｜阿尔丰斯·穆夏《Job》，1898年，LOC Prints and Photographs Division，编号95504874，彩色广告海报。此处使用LOC的1898年版本，不能套用1896年另一版《JOB》的构图。[Library of Congress，Alphonse Mucha，Job，1898](https://www.loc.gov/item/95504874/) 图像保留作者与馆藏归属；本书研究分析引图，不将公开可访问解释成开放许可。
 
 海报上方，大字母与矩形边框先给出边界，但女人的头部、头发和飘动线条很快占据视觉中心。黑色头发在浅色皮肤和服装旁形成大块对比；发丝不是均匀填满纸面，而是在身体两侧转折，既描出轮廓，也把人物与装饰连接起来。读者不一定先逐字阅读，但广告名并未消失，它通过尺寸、位置及重复的字母图案持续存在。大字母既传递广告名称，也参与画面分区，和正文独立成块的排法承担不同职责。
 
@@ -34,7 +36,7 @@
 
 ![威廉莫里斯的雏菊壁纸真实馆藏](../assets/images/reference-morris-daisy.jpg)
 
-真实作品05A｜威廉·莫里斯《雏菊》（Daisy），1864年，Morris & Company制造，Jeffrey & Co.印制，版印壁纸。纽约大都会艺术博物馆藏，藏品号23.163.4b，object ID 384017；馆方标注Public Domain，图像依Met Open Access（CC0）使用。[The Metropolitan Museum of Art，William Morris，Daisy，1864](https://www.metmuseum.org/art/collection/search/384017) 看花叶之间的间隔：图案的节奏由图形与底色共同形成，不必等到满版密铺才产生装饰秩序。
+真实作品06A｜威廉·莫里斯《雏菊》（Daisy），1864年，Morris & Company制造，Jeffrey & Co.印制，版印壁纸。纽约大都会艺术博物馆藏，藏品号23.163.4b，object ID 384017；馆方标注Public Domain，图像依Met Open Access（CC0）使用。[The Metropolitan Museum of Art，William Morris，Daisy，1864](https://www.metmuseum.org/art/collection/search/384017) 看花叶之间的间隔：图案的节奏由图形与底色共同形成，不必等到满版密铺才产生装饰秩序。
 
 新艺术的自然形态常被转化为延伸的曲线、卷须和有机轮廓。它在19世纪90年代至第一次世界大战前发展于多个地区，也进入海报、玻璃、金属和建筑。装饰艺术则可以用更明确的几何、阶梯、放射与材质对比组织视觉；但“新艺术全是曲线、装饰艺术全是直线”只是一条初步辨认线索，并非可靠定义。[V&A，Art Nouveau](https://www.vam.ac.uk/collections/art-nouveau)[V&A，Art Deco](https://www.vam.ac.uk/collections/art-deco)
 
@@ -52,7 +54,7 @@
 
 ![平移、错位与镜像三种纹样组织示意](../assets/images/fig-05.png)
 
-图05｜原创程序教学图：相同叶片在平移、隔行错位和镜像规则下产生不同节奏。图中单元是教学构造，不是《草莓小偷》的复制或历史复原。
+图06｜原创程序教学图：相同叶片在平移、隔行错位和镜像规则下产生不同节奏。图中单元是教学构造，不是《草莓小偷》的复制或历史复原。
 
 连续铺展前，要检查单元相对边：从右边离开的线，必须从左边对应位置进入；上、下同理。只在单元中间看起来漂亮，不能保证重复后没有断枝。把单元排成至少三乘三，再退后一步看整体。若出现意外的水平条带，不要马上添加细节，先调整大面积深色区域的位置。这些条带往往由重复后的深色聚集造成，增加局部细节并不能消除。
 

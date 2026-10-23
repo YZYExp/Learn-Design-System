@@ -1,4 +1,4 @@
-# 第24章｜服装与配饰：布料、身体和空隙的系统
+# 第21章｜服装与配饰：布料、身体和空隙的系统
 
 白色长衣可以呈现完整平滑的大面，也可以通过层叠与镂空显出断续的边缘。这些差异来自裁片、接缝、垂坠、开口以及衣服与身体的关系。本章并置两件KCI馆藏：Vionnet的1922年婚礼服，与山本耀司1983年春夏的上衣、连衣裙与长裤组合。两者均以浅色和较宽松形态出现，便于比较它们在轮廓、体积和细节分布上的差异。
 
@@ -7,7 +7,7 @@
 <!-- figure-height: 145 -->
 ![Vionnet1922年婚礼服馆藏真实照片](../assets/images/revision-digital-vionnet.jpg)
 
-图24-2｜Madeleine Vionnet，《Wedding Dress》，1922，白色丝织物与薄纱，KCI，AC7007 91-15-3A。© The Kyoto Costume Institute，photo by Richard Haughton。研究引图，保留摄影原色。[KCI原作页](https://www.kci.or.jp/en/archives/digital_archives/1920s/KCI_313)
+图21-2｜Madeleine Vionnet，《Wedding Dress》，1922，白色丝织物与薄纱，KCI，AC7007 91-15-3A。© The Kyoto Costume Institute，photo by Richard Haughton。研究引图，保留摄影原色。[KCI原作页](https://www.kci.or.jp/en/archives/digital_archives/1920s/KCI_313)
 
 先看肩部到背部的大面：没有靠密集装饰把每一处填满，身体轮廓也没有被强烈收腰重新划出。视线因此沿光滑的浅色面往下滑，到了背部蝴蝶结处才遇到一团明显凸出的体积。接着往下，裙身转为长而连续的垂向区域，最后在地面展开为拖裾。平滑大面、背部体积和长拖裾依次形成不同的视觉密度。
 
@@ -17,7 +17,7 @@ KCI说明其裁片以矩形组织，并将后部蝴蝶结与和服腰带的效�
 
 ![Vionnet婚礼服背部袖部与拖裾的局部分析](../assets/images/revision-digital-analysis-vionnet.png)
 
-图24-3｜本书局部读图板：A背部蝴蝶结，B袖部薄纱，C地面拖裾。裁切用于研究，不是纸样复原；原图版权同图24-2。
+图21-3｜本书局部读图板：A背部蝴蝶结，B袖部薄纱，C地面拖裾。裁切用于研究，不是纸样复原；原图版权同图21-2。
 
 请把视线停在拖裾接触地面的地方：上半段是垂落的曲线，到地面后转为水平展开。重力与支撑面参与了轮廓。平铺服装效果图往往会忽略这一转换，因此“设计一条长裙”至少需要同时想象站立、行走、坐下和收纳，并记录不同姿态下的轮廓变化。
 
@@ -28,7 +28,7 @@ KCI说明其裁片以矩形组织，并将后部蝴蝶结与和服腰带的效�
 <!-- figure-height: 145 -->
 ![山本耀司1983春夏馆藏白色镂空服装](../assets/images/revision-digital-yamamoto.jpg)
 
-图24-4｜Yohji Yamamoto，Jacket, Dress, Pants，1983年春夏，白色平纹棉布、镂空，KCI，AC775593-15B,E及AC898493-42-8。© The Kyoto Costume Institute，photo by Takashi Hatakeyama。研究引图。[KCI原作页](https://www.kci.or.jp/en/archives/digital_archives/1980s/KCI_260)
+图21-4｜Yohji Yamamoto，Jacket, Dress, Pants，1983年春夏，白色平纹棉布、镂空，KCI，AC775593-15B,E及AC898493-42-8。© The Kyoto Costume Institute，photo by Takashi Hatakeyama。研究引图。[KCI原作页](https://www.kci.or.jp/en/archives/digital_archives/1980s/KCI_260)
 
 这件组合请从外轮廓开始：肩与袖向外展开，身体正面存在数条长的垂向边缘，下方又露出不同长度的层次。整体没有靠一条紧贴身体的连续边界解释身形，衣服与身体之间的空间成为形态的一部分。它与前一件同样没有强烈收腰，却通过开襟、层叠与不齐的边缘形成另一种节奏。
 
@@ -36,7 +36,7 @@ KCI说明其裁片以矩形组织，并将后部蝴蝶结与和服腰带的效�
 
 比较小孔与大孔，会发现重复并不等于完全复制。小孔较密时形成局部纹理，较疏的大孔则形成更醒目的断口。若把全件的孔都放大，布面连续性与层叠的辨认方式都会改变；若把孔全部取消，白色层次仍在，但表面里让背景穿入的节奏便消失了。这个关系可以用于其他设计：纸艺、灯罩和包装开窗也会把“缺少一块材料”变成视觉语言，但每种材料有自己的结构限制。
 
-请把图24-2与图24-4并排。第一件的明显体积集中在背部，第二件的变化散布在多条垂边与多种开口；第一件用相对完整的大面衬托装饰，第二件让大面不断被孔洞与层叠中断。体积位置、表面连续性与空隙密度，比“优雅”或“先锋”更准确地说明了两者的区别。
+请把图21-2与图21-4并排。第一件的明显体积集中在背部，第二件的变化散布在多条垂边与多种开口；第一件用相对完整的大面衬托装饰，第二件让大面不断被孔洞与层叠中断。体积位置、表面连续性与空隙密度，比“优雅”或“先锋”更准确地说明了两者的区别。
 
 完整大面与断续表面都可以成为设计方向，选择时应结合所需的轮廓和表达。山本耀司这件作品的孔洞也受边缘、尺度和整体衣形约束，不能简化成随意破洞。
 
@@ -63,3 +63,44 @@ KCI说明其裁片以矩形组织，并将后部蝴蝶结与和服腰带的效�
 完成时放在一起看三个问题：远处是否仍能识别轮廓主次；近处是否有清楚的材料和边界关系；使用后是否保留最关键特征。再写三项必须打样才能确认的事项。这组三件练习同时检查视觉关系、材料限制和使用动作，避免只凭静态效果图判断方案。
 
 本章来源：KCI，Madeleine Vionnet，《Wedding Dress》，1922；KCI，Yohji Yamamoto，Jacket, Dress, Pants，1983春夏。链接见各图注。图像版权保留；局部分析、跨作品比较与纸片练习为本书原创教学。照片不是可直接裁布的尺寸纸样。
+
+## 当代案例｜Decathlon 2024：同一个识别，怎样进入身体、文字和摄影 {#case-decathlon}
+
+Decathlon在2024年发布新视觉身份，品牌官方发布页说明3月12日对外介绍。Wolff Olins项目页列出策略与视觉身份工作，并将定制字体Decathlon Sans归于Grilli Type。Orbit是这次更新的重要符号，以下结合产品、文字与摄影应用分析它与其他视觉元素的关系。[CT-DC1][CT-DC2]
+
+![Decathlon球衣的实际品牌应用](../assets/images/contemporary-decathlon-jersey.jpg)
+
+图21-C1｜真实案例：Wolff Olins官方案例中的球衣应用，1500×2000；属于2024改版项目展示，官网未逐图标注拍摄日。©Decathlon、Wolff Olins及相应摄影权利人，未声明开放许可。[CT-DC1] [原始出处](https://www.wolffolins.com/work/decathlon)。
+
+胸前标记以简短的反白形与大片蓝色面料形成对比，拉链、领口和身体轮廓仍是服装的主要结构。应用到衣物后，图形会受到折痕、弧面、穿着动作和观看距离影响。这张照片展示了一个穿着状态，运动、远距和磨损条件下的识别仍需另外检查。
+
+![Decathlon Sans实际文字展示](../assets/images/contemporary-decathlon-typography.jpg)
+
+图21-C2｜真实案例：Wolff Olins案例中的文字构成，3000×2000；Decathlon Sans字体设计由Grilli Type署名。图中文字的角度与裁切是原作内容，不是本书加上的效果。[CT-DC1] [原始出处](https://www.wolffolins.com/work/decathlon)。
+
+文字展示图则扩大了字形的表现范围。字母被分开摆放，笔画的斜向与不同轮廓制造运动感；画框裁切又使部分形态继续向外延伸。球衣标记需要紧凑，文字展示却允许字本身成为场景。两者通过品牌元素保持关联，密度则按任务变化。图中可见字形、角度和占位关系；可变轴、替代字形触发规则及动画参数需另查字体与制作资料。
+
+![Decathlon文字与球衣的实际应用比较](../assets/images/contemporary-decathlon-analysis.png)
+
+图21-C3｜本书分析：两张官方原图仅缩放并列，中文标签为本书添加；没有重画Orbit，也没有用生成图冒充实际应用。原图权利沿用案例页归属。[CT-DC1] [原始出处](https://www.wolffolins.com/work/decathlon)。
+
+这种差别可用于划分文字角色：小尺度识别使用紧凑符号，展示页面允许拆字与大幅裁切，产品参数、尺码和使用说明则保留稳定字形与清楚层级。系统应明确各类文字允许变化的范围，以免展示手法妨碍信息查找。
+
+![Decathlon官方项目的户外行走摄影](../assets/images/contemporary-decathlon-campaign.jpg)
+
+图21-C4｜真实案例：官方案例中的户外行走主视觉，3000×2000。摄影与艺术指导为实际项目展示；具体摄影师按案例页总署名，未将总署名擅自分配给单张。[CT-DC1] [原始出处](https://www.wolffolins.com/work/decathlon)。
+
+摄影进一步展示人物与环境的组织方式。靠近镜头的人物占据明显位置，另一些参与者从两侧进入，背景仍能辨认出开阔地形。画面以身体和环境的关系表现运动，呈现接近日常参与的情境。观众是否感到被包容，以及传播对经营的影响，仍需受众反馈与数据验证。
+
+![Decathlon官方项目的骑行应用](../assets/images/contemporary-decathlon-cycling.jpg)
+
+图21-C5｜真实案例：同一项目的骑行摄影应用，3000×2000。原图带有近距离与运动中的模糊，本书保留它，不把模糊区域生成补清。[CT-DC1] [原始出处](https://www.wolffolins.com/work/decathlon)。
+
+骑行图更靠近身体，景物被压到外围，眼镜与笑容先被注意到。两张照片没有机械复制人物位置，却都让观者接近参与者，而非只远观完成姿态。可将共同点写成摄影规则：观看距离、人物与环境的比例，以及所保留的动作和瞬间，用于指导后续选片与拍摄。
+
+迁移练习：用自有照片为社区运动日做一张招贴、一枚志愿者标记和一页活动说明。招贴可强调身体与环境，标记应在小尺度可辨，说明页优先保证日期与项目清楚。试着移除全部品牌蓝色，看三个任务是否仍成立；如果只能靠颜色勉强连接，补足形体与信息角色。依据不同使用条件记录取舍，并比较修改前后的识别、阅读与制作情况。
+
+本节来源：
+
+- [CT-DC1] Wolff Olins，Decathlon：[官方项目案例与全部原图](https://www.wolffolins.com/work/decathlon)。案例总署名包括FourOneNine与Jamie Mourn摄影、Studio PIC三维、Grilli Type字体等；不能将总名单直接分配给每一张图。
+- [CT-DC2] Decathlon，Building Decathlon’s next frontier：[品牌官方新身份发布](https://www.decathlon-united.media/decathlon-new-identity)。本书不把视觉的统一误写为所有专门运动品牌被取消，也不以品牌的效果宣言代替独立评估。

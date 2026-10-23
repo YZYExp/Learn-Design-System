@@ -1,4 +1,4 @@
-# 第18章｜来到屏幕：现代数字设计系统解决什么
+# 第25章｜来到屏幕：现代数字设计系统解决什么
 
 一家美术馆有漂亮的海报、统一的门票和精致的网页。你到手机上预约，却发现“下一步”有时是蓝色链接，有时是黑色方块；填错日期后只出现一个红圈，不知道怎样改。这说明视觉亲缘已经建立，操作规则却仍然松散。屏幕中的设计系统需要同时规定视觉身份、操作方式、反馈和不同使用条件下的任务路径。
 
@@ -7,7 +7,7 @@
 <!-- figure-height: 110 -->
 ![Carbon官方数据表解剖图](../assets/images/revision-digital-carbon-anatomy-1.png)
 
-图18-2｜IBM Carbon，Data Table官方解剖图，读取于2026年10月。© IBM，研究引图；代码的开源许可不自动视为此图的CC许可。[官方说明](https://www.carbondesignsystem.com/building-blocks/core/components/data-table/guidelines)
+图25-2｜IBM Carbon，Data Table官方解剖图，读取于2026年10月。© IBM，研究引图；代码的开源许可不自动视为此图的CC许可。[官方说明](https://www.carbondesignsystem.com/building-blocks/core/components/data-table/guidelines)
 
 官方标号划分了五个区域：1标题与描述，2工具栏，3列标题，4数据区，5分页。最强的蓝色放在右上行动按钮，数据区保持大面积浅色。这使“对整张表做什么”与“逐行读取什么”在空间上分开。黑色正文和偏灰的表头仍有层次，细分隔线让眼睛沿水平方向跟随同一记录，不需要给每个单元格画完整方框。
 
@@ -17,7 +17,7 @@
 
 ![Carbon官方多选状态图](../assets/images/revision-digital-carbon-multi-select-1.png)
 
-图18-3｜IBM Carbon，Data Table多选示例。© IBM，研究引图。与图18-2同源，注意选中行和复选框所承担的状态作用。 [图像与作品来源](https://www.carbondesignsystem.com/building-blocks/core/components/data-table/guidelines)
+图25-3｜IBM Carbon，Data Table多选示例。© IBM，研究引图。与图25-2同源，注意选中行和复选框所承担的状态作用。 [图像与作品来源](https://www.carbondesignsystem.com/building-blocks/core/components/data-table/guidelines)
 
 第二张图加入复选框，几行被选中。此时同一行的底色变化帮助横向追踪，复选框提供一个可指认的离散状态。它们同时存在，使选择不只依靠背景色。比较未选行与已选行，可以看出状态改变并未重排字段；使用者的阅读记忆仍然可用。
 
@@ -34,7 +34,7 @@ GOV.UK Design System 将样式、组件与模式分别组织；它对模式的�
 
 ![从视觉样式到任务模式及反馈维护](../assets/images/fig-18.png)
 
-图18　原创教学图。基础样式支持组件，组件进入任务模式，使用反馈推动维护；各层的责任不同。图中的层次是本书的学习整理，不是三个品牌共同采用的官方架构。
+图25　原创教学图。基础样式支持组件，组件进入任务模式，使用反馈推动维护；各层的责任不同。图中的层次是本书的学习整理，不是三个品牌共同采用的官方架构。
 
 再往外看，设计系统还需要使用说明、实现代码、内容规则和维护责任。组件库可以只是一组可以调用的代码；设计系统则要让别人知道什么时候该用、什么时候不适用、出了问题怎样改。单独保存组件截图，还不足以说明其适用条件和使用方法。
 
@@ -85,10 +85,28 @@ GOV.UK 的系统服务于政府服务的一致体验，汇集跨服务团队的�
 
 本章资料：Google，Material Design Foundations；IBM，About Carbon；GDS，GOV.UK Design System 首页及分类说明。链接见正文，核对于2026年10月。比较问题和预约示例为本书原创分析。
 
-## 当代对照：Wise怎样把品牌浓度带入产品
+2023年Wise更新了鲜绿、粗壮标题与多样图像。官方总览同时展示卡片、人物、符号与手机，但不要求每屏把这些都铺满。界面需要余额、字段、金额与行动的层级；广告可以放大字形与纹理。品牌系统决定可用的语汇，交互系统还需决定状态、错误、焦点与操作结果。下面用真实户外与手机场景继续比较。
 
-2023年Wise更新了鲜绿、粗壮标题与多样图像。官方总览同时展示卡片、人物、符号与手机，但不要求每屏把这些都铺满。界面需要余额、字段、金额与行动的层级；广告可以放大字形与纹理。品牌系统决定可用的语汇，交互系统还需决定状态、错误、焦点与操作结果。第三十二章用真实户外与手机场景继续比较。[Wise官方发布](https://wise.com/gb/blog/a-brand-for-everywhere-wise-unveils-bold-new-look)。
+## 当代案例｜Wise：同一品牌可以同时大胆与克制 {#case-wise}
 
-![Wise数字与品牌触点总览](../assets/images/contemporary-wise-3.png)
+**项目档案｜2023年发布；Wise与Ragged Edge。** 鲜绿、粗壮标题、来自不同地方的符号与织毯式图像，是这一轮更新的明显线索。资料见[Wise发布文章](https://wise.com/gb/blog/a-brand-for-everywhere-wise-unveils-bold-new-look)与[Ragged Edge项目说明](https://raggededge.com/partnerships/wise)。下文重点分析广告与操作界面如何分配视觉表达的强度。
 
-图18-N｜真实当代品牌总览：Wise于2023年发布的视觉更新文章配图。© Wise及相关创作者。属于视觉材料，未作为完整交互、键盘或可访问性测试的证据。 [原始出处](https://wise.com/gb/blog/a-brand-for-everywhere-wise-unveils-bold-new-look)。
+![Wise卡片与图像纹理](../assets/images/contemporary-wise-1.png)
+
+图25-C1｜真实品牌发布图：鲜绿卡片与织毯式图像并置。来自Wise于2023年3月发布的文章；原文后续更新，因此不将网页现状误称未经改变的发布档案。© Wise及相关创作者。 [原始出处](https://wise.com/gb/blog/a-brand-for-everywhere-wise-unveils-bold-new-look)。
+
+这幅图把两种不同密度的表面放在一起。左边色彩、颗粒与纹理丰富，右边卡片留出大片单色，只保留必需的识别与卡片元素。纹理带来地方、旅行与人的联想，空白则保证实体卡仍可识别。小字若叠在复杂纹理上，字形与背景之间的对比便难以保持稳定。
+
+![Wise户外与手机界面](../assets/images/contemporary-wise-2.png)
+
+图25-C2｜真实品牌应用：Wise官方文章将户外广告与手机使用场景并列。左侧为大标题传播，右侧为产品使用照片；无法从静态图验证具体交互。来源同上。 [原始出处](https://wise.com/gb/blog/a-brand-for-everywhere-wise-unveils-bold-new-look)。
+
+广告上的货币名称垂直叠起，几乎把整块牌面变成语言的节奏。这里的文字适合分层观看：远处先辨认绿色与字块，走近后再读取货币名称。手机屏幕的任务不同：余额、金额、字段和行动需要明确次序，品牌浓度退回图标、重点色与局部表面。二者共享身份，信息密度与对比节奏却不能相同。
+
+![Wise视觉语言拼图](../assets/images/contemporary-wise-3.png)
+
+图25-C3｜真实品牌总览：Wise发布文章中的字形、符号、人物、手机与纹理组合。它展示视觉语言的范围，不表示所有元素必须同时出现在每一页。来源同上。 [原始出处](https://wise.com/gb/blog/a-brand-for-everywhere-wise-unveils-bold-new-look)。
+
+拼图里有中文字样、国别相关符号、人物与不同质地。绿色、深色文字与强烈的字形比例在不同画面中反复出现，为多样的图像提供共同线索。纹理和背景可以变化，文字的对比与层级仍有稳定依据。
+
+**迁移练习。** 为同一个虚构服务做三档表达：户外广告最浓、品牌介绍页居中、金额确认页最克制。写明哪里可以放纹理、哪里必须有稳定底色、金额和状态如何表达。金融产品还必须清楚区分费用、金额和操作结果；本书的视觉分析并未验证其合规、可访问性或商业效果。

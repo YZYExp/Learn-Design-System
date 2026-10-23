@@ -1,10 +1,10 @@
-# 第15章｜空间与展陈：身体走进规则之中
+# 第22章｜空间与展陈：身体走进规则之中
 
 ## 真作细读：Eames House 的框架、场地与生活
 
 ![Eames House真实外观与场地](../assets/images/revision-applications-eames-exterior.jpg)
 
-图15-2｜真实建筑现场。Charles与Ray Eames，Eames House／Case Study House No.8，1949年完成；照片由[Eames Foundation历史页](https://eamesfoundation.org/eames-house/history/)发布，具体拍摄年份与摄影者未标。不是本书历史复原图。
+图22-2｜真实建筑现场。Charles与Ray Eames，Eames House／Case Study House No.8，1949年完成；照片由[Eames Foundation历史页](https://eamesfoundation.org/eames-house/history/)发布，具体拍摄年份与摄影者未标。不是本书历史复原图。
 
 画面前景的树显示了建筑与场地的关系。枝叶与树干在建筑前形成一层不规则的过滤，光影又落在平整面板上。建筑的直线没有抹去场地的曲线，二者存在前后关系。把这张照片只裁成正面几何格子，会丢掉空间设计中的一个核心事实：树木、草地和光线参与了建筑的空间关系。
 
@@ -12,13 +12,13 @@
 
 ![Eames House真实入口、帘幕与室内层次](../assets/images/revision-applications-eames-entry.jpg)
 
-图15-3｜真实建筑入口现场。建筑归属同图15-2；由[Eames Foundation](https://eamesfoundation.org/eames-house/history/)发布。摄影者与拍摄年份未在该页逐图标明；本图不用于推断不可见的完整平面。
+图22-3｜真实建筑入口现场。建筑归属同图22-2；由[Eames Foundation](https://eamesfoundation.org/eames-house/history/)发布。摄影者与拍摄年份未在该页逐图标明；本图不用于推断不可见的完整平面。
 
 入口图让外观中的秩序变得不那么抽象。先看两侧近乎垂直的细线：玻璃边框、帘褶与反射相互叠加；再看门内深处的物件，尺度与颜色比立面丰富。外部的清楚框架没有要求内部每件物品都服从同一种黑白几何外观。固定框架维持结构关系，室内物品仍可增加或移动。
 
 ![Eames House外观与入口的教学并置](../assets/images/revision-applications-analysis-space.png)
 
-图15-4｜真实照片的教学重组。左为外观，右为入口；原建筑Charles与Ray Eames，1949，原照片来自Eames Foundation。两幅比例按版面重排，不据此比较真实尺度。[原图出处](https://eamesfoundation.org/eames-house/history/)。
+图22-4｜真实照片的教学重组。左为外观，右为入口；原建筑Charles与Ray Eames，1949，原照片来自Eames Foundation。两幅比例按版面重排，不据此比较真实尺度。[原图出处](https://eamesfoundation.org/eames-house/history/)。
 
 这里可以区分两种约束：组织空间的结构规则，以及对每件生活物品外观的要求。如果为一个阅览空间设计固定书架，却要求书脊全是同色，照片会很整齐，实际阅读需求却被反过来服从摄影。Eames House的两张图提示另一种可能：使承载物件的结构有条理，让物件自身保持差异。框架承担主要组织工作，物件保留各自的形状与用途。
 
@@ -38,11 +38,11 @@ Charles 与 Ray Eames 的住宅兼工作室于1949年完成，是理解这一点
 
 ![入口、展区、休息与出口之间的示意路线，标明停留点与分流](../assets/images/fig-15.png)
 
-*图15｜原创程序教学图：虚构展馆的入口、展区、休息与出口组成连续路线；线条说明信息与停留的组织，不代表建筑施工图、无障碍或消防合规方案。*
+*图22｜原创程序教学图：虚构展馆的入口、展区、休息与出口组成连续路线；线条说明信息与停留的组织，不代表建筑施工图、无障碍或消防合规方案。*
 
 ![模块化展陈空间](../assets/images/space-and-object.png)
 
-图15-5｜AI生成教学示意：展陈、家具与标牌共享模块和材料语言。它用于观察整体关系，不作为准确尺寸、动线、安全疏散或可制造性依据；精确关系见本章程序平面图。
+图22-5｜AI生成教学示意：展陈、家具与标牌共享模块和材料语言。它用于观察整体关系，不作为准确尺寸、动线、安全疏散或可制造性依据；精确关系见本章程序平面图。
 
 ## 从人的活动推导空间结构
 

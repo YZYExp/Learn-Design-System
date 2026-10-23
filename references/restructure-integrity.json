@@ -1,0 +1,118 @@
+{
+  "edition": "6.0 主线重编版",
+  "baseline_commit": "0ff191efc25d777932540415c72831f2877ca1fb",
+  "checked_at": "2026-10-23T01:20:37.316418+00:00",
+  "source_files": 37,
+  "baseline_files_match_HEAD": true,
+  "baseline_mismatches": [],
+  "original_image_uses": 187,
+  "current_image_uses": 185,
+  "original_unique_image_sources": 178,
+  "current_unique_image_sources": 179,
+  "all_original_unique_image_sources_retained": true,
+  "missing_original_image_sources": [],
+  "new_image_sources": [
+    "../assets/images/book-learning-map.png"
+  ],
+  "image_use_changes": [
+    {
+      "path": "../assets/images/book-learning-map.png",
+      "original_uses": 0,
+      "current_uses": 1
+    },
+    {
+      "path": "../assets/images/contemporary-pepsi-1.jpg",
+      "original_uses": 2,
+      "current_uses": 1
+    },
+    {
+      "path": "../assets/images/contemporary-reddit-2.jpg",
+      "original_uses": 2,
+      "current_uses": 1
+    },
+    {
+      "path": "../assets/images/contemporary-wise-3.png",
+      "original_uses": 2,
+      "current_uses": 1
+    }
+  ],
+  "original_external_url_targets": 111,
+  "current_external_url_targets": 111,
+  "all_original_external_url_targets_retained": true,
+  "missing_original_external_url_targets": [],
+  "original_fenced_code_blocks": 5,
+  "current_fenced_code_blocks": 5,
+  "fenced_code_block_sha256_multiset_unchanged": true,
+  "original_fenced_code_sha256_counts": {
+    "c92f7f07b8c02669a71a193385ee3592c37f8eb21c753ccf01f4d3eab04caa87": 1,
+    "cdf3cf3b119b3f8522b738e77092f6f6f89fc84df8fe7828f145f27d07ddf88b": 1,
+    "be108f18841b0098fb309a30b3f2e4b7fd1fbc414647e1505742a76feca0a86e": 1,
+    "583b5fd6ada4a4462d6646f17be7b57251cde6b390ac77ffb77c360ffb90d4c4": 1,
+    "a27c78ba6f1734b83efae23b085e67dbf411aa925e65e8410e6195d60a523017": 1
+  },
+  "current_fenced_code_sha256_counts": {
+    "c92f7f07b8c02669a71a193385ee3592c37f8eb21c753ccf01f4d3eab04caa87": 1,
+    "cdf3cf3b119b3f8522b738e77092f6f6f89fc84df8fe7828f145f27d07ddf88b": 1,
+    "be108f18841b0098fb309a30b3f2e4b7fd1fbc414647e1505742a76feca0a86e": 1,
+    "583b5fd6ada4a4462d6646f17be7b57251cde6b390ac77ffb77c360ffb90d4c4": 1,
+    "a27c78ba6f1734b83efae23b085e67dbf411aa925e65e8410e6195d60a523017": 1
+  },
+  "case_migrations": [
+    {
+      "case": "pepsi",
+      "destination": "chapters/29-packaging.md",
+      "original_body_paragraphs": 12,
+      "all_original_body_paragraphs_preserved": true,
+      "missing_paragraphs": [],
+      "original_image_uses": 3,
+      "all_original_images_preserved_in_destination": true
+    },
+    {
+      "case": "reddit",
+      "destination": "chapters/11-brand.md",
+      "original_body_paragraphs": 12,
+      "all_original_body_paragraphs_preserved": true,
+      "missing_paragraphs": [],
+      "original_image_uses": 3,
+      "all_original_images_preserved_in_destination": true
+    },
+    {
+      "case": "wise",
+      "destination": "chapters/18-digital.md",
+      "original_body_paragraphs": 11,
+      "all_original_body_paragraphs_preserved": true,
+      "missing_paragraphs": [],
+      "original_image_uses": 3,
+      "all_original_images_preserved_in_destination": true
+    },
+    {
+      "case": "spotify",
+      "destination": "chapters/12-editorial.md",
+      "original_body_paragraphs": 18,
+      "all_original_body_paragraphs_preserved": true,
+      "missing_paragraphs": [],
+      "original_image_uses": 4,
+      "all_original_images_preserved_in_destination": true
+    },
+    {
+      "case": "config",
+      "destination": "chapters/13-wayfinding.md",
+      "original_body_paragraphs": 19,
+      "all_original_body_paragraphs_preserved": true,
+      "missing_paragraphs": [],
+      "original_image_uses": 5,
+      "all_original_images_preserved_in_destination": true
+    },
+    {
+      "case": "decathlon",
+      "destination": "chapters/24-fashion.md",
+      "original_body_paragraphs": 19,
+      "all_original_body_paragraphs_preserved": true,
+      "missing_paragraphs": [],
+      "original_image_uses": 5,
+      "all_original_images_preserved_in_destination": true
+    }
+  ],
+  "normalization_for_case_comparison": "Whitespace collapsed and figure-number tokens normalized; original paragraphs otherwise compared intact as substrings of their new full case section.",
+  "errors": []
+}

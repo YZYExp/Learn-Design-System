@@ -1,4 +1,6 @@
-# 第23章｜插画与摄影：怎样让差异被看见
+# 第05章｜插画与摄影：怎样让差异被看见
+
+构图、颜色与网格提供了判断依据，图像选择便可以落到任务上。岸线可以分别试一组插画和一组摄影：固定比较的题材，记录主体占比、背景复杂度与可放文字的区域，随后再决定哪种语言适合这次活动。
 
 相同滤镜能统一一组照片的色调，却未必方便比较对象；插画即使题材不同，也能通过形状、间隙和细节密度保持联系。本章从两类真实材料出发：Becher夫妇的九幅水塔摄影，以及IBM的平面插画与其网格图。我们逐项检查主体占比、轮廓、负空间和细节怎样被控制，再把这些决定用在自己的拍摄和绘画中。
 
@@ -7,7 +9,7 @@
 <!-- figure-height: 145 -->
 ![Becher夫妇水塔1988九幅摄影](../assets/images/revision-digital-becher.jpg)
 
-图23-2｜Bernd Becher、Hilla Becher，《Water Towers》，1988，银盐照片，MoMA，藏品号254.1996.a-i。© 2026 Estate of Bernd Becher and Hilla Becher。馆藏原图研究引用，不声明为CC。[MoMA原作页](https://www.moma.org/collection/works/49624)
+图5-2｜Bernd Becher、Hilla Becher，《Water Towers》，1988，银盐照片，MoMA，藏品号254.1996.a-i。© 2026 Estate of Bernd Becher and Hilla Becher。馆藏原图研究引用，不声明为CC。[MoMA原作页](https://www.moma.org/collection/works/49624)
 
 请先把整幅缩到一臂远：三列三行，塔身在每个单元里占相近的主要位置，照片间留出清楚的白缝，明暗以黑白为共同条件。相近的主体位置便于辨认共同结构，再逐一比较差异。照片间的留白划出各个比较单元；如果删去白缝，让不同天空直接相接，单幅边界就不再这样明确。
 
@@ -17,7 +19,7 @@ MoMA的作品说明将它们作为按功能组织的类型学，并指出正面�
 
 ![水塔摄影全幅与第一行局部分析](../assets/images/revision-digital-analysis-becher.png)
 
-图23-3｜本书对同一作品的全幅／局部读图板，未重排九幅原作。局部用于辨认罐体、支承和主体占比。原图权利同图23-2。
+图5-3｜本书对同一作品的全幅／局部读图板，未重排九幅原作。局部用于辨认罐体、支承和主体占比。原图权利同图5-2。
 
 如果其中一张改为仰拍、晴天、高反差，这张照片就可能因拍法不同而特别醒目。观众看到的区别可能首先来自拍法，而不是水塔。这样的异常可用作系列转折，但比较重点也会从建筑形态转向观看位置。
 
@@ -28,7 +30,7 @@ MoMA的作品说明将它们作为按功能组织的类型学，并指出正面�
 <!-- figure-height: 90 -->
 ![IBM平面插画官方示例](../assets/images/revision-digital-ibm-flat.png)
 
-图23-4｜IBM Design Language，Flat Style官方示例1，读取于2026年10月。© IBM，研究引图。保留其紫、深紫与红色原配色。[官方图板与规范](https://www.ibm.com/design/language/illustration/flat-style/design/)
+图5-4｜IBM Design Language，Flat Style官方示例1，读取于2026年10月。© IBM，研究引图。保留其紫、深紫与红色原配色。[官方图板与规范](https://www.ibm.com/design/language/illustration/flat-style/design/)
 
 先看这张图的上半部：一排浅紫色圆角小块站在深色水平界面上，右上方有一个斜向进入的大形状。表面细节很少，水平重复与斜向形状之间的对照却很清楚。再看下方，几条平行路径在右侧以相近的圆弧转向；红色、白色和紫色段沿路径出现，成为节奏节点。图像依靠轮廓、色块与路径关系组织，而不依赖木纹、反光或丰富阴影来说明每件东西。
 
@@ -36,7 +38,7 @@ MoMA的作品说明将它们作为按功能组织的类型学，并指出正面�
 
 ![IBM同一插画的官方网格图](../assets/images/revision-digital-ibm-grid.png)
 
-图23-5｜IBM，Flat Style同一示例的网格图，© IBM。它与图23-4展示同一构图，供直接对照；网格为官方说明的一部分，不是本书事后猜测出的原图算法。[同源官方页](https://www.ibm.com/design/language/illustration/flat-style/design/)
+图5-5｜IBM，Flat Style同一示例的网格图，© IBM。它与图5-4展示同一构图，供直接对照；网格为官方说明的一部分，不是本书事后猜测出的原图算法。[同源官方页](https://www.ibm.com/design/language/illustration/flat-style/design/)
 
 对照网格图可以看出：平行路径之间的空隙、路径宽度与转弯不是互不相关的自由曲线，交界位置受共同尺度组织。官网为这个平面插画方法给出8px基础网格及最小形状、间隙的说明；这是IBM该风格的具体约定，不是所有插画的通用定律。学习时可把它理解为“让细节密度与轮廓语言有共同下限”。
 

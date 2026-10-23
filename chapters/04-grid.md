@@ -1,5 +1,7 @@
 # 第04章｜比例、字体与网格：给变化一副骨架
 
+本章将已经确定的主次和颜色角色落实为字号、对齐与间距。岸线的海报、册页和窄屏可采用不同列数；需要共同保留的是活动信息的先后与相邻关系。完成这一层骨架后，再进入图像与不同视觉语言的选择。
+
 
 ## 真实案例：齐肖尔德让空白成为信息结构
 
@@ -54,4 +56,4 @@ Jan Tschichold 为慕尼黑展览设计的《Plakate der Avantgarde》（1930）
 
 练习：用同一份活动信息排三种尺寸，A4、明信片与手机窄屏。先保持字号层级关系，再适配列数与间距。将比较结果写成两列：保留的主次和相邻关系，以及随尺寸改变的列数、换行与图片裁切。这张记录可作为后续适配的说明。
 
-本章来源：[大都会博物馆：几何设计教学材料](https://resources.metmuseum.org/resources/metpublications/pdf/Islamic_Art_and_Geometric_Design_Activities_for_Learning.pdf)。网格、排版与跨尺寸实验为原创教学推演；具体中文排版实现另见第十二章。
+本章来源：[大都会博物馆：几何设计教学材料](https://resources.metmuseum.org/resources/metpublications/pdf/Islamic_Art_and_Geometric_Design_Activities_for_Learning.pdf)。网格、排版与跨尺寸实验为原创教学推演；具体中文排版实现另见第16章。

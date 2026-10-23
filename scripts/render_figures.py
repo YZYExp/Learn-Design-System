@@ -15,7 +15,7 @@ def font(n):
  return FONTS[n]
 def new(num,title,sub):
  im=Image.new('RGB',(W,H),BG);d=ImageDraw.Draw(im)
- d.rectangle((70,60,84,124),fill=RED);d.text((110,56),f'{num:02d}  {title}',font=font(48),fill=INK)
+ d.rectangle((70,60,84,124),fill=RED);d.text((110,56),title,font=font(48),fill=INK)
  d.text((110,135),sub,font=font(28),fill=GRAY)
  d.line((70,1018,1730,1018),fill=PALE,width=2)
  d.text((75,1037),'设计的语法 · 原创教学示意 / 非历史作品复刻',font=font(25),fill=GRAY)

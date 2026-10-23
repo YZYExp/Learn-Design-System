@@ -3,12 +3,13 @@
 from __future__ import annotations
 import argparse,hashlib,json,re,sys
 from pathlib import Path
+from book_manifest import ordered_sources
 ROOT=Path(__file__).resolve().parents[1]
 from collections import Counter
 from build_book import image_metadata_catalog, image_kind, caption_line, FIGURE_OPTION, fonts, FONT, pdfmetrics
 def main():
     ap=argparse.ArgumentParser();ap.add_argument('--source-only',action='store_true');ap.add_argument('--render',action='store_true',help='Render every page into contact sheets and key full-page PNGs');args=ap.parse_args()
-    files=sorted((ROOT/'chapters').glob('*.md'))+sorted((ROOT/'appendices').glob('*.md'))
+    files=ordered_sources()
     errors=[];warnings=[];image_refs=[];urls=set();chars=0;catalog=image_metadata_catalog();image_kinds={};caption_records=[];all_characters=set()
     for p in files:
         s=p.read_text();all_characters.update(s);chars+=len(re.findall(r'[\u3400-\u9fff]',s))

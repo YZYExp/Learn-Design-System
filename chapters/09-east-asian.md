@@ -1,4 +1,6 @@
-# 第09章｜东亚视觉秩序：从文字、画面与载体中读规则
+# 第10章｜东亚视觉秩序：从文字、画面与载体中读规则
+
+比较视觉语言时，还要看文字方向、留白和载体的具体条件。为岸线同时做一张横排和一张直排的小样，保留相同内容，记录哪些信息适合改变方向，哪些仍需按实际阅读习惯处理。
 
 “东方感”是一个方便却粗糙的词。水墨、红印、竖排、金地、家纹，分别来自不同媒介与历史实践，把它们放在同一张海报上，并不会自动得到深厚的设计。更好的学习方法，是每次追踪一种具体关系：文字怎样形成阅读方向，空白怎样连接形体，图案怎样在不同尺寸上维持识别。
 
@@ -8,7 +10,7 @@
 
 ![芥子园画传真实页MetCP8](../assets/images/revision-history-mustard-seed.jpg)
 
-真实作品09C｜王槩绘图，《芥子园画传》一页，馆方标注初版1679年，木版水墨设色，Met，CP8，object ID 63201。Met Open Access / Public Domain（CC0）。[The Met，Wang Gai，Page from the Mustard Seed Garden Manual of Painting，CP8，初版1679年](https://www.metmuseum.org/art/collection/search/63201) 这里展示一个馆藏书页，不以初版年代推定所有后世版本的印制时间。
+真实作品10C｜王槩绘图，《芥子园画传》一页，馆方标注初版1679年，木版水墨设色，Met，CP8，object ID 63201。Met Open Access / Public Domain（CC0）。[The Met，Wang Gai，Page from the Mustard Seed Garden Manual of Painting，CP8，初版1679年](https://www.metmuseum.org/art/collection/search/63201) 这里展示一个馆藏书页，不以初版年代推定所有后世版本的印制时间。
 
 先从画面下部的小桥和水边看起。近处对象较容易辨认，把目光引向中部的房屋、树群，再转向上部大树与山石。题记在右上获得一块相对完整的阅读区域，没有与树干最密的部分挤在一起。小桥、水岸、房屋和山树分别构成局部入口、空间连接与观看停顿。本书据这一页提出观察路径，并不把它说成所有观者唯一的视线路线。
 
@@ -20,11 +22,11 @@ Met对《芥子园画传》的说明记载：1679年初版以多卷组织技法�
 
 ![画谱观看路径与实际局部分析](../assets/images/revision-history-analysis-09.png)
 
-分析图09D｜原页上增加本书观察方向线，并裁切实际桥、屋与树的关系。线条不表示历史笔法次序；图像来源为Met CP8，CC0。[The Met，Wang Gai，Page from the Mustard Seed Garden Manual of Painting，CP8，初版1679年](https://www.metmuseum.org/art/collection/search/63201)
+分析图10D｜原页上增加本书观察方向线，并裁切实际桥、屋与树的关系。线条不表示历史笔法次序；图像来源为Met CP8，CC0。[The Met，Wang Gai，Page from the Mustard Seed Garden Manual of Painting，CP8，初版1679年](https://www.metmuseum.org/art/collection/search/63201)
 
 ![十竹斋书画谱真实页MetCP75](../assets/images/revision-history-ten-bamboo.jpg)
 
-真实作品09E｜胡正言等绘图、辑印，《十竹斋书画谱》一页，馆方标注初版1633年，纸本木版水墨设色，Met，CP75，object ID 63403；Met Open Access / Public Domain（CC0）。[The Met，Hu Zhengyan and others，Page from the Ten Bamboo Studio Manual，CP75，初版1633年](https://www.metmuseum.org/art/collection/search/63403)
+真实作品10E｜胡正言等绘图、辑印，《十竹斋书画谱》一页，馆方标注初版1633年，纸本木版水墨设色，Met，CP75，object ID 63403；Met Open Access / Public Domain（CC0）。[The Met，Hu Zhengyan and others，Page from the Ten Bamboo Studio Manual，CP75，初版1633年](https://www.metmuseum.org/art/collection/search/63403)
 
 换到这一页，主体明显更少：果实或植物形态与带叶枝条分居画面，纸地把它们分开，也让细小的色调和轮廓更容易被看见。此处不把植物认成某个未经核对的物种，也不由照片推断全部印刷过程。比较两页的知识组织，《芥子园》页让多类对象形成一个场景，《十竹斋》页则更像让你近看少量形态与色阶。两页分别侧重多对象的场景关系和少量形态的细节比较。
 
@@ -40,7 +42,7 @@ Met对《芥子园画传》的说明记载：1679年初版以多卷组织技法�
 
 ![中文横排、直排及留白重心比较](../assets/images/fig-09.png)
 
-图09｜原创程序教学图：以“岸线设计周”示例比较横排、直排和空白位置；图中是当代教学版式，不冒充某个时代的书籍或书法格式。
+图10｜原创程序教学图：以“岸线设计周”示例比较横排、直排和空白位置；图中是当代教学版式，不冒充某个时代的书籍或书法格式。
 
 这一练习可以直接迁移到软件界面。若一个按钮只按英文短词设计，换成中文、长地名或包含括号的说明后可能挤压。应让文字内容参与组件规则：允许多大长度，何时换行，图标与文字是否一起居中，缩放后还剩多少空间。这些文字长度、换行和对齐条件，是文化适配中需要落实的阅读问题。
 
@@ -50,7 +52,7 @@ Met对《芥子园画传》的说明记载：1679年初版以多卷组织技法�
 
 ![尾形光琳八桥图屏风真实馆藏](../assets/images/reference-korin-yatsuhashi.jpg)
 
-真实作品09A｜尾形光琳《八桥图》（Irises at Yatsuhashi），1709年以后，成对六扇屏风，纸本水墨、设色与金箔。纽约大都会艺术博物馆藏，藏品号53.7.1、53.7.2，object ID 39664；图示为馆方提供的一扇屏风图像，并非两扇全景。Public Domain，Met Open Access（CC0）。[The Metropolitan Museum of Art，Ogata Kōrin，Irises at Yatsuhashi (Eight Bridges)，1709年以后](https://www.metmuseum.org/art/collection/search/39664) 观察桥梁方向与鸢尾群组，勿把金地简单理解为没有内容的空处。
+真实作品10A｜尾形光琳《八桥图》（Irises at Yatsuhashi），1709年以后，成对六扇屏风，纸本水墨、设色与金箔。纽约大都会艺术博物馆藏，藏品号53.7.1、53.7.2，object ID 39664；图示为馆方提供的一扇屏风图像，并非两扇全景。Public Domain，Met Open Access（CC0）。[The Metropolitan Museum of Art，Ogata Kōrin，Irises at Yatsuhashi (Eight Bridges)，1709年以后](https://www.metmuseum.org/art/collection/search/39664) 观察桥梁方向与鸢尾群组，勿把金地简单理解为没有内容的空处。
 
 可用一个原创实验理解空白。画三组草叶，第一版把间隔平均分配；第二版让两组靠近，第三组远离；第三版让一组贴近画框，另两组在内部形成呼应。你没有增加任何草叶，画面却会出现不同的分组与张力。间隔的位置和大小改变了草叶之间的联系。
 
@@ -62,7 +64,7 @@ Met对《芥子园画传》的说明记载：1679年初版以多卷组织技法�
 
 ![家纹散唐草文鐔真实馆藏正面](../assets/images/reference-naomasa-tsuba.jpg)
 
-真实作品09B｜小池和泉守直政相关《家纹散唐草文鐔》，16世纪末至17世纪初，铁、黄铜、铜。纽约大都会艺术博物馆藏，藏品号36.120.92，object ID 30091；正面图。Public Domain，Met Open Access（CC0）。[The Metropolitan Museum of Art，Koike Izumi no Kami Naomasa，家纹散唐草文鐔，16世纪末至17世纪初](https://www.metmuseum.org/art/collection/search/30091) 留意家纹、透空和中央安装区域如何共同占据器物表面；它不是现代商标样张。
+真实作品10B｜小池和泉守直政相关《家纹散唐草文鐔》，16世纪末至17世纪初，铁、黄铜、铜。纽约大都会艺术博物馆藏，藏品号36.120.92，object ID 30091；正面图。Public Domain，Met Open Access（CC0）。[The Metropolitan Museum of Art，Koike Izumi no Kami Naomasa，家纹散唐草文鐔，16世纪末至17世纪初](https://www.metmuseum.org/art/collection/search/30091) 留意家纹、透空和中央安装区域如何共同占据器物表面；它不是现代商标样张。
 
 试做一个完全原创的植物识别符号，不复制真实家纹。先用五个叶瓣围绕中心排列，只用黑白。把它缩到指甲大小，再做反白版。若叶瓣之间的空隙闭合，优先扩大空隙，而不是增加描边。接着制作第二个符号，只改变叶瓣数量；再做第三个，只改变叶端形状。记录小尺寸下仍可辨认的差别，再据此选择系列符号的变化范围。
 

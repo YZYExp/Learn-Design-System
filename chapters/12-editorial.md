@@ -1,14 +1,14 @@
-# 第12章｜书籍与编辑设计：为阅读安排节奏
+# 第16章｜书籍与编辑设计：为阅读安排节奏
 
 ## 真作细读：Penguin 封面如何让不同图像一起上书架
 
 ![Penguin Modern Classics 1961封面组](../assets/images/revision-applications-penguin-1961.png)
 
-图12-2｜真实封面组。Hans Schmoller，Penguin Modern Classics最初设计体系，1961；[Penguin官方设计史](https://www.penguin.co.uk/discover/articles/penguin-modern-classics-design)提供图像与设计归属。原封面的单幅图像作者未由此组图逐一确认，不在这里猜填。
+图16-2｜真实封面组。Hans Schmoller，Penguin Modern Classics最初设计体系，1961；[Penguin官方设计史](https://www.penguin.co.uk/discover/articles/penguin-modern-classics-design)提供图像与设计归属。原封面的单幅图像作者未由此组图逐一确认，不在这里猜填。
 
 ![Penguin Modern Classics 1963封面组](../assets/images/revision-applications-penguin-1963.png)
 
-图12-3｜真实封面组。Germano Facetti艺术指导下采用Romek Marber网格的Penguin Modern Classics封面，1963年阶段；[来源](https://www.penguin.co.uk/discover/articles/penguin-modern-classics-design)。本图展示实际应用，并非网格原图。
+图16-3｜真实封面组。Germano Facetti艺术指导下采用Romek Marber网格的Penguin Modern Classics封面，1963年阶段；[来源](https://www.penguin.co.uk/discover/articles/penguin-modern-classics-design)。本图展示实际应用，并非网格原图。
 
 1961组的底边提供了共同的识别线索：橙色小标志与浅色横带反复出现，大片黑白或少色图像处于中间。再看1963组，系列名与价格进入上缘，作者与书名集中在上部，图像向下占据更连续的空间。两组都建立系列关系，但分配“先认丛书、再认作者、再看图像”的方式不同。
 
@@ -16,7 +16,7 @@
 
 ![Penguin封面系列带、作者带与图像交界标注](../assets/images/revision-applications-analysis-editorial.png)
 
-图12-4｜原封面上的教学标线。原作归属同图12-3；蓝线和橙线、中文说明为本书添加。标线描述这组三幅的可见关系，不把观察线冒充设计师原始尺寸规范。[原图出处](https://www.penguin.co.uk/discover/articles/penguin-modern-classics-design)。
+图16-4｜原封面上的教学标线。原作归属同图16-3；蓝线和橙线、中文说明为本书添加。标线描述这组三幅的可见关系，不把观察线冒充设计师原始尺寸规范。[原图出处](https://www.penguin.co.uk/discover/articles/penguin-modern-classics-design)。
 
 橙线附近显示了同一网格下的局部调整：右侧《桑切斯的孩子们》书名进入红色与黄色的人像区域，使用浅色字；左侧则用深色字置于较淡区域。相同网格仍需配合局部对比调整：版式共用查找入口，文字颜色则随背景变化，以便读清。
 
@@ -36,7 +36,7 @@ Penguin 的[设计史回顾](https://www.penguin.co.uk/discover/articles/penguin
 
 ![书刊跨页的网格与标题、图片、正文层级](../assets/images/fig-12.png)
 
-*图12｜原创程序教学图：书刊跨页借助网格组织标题、图片与正文。灰条代表文字占位，图形用于观察不同阅读角色的层级，不是实际文章排版。*
+*图16｜原创程序教学图：书刊跨页借助网格组织标题、图片与正文。灰条代表文字占位，图形用于观察不同阅读角色的层级，不是实际文章排版。*
 
 ## 从内容结构推导版式
 
@@ -80,3 +80,43 @@ Penguin 的[设计史回顾](https://www.penguin.co.uk/discover/articles/penguin
 可以用边界内容检验系统：加入最长的树名、最密集的一页说明和最宽的一张图片。若只有平均长度内容排得好看，系统仍缺少边界处理。为这些情况写下备用规则，例如标题允许增加一行、旁注移到下一单元、横图跨栏，但不让图注与图片分离。稳定规则的意义正是在内容不平均时，仍能保证基本阅读质量。
 
 本章来源：Penguin，[Designing Penguin Modern Classics](https://www.penguin.co.uk/discover/articles/penguin-modern-classics-design)；W3C，[《中文排版需求》](https://www.w3.org/TR/clreq/)；NPS，[A Brief History of the Unigrid](https://www.nps.gov/subjects/hfc/a-brief-history-of-the-unigrid.htm)。树木小册子及练习为原创教学案例。
+
+## 当代案例｜Spotify Mix：同一套字，不把所有音乐变成同一种表情 {#case-spotify}
+
+本案例借数字音乐封面与界面讨论字体角色、系列识别和阅读框架；这些可观察的关系可帮助理解编辑系统，但不能直接代替长篇书籍的行长、段落与翻页规则。
+
+Spotify于2024年5月22日介绍定制可变字体Spotify Mix，合作方为柏林字体工作室Dinamo；这次发布涉及品牌表达与产品界面，而非只换一个孤立字标。以上为官方发布信息；下文主要分析实际应用中可见的关系。[CT-SP1]
+
+![Spotify官方字体动画的实际取帧](../assets/images/contemporary-spotify-font-rules.png)
+
+图16-C1｜真实案例：Spotify官方发布动画第35帧（零起），1920×1094；静态取帧，未重画曲线。字体与品牌设计归Spotify及Dinamo等相应权利人。此图呈现字形轮廓与节点的视觉表达，不是可编辑字体工程截图。[CT-SP1] [原始出处](https://newsroom.spotify.com/2024-05-22/introducing-spotify-mix-our-new-and-exclusive-font/)。
+
+轮廓图将字放大到超出边界，突出曲线转折、曲直相接的位置和少量绿色提示，使字形本身成为观看对象。这是对塑造过程的视觉表达；字体文件中的控制点与可变轴范围仍需工程资料确认。
+
+![Spotify发布页实际歌单应用](../assets/images/contemporary-spotify-playlists.png)
+
+图16-C2｜真实案例：官方发布页并置的六张歌单封面应用，2500×1406；不是本书重新排版的示意。©Spotify及各封面、艺人影像的相应权利人，仅随本书分析引用。[CT-SP1] [原始出处](https://newsroom.spotify.com/2024-05-22/introducing-spotify-mix-our-new-and-exclusive-font/)。
+
+六张封面采用了不同的图文关系。左上蓝黑文字的倾斜，与人物身体共同制造方向；右上的黑色短标题则采用更平稳的横向排列，让照片与浅色背景成为主要辨认线索。橘色封面的装饰和居中肖像比较密，右下的文字却更像贴在人物下部的短标签。标题的角度、大小与位置，同照片中的空白和人物轮廓共同决定画面的主次，因此同一字体在不同封面上可以呈现不同节奏。
+
+发布页将新字体与这些应用并置，展示了不同的图文主次。成品中可能包含专门改字或其他图形处理，各轮廓与字体参数之间的对应关系仍需制作资料核实。
+
+<!-- figure-height: 150 -->
+
+![Spotify实际手机首页](../assets/images/contemporary-spotify-interface.jpg)
+
+图16-C3｜真实案例：同次官方发布中的手机首页，原始素材390×844；保留完整截图。这里看标题、封面与导航的分工，不将小字放大后补绘为假高清。©Spotify及相应内容权利人。[CT-SP1] [原始出处](https://newsroom.spotify.com/2024-05-22/introducing-spotify-mix-our-new-and-exclusive-font/)。
+
+产品界面中，跳转入口需要容易找到，列表需要连续浏览，歌单封面则在小矩形中保留自己的性格。主标题的粗细和位置相对稳定，封面上的夸张文字没有扩散到每一个导航标签。音乐封面保留各自的表现方式，产品框架则通过稳定的标题、列表和导航支持检索。字体规则因此需要说明哪些位置允许变化，哪些位置应保持稳定。
+
+![Spotify实际封面与界面局部对照](../assets/images/contemporary-spotify-analysis.png)
+
+图16-C4｜本书分析：左为官方歌单图，右为实际首页上部裁切；中文标签为本书观察。没有灰条替代、生成补字或重画界面；原图权利沿用上述归属。[CT-SP1] [原始出处](https://newsroom.spotify.com/2024-05-22/introducing-spotify-mix-our-new-and-exclusive-font/)。
+
+可以为自己的小型影展做一次迁移：用两张自有照片做两张宣传封面，再做一页日期与场次列表。封面允许改变标题角度和尺度，列表只保留稳定字阶。把三张作品同时缩小，检查场次之间是否容易区分、日期是否容易找到。夸张字形若扩散到全部文字，会削弱检索层级；所有文字完全同形同大，也会使内容难以区分。
+
+富有表达力的字体还需检查组合方式、字符覆盖和小尺寸表现，再判断适用的语言与任务。发布图能够支持视觉分析；用户偏好、无障碍表现与商业增长则需要另外的测试和数据。
+
+本节来源：
+
+- [CT-SP1] Spotify Newsroom，Introducing Spotify Mix, Our New and Exclusive Font，2024-05-22：[官方发布与全部原图](https://newsroom.spotify.com/2024-05-22/introducing-spotify-mix-our-new-and-exclusive-font/)。官方访谈对象为Rasmus Wängelin；字体合作方Dinamo Typefaces。图像未声明开放许可。

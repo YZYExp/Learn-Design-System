@@ -1,0 +1,8 @@
+[
+  {
+    "file": "assets/images/book-learning-map.png",
+    "kind": "original_teaching",
+    "title": "六篇阅读路径",
+    "generator": "scripts/render_learning_map.py"
+  }
+]

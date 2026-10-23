@@ -1,4 +1,6 @@
-# 第19章｜把设计决定命名：从色票到语义 Token
+# 第26章｜把设计决定命名：从色票到语义 Token
+
+界面中已经出现表面、正文、行动和状态等角色。本章为岸线把这些决定命名：同一角色在海报、纸袋与手机上可以采用不同实现，名称需说明用途与配对关系，便于修改时找到受影响的位置。
 
 你为一场展览定下朱红色。一个月后，它已出现在海报标题、网页按钮、错误提示和售罄标签上。策展人想让新展览改用青绿，工程师全局替换了朱红，结果连“付款失败”也变成青绿。问题在于同一颜色承担了不同含义，却没有被分别命名。
 
@@ -9,16 +11,16 @@ Token 可理解为“被命名、可复用的设计决定”。这里保留英�
 <!-- figure-width: 90 -->
 ![Material浅色主题官方按钮原图](../assets/images/revision-digital-material-light.png)
 
-图19-2a｜Google Material Components Android，浅色主题filled button官方PNG原图。© Google／Material Components项目；研究引图。[CommonButton文档](https://github.com/material-components/material-components-android/blob/master/docs/components/CommonButton.md)
+图26-2a｜Google Material Components Android，浅色主题filled button官方PNG原图。© Google／Material Components项目；研究引图。[CommonButton文档](https://github.com/material-components/material-components-android/blob/master/docs/components/CommonButton.md)
 
 <!-- figure-width: 90 -->
 ![Material深色主题官方按钮原图](../assets/images/revision-digital-material-dark.png)
 
-图19-2b｜同一官方文档的深色主题filled button原图，保留原始473×192像素，按较小尺寸呈现。权利与来源同上。 [图像与作品来源](https://github.com/material-components/material-components-android/blob/master/docs/components/CommonButton.md)
+图26-2b｜同一官方文档的深色主题filled button原图，保留原始473×192像素，按较小尺寸呈现。权利与来源同上。 [图像与作品来源](https://github.com/material-components/material-components-android/blob/master/docs/components/CommonButton.md)
 
 ![Material官方浅色和深色按钮并置分析](../assets/images/revision-digital-analysis-roles.png)
 
-图19-2｜Google Material Components Android官方文档的浅色、深色filled button样图，本书并置并加标签；外围页面底色为教学补配。按钮图保留原色，© Google／Material Components项目，研究引图。[CommonButton官方文档](https://github.com/material-components/material-components-android/blob/master/docs/components/CommonButton.md)
+图26-2｜Google Material Components Android官方文档的浅色、深色filled button样图，本书并置并加标签；外围页面底色为教学补配。按钮图保留原色，© Google／Material Components项目，研究引图。[CommonButton官方文档](https://github.com/material-components/material-components-android/blob/master/docs/components/CommonButton.md)
 
 请先看左侧按钮：较暗的紫色填充上是明亮文字。再看右侧，同样写着“Round button”，填充变浅，文字变暗，外部页面也变暗。重要变化发生在“哪个角色用亮、哪个角色用暗”的关系上。如果只把外部白底换成黑底，却保持原按钮的暗紫色，按钮与页面之间的层次就可能减弱；如果只把按钮填充提亮而保留白字，按钮内部的字又可能不够清楚。
 
@@ -89,7 +91,7 @@ Material 的颜色角色用成对关系组织前景与背景，例如主要色�
 
 ![同一语义角色在浅色与深色模式中的配对](../assets/images/fig-19.png)
 
-图19　原创教学图。浅色与深色模式保留表面、正文、主要行动、行动上文字四个角色；改变的是实现颜色，不是用途。样图不能替代实际页面的对比度与交互检查。
+图26　原创教学图。浅色与深色模式保留表面、正文、主要行动、行动上文字四个角色；改变的是实现颜色，不是用途。样图不能替代实际页面的对比度与交互检查。
 
 ## 深色模式的角色配对
 
@@ -124,11 +126,11 @@ Token 的优势在修改发生时最明显，也因此需要留存修改理由�
 
 ## 原生实现：把角色命名做成系统
 
-隙间的设计系统实际保存在原生Token文件里，下面是Tingly Design的颜色视图。surface、ink、accent与on-accent分别承担表面、正文、主要行动和行动上的文字。纸白、石墨、橄榄与少量鲜橙按角色分工；小号提示与大色块不能只因同属一色就交换用途。当前版本保留terracotta、clay-text旧名以兼容组件，usage中说明它们已经改为橄榄角色。这是应记录的迁移债务；长期维护宜用别名与弃用说明逐步转向语义命名，不能让旧名字悄悄误导后来的人。第三十一章将同一套关系带到广告、包装和订阅画布，并说明主题与安装快照怎样更新。
+隙间的设计系统实际保存在原生Token文件里，下面是Tingly Design的颜色视图。surface、ink、accent与on-accent分别承担表面、正文、主要行动和行动上的文字。纸白、石墨、橄榄与少量鲜橙按角色分工；小号提示与大色块不能只因同属一色就交换用途。当前版本保留terracotta、clay-text旧名以兼容组件，usage中说明它们已经改为橄榄角色。这是应记录的迁移债务；长期维护宜用别名与弃用说明逐步转向语义命名，不能让旧名字悄悄误导后来的人。第29章将同一套关系带到广告、包装和订阅画布，并说明主题与安装快照怎样更新。
 
 ![原生实现：把角色命名做成系统](../examples/creative-lab/still-system/renders/export/Colors.png)
 
-图19-C｜本书原创系统的实际原生颜色视图，显示日间值；系统另有夜间主题。源文件与组件随工程交付，不是引用他人系统的截图。
+图26-C｜本书原创系统的实际原生颜色视图，显示日间值；系统另有夜间主题。源文件与组件随工程交付，不是引用他人系统的截图。
 
 
 本章资料：Google，Material Design，Color Roles；W3C，Understanding Success Criterion 1.4.3。链接见正文，核对于2026年10月。数值、代码及命名层次为原创教学示例。

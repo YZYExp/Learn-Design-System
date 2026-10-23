@@ -1,10 +1,10 @@
-# 第13章｜信息与导视：让陌生人完成一次判断
+# 第23章｜信息与导视：让陌生人完成一次判断
 
 ## 真作细读：国家公园标识的任务与尺寸
 
 ![NPS不同用途标识的官方集合](../assets/images/revision-applications-nps-signs.png)
 
-图13-2｜真实设计实例集合。美国国家公园管理局Harpers Ferry Center发布的标识样例；具体单件设计者与制作年份未逐项标明。图是机构展示图，不是本书设计稿，也不是实测尺寸表。[来源与功能分类](https://www.nps.gov/subjects/hfc/signs.htm)，页面更新于2024年。
+图23-2｜真实设计实例集合。美国国家公园管理局Harpers Ferry Center发布的标识样例；具体单件设计者与制作年份未逐项标明。图是机构展示图，不是本书设计稿，也不是实测尺寸表。[来源与功能分类](https://www.nps.gov/subjects/hfc/signs.htm)，页面更新于2024年。
 
 先看外形与高度差别，不要在这张细长图上勉强读每一个小字。左侧的入口与识别类标识较大，序列中又出现方向牌、立杆与较小的设施提示。这意味着共同身份不要求每块牌具有相同尺寸。人在车中经过、在步道上行走、站在入口拍照，对信息量与发现距离的要求并不相同。图中的差异首先来自任务，而不是设计团队忘了统一。
 
@@ -12,7 +12,7 @@
 
 ![Clara Barton国家历史遗址折页](../assets/images/revision-applications-nps-clara.jpg)
 
-图13-3｜真实出版应用。Clara Barton National Historic Site折页，NPS Unigrid出版体系；体系由Massimo Vignelli及相关团队于1977年建立，此遗址1978年推出首批应用，本图版本具体印次未标。[NPS历史说明与原图](https://www.nps.gov/subjects/hfc/a-brief-history-of-the-unigrid.htm)。
+图23-3｜真实出版应用。Clara Barton National Historic Site折页，NPS Unigrid出版体系；体系由Massimo Vignelli及相关团队于1977年建立，此遗址1978年推出首批应用，本图版本具体印次未标。[NPS历史说明与原图](https://www.nps.gov/subjects/hfc/a-brief-history-of-the-unigrid.htm)。
 
 看折页的顶端黑带：白色地名先建立定位，红色区域随后承接身份与管理信息。继续向下，文字分栏，照片与地图承担另一层阅读。它不是把标识牌缩小印在纸上，而是保留识别关系，增加适合手持近读的内容。正因为纸张可以停留，原本不适合公路标识的文字密度，在折页里才有位置。
 
@@ -20,7 +20,7 @@
 
 ![Santa Monica Mountains折页中的自然与城市图景](../assets/images/revision-applications-nps-santa.jpg)
 
-图13-4｜真实折页图像。NPS，Santa Monica Mountains图文页面；图中插画具体作者与此版年份未在来源页说明，不推定为Vignelli绘制。[原页面](https://www.nps.gov/subjects/hfc/a-brief-history-of-the-unigrid.htm)。
+图23-4｜真实折页图像。NPS，Santa Monica Mountains图文页面；图中插画具体作者与此版年份未在来源页说明，不推定为Vignelli绘制。[原页面](https://www.nps.gov/subjects/hfc/a-brief-history-of-the-unigrid.htm)。
 
 Santa Monica Mountains折页采用了与前一例不同的图像技法。与Clara Barton页相比，山脉折页用了充满植物、动物与人的场景插画，让观众发现景观中的多种活动。黑色识别带提供共同入口，插画负责地方内容。共同框架提供查找线索，具体图像呈现地方内容，两者承担不同职责。
 
@@ -36,7 +36,7 @@ Isotype 是理解信息转译的历史入口。它从1920年代维也纳的相�
 
 ![同尺寸图形用数量表达差异，与同一条路线的决定点标识](../assets/images/fig-13.png)
 
-*图13｜原创程序教学图：左侧以3、5、7个同尺寸单位及数字表达数量；右侧用颜色、形状、字母、名称与箭头共同区分区域。各数据与区域均为虚构教学设定。*
+*图23｜原创程序教学图：左侧以3、5、7个同尺寸单位及数字表达数量；右侧用颜色、形状、字母、名称与箭头共同区分区域。各数据与区域均为虚构教学设定。*
 
 ## 从一条路线开始，而不是从图标库开始
 
@@ -80,3 +80,43 @@ Isotype 是理解信息转译的历史入口。它从1920年代维也纳的相�
 导视还需要随现场变化而维护。展厅临时关闭时，纸质通知若覆盖了原箭头，却没说明替代路线，系统会在变化时失效。事先准备关闭、改道与新增区域的表达方式，可以减少临时拼贴。临时改道仍应保留稳定的名称、方向与到达确认，便于访客沿新路线继续行进。
 
 本章来源：University of Reading，[Collections and archives](https://www.reading.ac.uk/typography/collections-and-archives)、[Picturing Science](https://research.reading.ac.uk/picturingscience/)；W3C WAI，[Use of Color](https://www.w3.org/WAI/WCAG22/Understanding/use-of-color)；NPS，[Signs](https://www.nps.gov/subjects/hfc/signs.htm)。路径测试与虚构展馆为原创教学案例。
+
+## 当代案例｜Config 2025：让图形走进空间，也让导视保持好读 {#case-config}
+
+Figma于2025年7月3日发布Config 2025视觉身份回顾，文章作者Matt Alagiah。项目由Figma Brand Studio完成，Leandro Castelao担任创意主导；官方说明其图形以基础形状构成，并使用Figma Sans的紧缩版本。下文依据官方署名介绍项目，并结合照片分析具体构成。[CT-FG1]
+
+![Config2025字体贴纸实物照片](../assets/images/contemporary-figma-badge-type.png)
+
+图23-C1｜真实案例：Config 2025语言贴纸的实际照片，1884×1058。视觉身份归Figma Brand Studio；摄影依官方文章总署名，详本节来源及图像档案。图中两行文字、贴纸外形与手指均为原照片内容。[CT-FG1] [原始出处](https://www.figma.com/blog/how-we-shaped-the-visual-identity-for-config-2025/)。
+
+贴纸在小尺寸上使用两行词组，并保持清楚间隔；紧凑字形让较长的单词仍能作为完整单位出现，外轮廓则跟着文字形成局部转折。手指和人物脸部提供了尺度参照，便于观察文字与外形在手持、佩戴和交谈距离中的辨认条件。
+
+![Config2025实际现场导视](../assets/images/contemporary-figma-wayfinding.png)
+
+图23-C2｜真实案例：Config 2025现场导视，1056×1408；不同目的地与箭头共享一块竖向载体。不是本书设计的指示牌。©Figma及相应设计、摄影权利人，未声明开放许可。[CT-FG1] [原始出处](https://www.figma.com/blog/how-we-shaped-the-visual-identity-for-config-2025/)。
+
+导视将箭头置于左侧，地点名跟随其后；不同长度的词组仍保持相似的起读方式。彩色底帮助分组，但文字内容并未被大图形打断。最下面较长的名称分为两行，保留了完整词组与可辨认的字级。这些是本书从照片中可见的组织关系，并非官方发布的精确间距公式。
+
+![Config导视实际局部细读](../assets/images/contemporary-figma-analysis.png)
+
+图23-C3｜本书分析：实际导视全图与两处原图裁切；中文解释为本书添加，不把观察线索冒充Figma官方规范。未生成替代图形，原照片权利沿用官方归属。[CT-FG1] [原始出处](https://www.figma.com/blog/how-we-shaped-the-visual-identity-for-config-2025/)。
+
+紧缩字体让有限宽度容纳较完整的地点名，但其易读性仍需结合观看距离、照明、字间距与读者条件检查。图形与色彩建立活动识别并辅助分组，箭头和文字提供明确的方向与目的地，二者在同一块牌面中分工。
+
+![Config2025实际充气图形装置](../assets/images/contemporary-figma-inflatables.png)
+
+图23-C4｜真实案例：Moscone Center内的Config 2025充气图形与空间，2160×1213。Figma Brand Studio空间团队与VTProDesign等合作；本图不作为结构或消防布置图使用。[CT-FG1] [原始出处](https://www.figma.com/blog/how-we-shaped-the-visual-identity-for-config-2025/)。
+
+空间中的彩色体量在远处呈现整体轮廓，走近后才容易看清内外关系。弧面高光与局部下垂来自实体材料和体积，使其有别于屏幕上的平整符号。跨媒介制作需要保留形体关系，同时处理材料、重力和空间尺度带来的变化。
+
+![Config2025实际海报墙](../assets/images/contemporary-figma-posters.png)
+
+图23-C5｜真实案例：Config 2025海报群的实际照片，1608×1608。纸张、墨色和重复排布构成另一种观看节奏；本节不要求读者辨认照片里所有小字。[CT-FG1] [原始出处](https://www.figma.com/blog/how-we-shaped-the-visual-identity-for-config-2025/)。
+
+海报群又把表达转回纸面。强烈色块与密集文字交替，同一尺寸的纸张建立连续边界，局部套色和图形则制造差别。海报与充气装置通过形状、色彩和文字角色保持关联，同时分别呈现纸张的印刷特性与充气物的体积感。
+
+为自拟活动设计一张远看的欢迎牌、一张近看的身份贴纸和一页可查找的日程，共享一组形状与文字角色。请旁人依次找房间、辨认身份、查时间，记录需要解释的位置，再调整图形密度与文字层级，重新测试。
+
+本节来源：
+
+- [CT-FG1] Figma Blog，Matt Alagiah，How we shaped the visual identity for Config 2025，2025-07-03：[官方项目回顾与全部原图](https://www.figma.com/blog/how-we-shaped-the-visual-identity-for-config-2025/)。官方摄影总署名为Desmond Studio、VTProDesign、STMNT Studios及Maria Chimishkyan，文章未逐图指派，本书不擅自分配单图作者；保留相应权利，未声明开放许可。

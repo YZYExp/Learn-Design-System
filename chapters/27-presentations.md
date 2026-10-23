@@ -1,4 +1,6 @@
-# 第27章｜PPT与演示设计：把一段判断交给现场
+# 第15章｜PPT与演示设计：把一段判断交给现场
+
+广告把主张、依据与行动放进同一画面，现场演示则让判断随讲述逐页展开。岸线可以用三页向协作者说明活动目的、观众路线和制作选择；每页留下支持标题的证据，详细信息另存讲义。
 
 ## 演示页不是缩小的报告
 
@@ -12,7 +14,7 @@
 
 ![Michael Alley作者教程中关于犬类嗅闻的Assertion–Evidence示例原页](../assets/images/revision-presentations-ae-tutorial.png)
 
-图27-1｜真实教程例页。Michael Alley团队的Assertion–Evidence教程，现刊于[The Craft of Scientific Communication](https://www.craftscicom.org/ae_tutorial.html)。页面内实验图标注为Settles et al., 2002；该实验图及整页权利仍归相应作者。图中“assertion-evidence templates”斜带来自公开原图，本书未添加或移除。引用用于分析演示结构，不表示取得开放再许可。
+图15-1｜真实教程例页。Michael Alley团队的Assertion–Evidence教程，现刊于[The Craft of Scientific Communication](https://www.craftscicom.org/ae_tutorial.html)。页面内实验图标注为Settles et al., 2002；该实验图及整页权利仍归相应作者。图中“assertion-evidence templates”斜带来自公开原图，本书未添加或移除。引用用于分析演示结构，不表示取得开放再许可。
 
 看这页的标题：它不是“Dog Sniffing”，而是一个关于嗅闻是否干扰气流的完整判断。下面左侧是可观察的实验图像，右侧是说明方向关系的简图。标题告诉你需要检验哪一点，图像提供核对该判断的依据。作者站把主张与视觉证据的组合称为assertion–evidence；它是一种组织演示的方法，并非规定所有页面只能有一张图。[作者教程](https://www.craftscicom.org/ae_tutorial.html)
 
@@ -24,11 +26,11 @@
 
 ![NASA HEO委员会2022年8月报告中的Artemis II轨迹原页](../assets/images/revision-presentations-nasa-page-11.png)
 
-图27-2｜NASA Advisory Council，N. Wayne Hale, Jr.署名的Human Exploration and Operations Committee报告，2022年8月10日，PDF第11页。该页为Artemis II任务轨迹示意，内页日期10/7/2021。[NASA原始PDF](https://www.nasa.gov/wp-content/uploads/2022/08/nac_human_exploration_and_operations_heo_committee_report_august_2022.pdf)。这是历史演示材料；本书不以其任务日期或轨迹规划代表当前计划。图示不按真实天体距离比例绘制，NASA及页内相关标志不纳入本书原创内容许可。
+图15-2｜NASA Advisory Council，N. Wayne Hale, Jr.署名的Human Exploration and Operations Committee报告，2022年8月10日，PDF第11页。该页为Artemis II任务轨迹示意，内页日期10/7/2021。[NASA原始PDF](https://www.nasa.gov/wp-content/uploads/2022/08/nac_human_exploration_and_operations_heo_committee_report_august_2022.pdf)。这是历史演示材料；本书不以其任务日期或轨迹规划代表当前计划。图示不按真实天体距离比例绘制，NASA及页内相关标志不纳入本书原创内容许可。
 
 ![NASA真实轨迹页的结构分析](../assets/images/revision-presentations-nasa-analysis.png)
 
-图27-3｜基于图27-2添加编号和框线的教学标注。原页保持原样；编号、中文侧注和框线为本书添加，表示可见版面关系，非NASA原始规范。
+图15-3｜基于图15-2添加编号和框线的教学标注。原页保持原样；编号、中文侧注和框线为本书添加，表示可见版面关系，非NASA原始规范。
 
 先沿图中的轨迹走一圈，再读下方小字。你会发现，它把空间位置、飞行过程和编号说明放在同一张总览里。对于已经熟悉任务、需要往返查阅的观众，这种总览很有价值。但如果在远处投影，从未接触任务的人未必能同时辨认编号、颜色和所有说明。信息密度应按观众背景和观看条件调整。
 
@@ -36,9 +38,9 @@
 
 ![NASA2022年报告中的技术集成进度总览原页](../assets/images/revision-presentations-nasa-page-6.png)
 
-图27-4｜同一NASA原始报告PDF第6页，Working Manifest for Technical Integration。它同时包含年度、任务与缩写说明，适合用于讨论“总览与细读”的不同需求。此处展示历史原页，不核验或更新当年的任务排期。[原始PDF](https://www.nasa.gov/wp-content/uploads/2022/08/nac_human_exploration_and_operations_heo_committee_report_august_2022.pdf)
+图15-4｜同一NASA原始报告PDF第6页，Working Manifest for Technical Integration。它同时包含年度、任务与缩写说明，适合用于讨论“总览与细读”的不同需求。此处展示历史原页，不核验或更新当年的任务排期。[原始PDF](https://www.nasa.gov/wp-content/uploads/2022/08/nac_human_exploration_and_operations_heo_committee_report_august_2022.pdf)
 
-把图27-4与轨迹页对照：前者偏向时间上的多条并行关系，后者偏向空间中的连续过程。两类页面需要不同的证据组织方式。演示系统需要允许关系图、时间线、实验图、比较图和决策页有不同版型。统一的应当是阅读入口与标注语法，而不是强迫每一种证据都进入同一张左右分栏模板。
+把图15-4与轨迹页对照：前者偏向时间上的多条并行关系，后者偏向空间中的连续过程。两类页面需要不同的证据组织方式。演示系统需要允许关系图、时间线、实验图、比较图和决策页有不同版型。统一的应当是阅读入口与标注语法，而不是强迫每一种证据都进入同一张左右分栏模板。
 
 ## 原创改稿：从一页坏稿，到可以讨论的证据页
 
@@ -46,7 +48,7 @@
 
 ![博物馆运营汇报的文字堆叠初稿](../assets/images/revision-presentations-edit-0.png)
 
-图27-5｜原创坏稿。全部客流数字、博物馆与运营条件均为虚构；装饰饼图没有定义扇区含义，故意作为反例。它不能被当成有效数据可视化。
+图15-5｜原创坏稿。全部客流数字、博物馆与运营条件均为虚构；装饰饼图没有定义扇区含义，故意作为反例。它不能被当成有效数据可视化。
 
 初稿有三种失败。第一，标题只说“运营汇报”，没有判断。第二，连续文字藏住了时段差异，听众需要在脑中重新排列数字。第三，旁边的饼图只是装饰，不能回答“什么时候超出处理能力”。这个饼图没有对应数据，不能补充证据。
 
@@ -54,19 +56,19 @@
 
 ![第一步：明确主张与待讨论行动](../assets/images/revision-presentations-edit-1.png)
 
-图27-6｜原创改稿第一步。先确定主张、分母与决策问题；还没有用图表替代证据。
+图15-6｜原创改稿第一步。先确定主张、分母与决策问题；还没有用图表替代证据。
 
 第二步再选择图表。我们关心按时间变化的负荷，同时需要比较固定容量，所以用按小时排列的柱形图，并添加120人/小时的参考线。保留从零开始的数量轴，避免通过截短坐标夸大差距。超出参考线的11时和12时使用强调色，其余时段降低对比；数字、单位、时间范围和虚构声明一起保留。
 
 ![第二步：用时段柱形图比较客流与容量](../assets/images/revision-presentations-edit-2.png)
 
-图27-7｜原创改稿第二步。图中柱高严格对应练习数据，参考线为120人/小时。11时130人、12时180人超过设定容量；颜色只强化这一关系，不替代数值与标签。
+图15-7｜原创改稿第二步。图中柱高严格对应练习数据，参考线为120人/小时。11时130人、12时180人超过设定容量；颜色只强化这一关系，不替代数值与标签。
 
 第三步把证据和行动安排为相邻区域。左侧保留图，右侧写“建议试验：11—13时增设1岗，先运行两周，再评估等候与岗位成本”。它没有声称一岗必然补足60人的峰值缺口，因为实际增岗能力还未知；它只是把需要批准的试验范围说清楚。现场会议据此可以讨论试验时段、期限和评估范围。
 
 ![第三步：让证据与试验建议相邻](../assets/images/revision-presentations-edit-3.png)
 
-图27-8｜原创改稿第三步。行动区独立成组，但不压住图表；具体效果仍需试验验证。图中全部数字与情境为虚构。
+图15-8｜原创改稿第三步。行动区独立成组，但不压住图表；具体效果仍需试验验证。图中全部数字与情境为虚构。
 
 最后把页面缩小到屏幕宽度的四分之一看一遍。即使小字暂时读不清，标题、峰值和建议也应先出现。再恢复正常尺寸，逐项检查单位、容量线和限制说明。缩略测试检查主次，正常尺寸检查完整，投影测试检查距离，三者不互相替代。字号需要结合显示条件检查：同样32pt，在近处电脑屏幕和大会议室后排的结果不同。
 
@@ -74,7 +76,7 @@
 
 ![八页博物馆入口优化报告的实际逐页缩略图](../assets/images/revision-presentations-report-sequence.png)
 
-图27-9｜原创八页小报告，所有页面均已实际绘制，并分别保存为revision-presentations-report-01.png至08.png。图表数据、机构、岗位条件与试验均为虚构。缩略图展示叙事关系，细节可打开各页PNG阅读。
+图15-9｜原创八页小报告，所有页面均已实际绘制，并分别保存为revision-presentations-report-01.png至08.png。图表数据、机构、岗位条件与试验均为虚构。缩略图展示叙事关系，细节可打开各页PNG阅读。
 
 这八页没有采用“背景、现状、分析、方案、总结”这样的通用目录，而是让每页标题推进一个判断。第一页提出小范围增岗试验。第二页说明全天总量掩盖了时段集中。第三页把时段与处理容量放在一起比较。第四页核对峰值缺口：180−120等于60人/小时，并明确实际岗位增量能力未知。第五页提醒调配不能挤占安保等必要职责。第六页规定同时记录等候、成本与体验。第七页写继续、调整、回退的条件。第八页收束到今天需要批准什么。
 
@@ -82,7 +84,7 @@
 
 ![八页报告中的峰值缺口页](../assets/images/revision-presentations-report-04.png)
 
-图27-10｜原创小报告第4页：数量关系与限制在同一页出现。60人/小时是峰值与容量的差，不是已测得的新增岗位产能。
+图15-10｜原创小报告第4页：数量关系与限制在同一页出现。60人/小时是峰值与容量的差，不是已测得的新增岗位产能。
 
 一套演示系统可以把这些关系整理成少数几类版型：判断加证据、对照、过程、时间线、方案取舍、决策请求。版型规定标题入口、主要证据区、单位、出处和页码的角色，但允许图形比例变化。若某张地图必须放大，不应为了模板边框把它缩得无法辨认；若内容属于机密或细节太多，也不能只靠缩字号解决。
 
@@ -113,11 +115,11 @@
 
 ## 原创应用：让系统长出提案页
 
-折光先以一张完整AI海报确定中文、纸面和有色光的关系，再用去字素材与真实字体重建原生画板。三页提案从这一方向中提取颜色角色、字级与裁切规则，分别推进命题、观看顺序、跨媒介三个判断。下面这一页并置同一光场的不同取景，用蓝色棱面、亮线与暖色边界的局部对照，支持提案中的观看顺序判断。提案、无字底图、原生重建和系统各自的关系见第三十一章。
+折光先以一张完整AI海报确定中文、纸面和有色光的关系，再用去字素材与真实字体重建原生画板。三页提案从这一方向中提取颜色角色、字级与裁切规则，分别推进命题、观看顺序、跨媒介三个判断。下面这一页并置同一光场的不同取景，用蓝色棱面、亮线与暖色边界的局部对照，支持提案中的观看顺序判断。提案、无字底图、原生重建和系统各自的关系见第29章。
 
 ![原创应用：让系统长出提案页](../examples/creative-lab/refraction-canvas/renders/export/Proposal02.png)
 
-图27-C｜本书原创提案第二页，可编辑Canvas画板。用去字光场的不同裁切组织观看，文字在原生层另建；这些取景不是多个真实相机视角，工程未冒称交付PPTX。
+图15-C｜本书原创提案第二页，可编辑Canvas画板。用去字光场的不同裁切组织观看，文字在原生层另建；这些取景不是多个真实相机视角，工程未冒称交付PPTX。
 
 
 本章来源：[Michael Alley团队，Assertion–Evidence教程](https://www.craftscicom.org/ae_tutorial.html)；[Penn State，Slide Research](https://www.writing.engr.psu.edu/research.html)；[Harvard Catalyst，Slides](https://catalyst.harvard.edu/writing-communication-center/visualize-science/slides/)；[NASA，HEO Committee Report，2022-08-10](https://www.nasa.gov/wp-content/uploads/2022/08/nac_human_exploration_and_operations_heo_committee_report_august_2022.pdf)。改稿流程、博物馆数据、八页报告与读图判断为本书原创教学材料；原图及其中第三方图像仍归相应权利人。

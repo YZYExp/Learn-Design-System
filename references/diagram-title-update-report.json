@@ -1,0 +1,505 @@
+{
+  "count": 31,
+  "updated": 31,
+  "already_current": 0,
+  "check_only": false,
+  "all_outside_pixels_identical": true,
+  "records": [
+    {
+      "file": "assets/images/fig-05.png",
+      "title_rectangle": [
+        109,
+        62,
+        810,
+        110
+      ],
+      "old_title": "05  装饰不是堆满：重复也有语法",
+      "current_title": "装饰不是堆满：重复也有语法",
+      "baseline_sha256": "63f69c3b282a66f272f96fe0d21b0eefd8130701dd4810a6b767f23143062a1f",
+      "current_sha256": "9cf665e87fa8f8e5775268fc21eacfe679a8b9ac66c5d74753e8ed6e52455075",
+      "outside_before_sha256": "1e80dc2e8b06dd149cc3ba93ac93cb6116df03e816fe7e5127480fbbb9356ff3",
+      "outside_after_sha256": "1e80dc2e8b06dd149cc3ba93ac93cb6116df03e816fe7e5127480fbbb9356ff3",
+      "outside_pixels_unchanged": true
+    },
+    {
+      "file": "assets/images/fig-06.png",
+      "title_rectangle": [
+        109,
+        62,
+        714,
+        111
+      ],
+      "old_title": "06  从构成练习，到模块思维",
+      "current_title": "从构成练习，到模块思维",
+      "baseline_sha256": "23952c0ac7e79ad088b1323b675e9135e59172987510d87061980925317214e0",
+      "current_sha256": "adfa5fcc71e65281591e2247225cb996e1fe6ee3216fe47105622fc49db7479e",
+      "outside_before_sha256": "0c40c4bcfb5c3c4661113c384e350ae45ed71373b23730d10ed02d29591123e1",
+      "outside_after_sha256": "0c40c4bcfb5c3c4661113c384e350ae45ed71373b23730d10ed02d29591123e1",
+      "outside_pixels_unchanged": true
+    },
+    {
+      "file": "assets/images/fig-07.png",
+      "title_rectangle": [
+        109,
+        62,
+        954,
+        111
+      ],
+      "old_title": "07  系列海报：同一骨架，容纳不同内容",
+      "current_title": "系列海报：同一骨架，容纳不同内容",
+      "baseline_sha256": "141c592787ff0cea052e8aa9dc7fce4f444b98d56efe1e38f846e82fa589d881",
+      "current_sha256": "f4b8a3bec62afe9d68baa8587fa5a88b840d4fc6aca4314386c39e45371ffbd5",
+      "outside_before_sha256": "a65f9d0ad0410b0f0be2cba25dff507767eee0a0c7dca755ec9011319c7be6ca",
+      "outside_after_sha256": "a65f9d0ad0410b0f0be2cba25dff507767eee0a0c7dca755ec9011319c7be6ca",
+      "outside_pixels_unchanged": true
+    },
+    {
+      "file": "assets/images/fig-08.png",
+      "title_rectangle": [
+        109,
+        62,
+        858,
+        111
+      ],
+      "old_title": "08  打破规则，也要保留可读的支点",
+      "current_title": "打破规则，也要保留可读的支点",
+      "baseline_sha256": "41a66fff3a17b7cb9e63a28d7188dd10419009ba2c23ba6a9dd27220b3b2dc98",
+      "current_sha256": "5340ecd08875e169b8e01398781d3bfd89429b6c1aedc23f456f7158ccc673f9",
+      "outside_before_sha256": "9919cae15b3e948cbbb1d2feaa0420345d8547d9cdd5bc45f7160b538821fef1",
+      "outside_after_sha256": "9919cae15b3e948cbbb1d2feaa0420345d8547d9cdd5bc45f7160b538821fef1",
+      "outside_pixels_unchanged": true
+    },
+    {
+      "file": "assets/images/fig-09.png",
+      "title_rectangle": [
+        109,
+        62,
+        810,
+        111
+      ],
+      "old_title": "09  中文阅读方向，与留白的重心",
+      "current_title": "中文阅读方向，与留白的重心",
+      "baseline_sha256": "3b3d73e5e3a00bb8d5b0ca5d546789a24045e19a1d75affe1c9c93b66046c8b0",
+      "current_sha256": "ef6577d12a0c1cbcc0136ef439ae0f72384979c1f2e8eefd795210458ed80d0a",
+      "outside_before_sha256": "4eac9846712a4316681b2bb8ca21f5aeab8c0fa9297171d413031b5875811435",
+      "outside_after_sha256": "4eac9846712a4316681b2bb8ca21f5aeab8c0fa9297171d413031b5875811435",
+      "outside_pixels_unchanged": true
+    },
+    {
+      "file": "assets/images/fig-10.png",
+      "title_rectangle": [
+        109,
+        62,
+        762,
+        110
+      ],
+      "old_title": "10  材料改变了可用的设计语言",
+      "current_title": "材料改变了可用的设计语言",
+      "baseline_sha256": "320b206214e4b09257f2d1eb68f5192439c11fa71bec571b88fd8316ee67bd41",
+      "current_sha256": "66228d313965df9afa1e8078310c30fcf246e0563d45421cadbddb69d56a67ec",
+      "outside_before_sha256": "f86bef46f25aa884160404a46b00f4b3da3044f5303bbf8d2224ebd068b16f9a",
+      "outside_after_sha256": "f86bef46f25aa884160404a46b00f4b3da3044f5303bbf8d2224ebd068b16f9a",
+      "outside_pixels_unchanged": true
+    },
+    {
+      "file": "assets/images/fig-11.png",
+      "title_rectangle": [
+        109,
+        62,
+        858,
+        111
+      ],
+      "old_title": "11  品牌家族：固定锚点，可变表达",
+      "current_title": "品牌家族：固定锚点，可变表达",
+      "baseline_sha256": "3e888225705b684a0a7a8ed3473eb570560ceed5684d030a8bbbb04da98d1af0",
+      "current_sha256": "319417093b6fcc41b657c921b6a67cb3d71bf55053b70b8e2e9b56cdaf8a7b67",
+      "outside_before_sha256": "df815c5e55d06adf3de05e44020806fc515d0294a577709ef9a4495c6fb177cf",
+      "outside_after_sha256": "df815c5e55d06adf3de05e44020806fc515d0294a577709ef9a4495c6fb177cf",
+      "outside_pixels_unchanged": true
+    },
+    {
+      "file": "assets/images/fig-12.png",
+      "title_rectangle": [
+        109,
+        62,
+        858,
+        110
+      ],
+      "old_title": "12  书刊跨页：连续规则与阅读节奏",
+      "current_title": "书刊跨页：连续规则与阅读节奏",
+      "baseline_sha256": "31723d63cae67574f0e080f4b680f7b99c92419fb10598edcfd53dc61c85e442",
+      "current_sha256": "4edb81d82013f629f513466d5b470931a0dd0f9cc95479d647f8a45a82a18b1d",
+      "outside_before_sha256": "97e71f716aad0f6eace733d66d4af2003c652a3a738eb62baca741f090bb63a1",
+      "outside_after_sha256": "97e71f716aad0f6eace733d66d4af2003c652a3a738eb62baca741f090bb63a1",
+      "outside_pixels_unchanged": true
+    },
+    {
+      "file": "assets/images/fig-13.png",
+      "title_rectangle": [
+        109,
+        62,
+        810,
+        111
+      ],
+      "old_title": "13  图形既能计数，也能帮助找路",
+      "current_title": "图形既能计数，也能帮助找路",
+      "baseline_sha256": "386f1b739dffa2f59169cbedb651e551d6002ccb539ae505f0f5e9743ebbcff8",
+      "current_sha256": "7d851e9180d667864d0a037caf7928f8a08eadc05972eb9f74da7a4e9da85149",
+      "outside_before_sha256": "a23506d92a13cdba8d286719fa26feae3edfac8e7bd0d85e8e1c2380a6532193",
+      "outside_after_sha256": "a23506d92a13cdba8d286719fa26feae3edfac8e7bd0d85e8e1c2380a6532193",
+      "outside_pixels_unchanged": true
+    },
+    {
+      "file": "assets/images/fig-14.png",
+      "title_rectangle": [
+        109,
+        62,
+        762,
+        110
+      ],
+      "old_title": "14  模块化产品：接口先于组合",
+      "current_title": "模块化产品：接口先于组合",
+      "baseline_sha256": "b5204a13eb42cf14c28089847f0f3bd606927ac3682cc51005944f9f0f794a4d",
+      "current_sha256": "ac7616ab343b5edf680fa282fe0caa861ad08af7dc049ffc02334ebecc1dcee8",
+      "outside_before_sha256": "8102fb38d4f25fac2106f5d5da83c41abfef3ec230a3735c536ac0d05346358c",
+      "outside_after_sha256": "8102fb38d4f25fac2106f5d5da83c41abfef3ec230a3735c536ac0d05346358c",
+      "outside_pixels_unchanged": true
+    },
+    {
+      "file": "assets/images/fig-15.png",
+      "title_rectangle": [
+        109,
+        62,
+        954,
+        111
+      ],
+      "old_title": "15  展厅中的秩序：先走得通，再看得清",
+      "current_title": "展厅中的秩序：先走得通，再看得清",
+      "baseline_sha256": "25dfd99ef8f036db7f61b2efd239204677f5478dc3513defca60478c85c749e5",
+      "current_sha256": "77d178d85d6b41ab8309c2411a43dad78bd69fd26f626c95693fb45e4846ab6d",
+      "outside_before_sha256": "c5a0eb3f11bd79adbf60308c7eed40eace24cbd7b604176d9df1957ac445d4de",
+      "outside_after_sha256": "c5a0eb3f11bd79adbf60308c7eed40eace24cbd7b604176d9df1957ac445d4de",
+      "outside_pixels_unchanged": true
+    },
+    {
+      "file": "assets/images/fig-16.png",
+      "title_rectangle": [
+        109,
+        62,
+        618,
+        110
+      ],
+      "old_title": "16  动效是一套时间关系",
+      "current_title": "动效是一套时间关系",
+      "baseline_sha256": "9ffa6d0384f9012985710ef115da835dcc6a0b66027e8d5b8a8b57d1c72fd0de",
+      "current_sha256": "49c53933ca5ff193d991d6eb1dad553f4f72d124f5560e868a0d354eed272452",
+      "outside_before_sha256": "758112e4d19e4a6f2a064f21102eb25cb16335eff1f6c0ce2e8c2244a186dbbb",
+      "outside_after_sha256": "758112e4d19e4a6f2a064f21102eb25cb16335eff1f6c0ce2e8c2244a186dbbb",
+      "outside_pixels_unchanged": true
+    },
+    {
+      "file": "assets/images/fig-17.png",
+      "title_rectangle": [
+        109,
+        62,
+        762,
+        110
+      ],
+      "old_title": "17  生成设计：只改变一个参数",
+      "current_title": "生成设计：只改变一个参数",
+      "baseline_sha256": "817a1c209624e9fdb3b180f0f853df39efd480d6cf733d556329a1c7a0cbf331",
+      "current_sha256": "82238b6d3b45fed1e45475728307b159d6c6a70e53fe38899746cf55527c9283",
+      "outside_before_sha256": "03a7234a28ecd9b43060142829536d8aa0112995ef1e16554ae7d7792eac4b60",
+      "outside_after_sha256": "03a7234a28ecd9b43060142829536d8aa0112995ef1e16554ae7d7792eac4b60",
+      "outside_pixels_unchanged": true
+    },
+    {
+      "file": "assets/images/fig-18.png",
+      "title_rectangle": [
+        109,
+        62,
+        810,
+        111
+      ],
+      "old_title": "18  数字设计系统，包含哪些层？",
+      "current_title": "数字设计系统，包含哪些层？",
+      "baseline_sha256": "d9737ee73260708c1ebe06d53c6db643c25a089225d282858f3813bf3aefa8c1",
+      "current_sha256": "b4c41a3514439cce467e615af23ccf2134e8035e9df073fbbd2c5d1a0af59a20",
+      "outside_before_sha256": "727b650bfc4467492bb4c899363f6d440d7a38f3cb04a5ff2e0a06665ef5942c",
+      "outside_after_sha256": "727b650bfc4467492bb4c899363f6d440d7a38f3cb04a5ff2e0a06665ef5942c",
+      "outside_pixels_unchanged": true
+    },
+    {
+      "file": "assets/images/fig-19.png",
+      "title_rectangle": [
+        109,
+        62,
+        1002,
+        111
+      ],
+      "old_title": "19  语义色彩：角色稳定，颜色随情境改变",
+      "current_title": "语义色彩：角色稳定，颜色随情境改变",
+      "baseline_sha256": "7c1fb830882af2d667429605ea8a51ab8939a8c6f879a4a9a011137f14c1e8fd",
+      "current_sha256": "35389c016e6e625c677d77f7a149f0351cf6e264bae4453ba12a500c7286d1fb",
+      "outside_before_sha256": "c84e1263441ea4c3332e604d80af574cea83d2e576cca2ad991e9359bb531633",
+      "outside_after_sha256": "c84e1263441ea4c3332e604d80af574cea83d2e576cca2ad991e9359bb531633",
+      "outside_pixels_unchanged": true
+    },
+    {
+      "file": "assets/images/fig-20.png",
+      "title_rectangle": [
+        109,
+        62,
+        762,
+        111
+      ],
+      "old_title": "20  组件的设计，必须包含状态",
+      "current_title": "组件的设计，必须包含状态",
+      "baseline_sha256": "0065e8fab77df3940c7ae15bbd9ad5104038b02ec0fa37b002ee05fe5e668e68",
+      "current_sha256": "6814376cc20701d7cda1d27819be39fdbc8eff91f6a3c3c7f73ec1f999ffe45f",
+      "outside_before_sha256": "ef9a9291d2461a7f6e5de419aa7203b98a25f9184288bc99626f945cfa4faafa",
+      "outside_after_sha256": "ef9a9291d2461a7f6e5de419aa7203b98a25f9184288bc99626f945cfa4faafa",
+      "outside_pixels_unchanged": true
+    },
+    {
+      "file": "assets/images/fig-21.png",
+      "title_rectangle": [
+        109,
+        62,
+        618,
+        110
+      ],
+      "old_title": "21  规则如何继续生长？",
+      "current_title": "规则如何继续生长？",
+      "baseline_sha256": "6f5c3a2592974e14abba67594300891791f2f2749255837353c0d6452ad94fb3",
+      "current_sha256": "01721d9bd1be1ec537b6ffd29580be9464670c42d386e7013bb813acddd7fdf0",
+      "outside_before_sha256": "90cbc7c7982484ab28fb30995fa13cc0a236787f3e045d40649b0d9f1a607db0",
+      "outside_after_sha256": "90cbc7c7982484ab28fb30995fa13cc0a236787f3e045d40649b0d9f1a607db0",
+      "outside_pixels_unchanged": true
+    },
+    {
+      "file": "assets/images/fig-22.png",
+      "title_rectangle": [
+        109,
+        62,
+        858,
+        110
+      ],
+      "old_title": "22  岸线设计周：跨媒介的一套语法",
+      "current_title": "岸线设计周：跨媒介的一套语法",
+      "baseline_sha256": "3b12e548bfc3fefe0d362314f969ca112a83a2734a349e52dd0de4cfd5ea1f34",
+      "current_sha256": "2f0b270614a7240e24b1939369773620c47659870503a2a8ed144b190d523ab6",
+      "outside_before_sha256": "354c82a14988155e838e94b366229b284091842d55e7dabeff786cde897d5e63",
+      "outside_after_sha256": "354c82a14988155e838e94b366229b284091842d55e7dabeff786cde897d5e63",
+      "outside_pixels_unchanged": true
+    },
+    {
+      "file": "assets/images/fig-23.png",
+      "title_rectangle": [
+        109,
+        62,
+        858,
+        111
+      ],
+      "old_title": "23  连续图像：统一视点，才能比较",
+      "current_title": "连续图像：统一视点，才能比较",
+      "baseline_sha256": "4f975eb227aeceee97712306ebff19dee00c583c6ca063e7aad9f1c62f4ec723",
+      "current_sha256": "4ca5c9e71ca7fabd8163fd5360776e811a9927a7da25782c5713d98b25780454",
+      "outside_before_sha256": "183c0c266d0ddc7d5401a5913c5c178e13a70ecf836935e0eaa8b2d11a66540f",
+      "outside_after_sha256": "183c0c266d0ddc7d5401a5913c5c178e13a70ecf836935e0eaa8b2d11a66540f",
+      "outside_pixels_unchanged": true
+    },
+    {
+      "file": "assets/images/fig-24.png",
+      "title_rectangle": [
+        109,
+        62,
+        954,
+        110
+      ],
+      "old_title": "24  可穿戴的系列：母题与结构一起设计",
+      "current_title": "可穿戴的系列：母题与结构一起设计",
+      "baseline_sha256": "535a104e25c65e522d1f0d107e8ae67e1b19cd21b0e175c2df4a30625b116664",
+      "current_sha256": "84f68c62993616239ee6ece260bdf2fbb92f76594408e7b2e9745af5ae0b5ab4",
+      "outside_before_sha256": "1313feb28f326214af86819a32a6c864cabd7a45964237cda4ddf25e769d9d61",
+      "outside_after_sha256": "1313feb28f326214af86819a32a6c864cabd7a45964237cda4ddf25e769d9d61",
+      "outside_pixels_unchanged": true
+    },
+    {
+      "file": "assets/images/revision-history-analysis-05.png",
+      "title_rectangle": [
+        54,
+        32,
+        509,
+        73
+      ],
+      "old_title": "05 读两种花布的底层结构",
+      "current_title": "读两种花布的底层结构",
+      "baseline_sha256": "bebfbb9bcf55755646c00edb09b1f44ae8a75e3023b21c3c50d1fd06ed234575",
+      "current_sha256": "60b4dbfc455fa74fae37fc045fd75675cc879e1a7443805c906e37990c8c8051",
+      "outside_before_sha256": "a8215a71d346877b258e90a42546038380b4c1c5107aa7a3d9bc6d7c65728568",
+      "outside_after_sha256": "a8215a71d346877b258e90a42546038380b4c1c5107aa7a3d9bc6d7c65728568",
+      "outside_pixels_unchanged": true
+    },
+    {
+      "file": "assets/images/revision-history-analysis-06.png",
+      "title_rectangle": [
+        54,
+        33,
+        669,
+        73
+      ],
+      "old_title": "06 茶壶的部件，并不承担相同任务",
+      "current_title": "茶壶的部件，并不承担相同任务",
+      "baseline_sha256": "780e9b37d3c06502bde52e27a5ba04d74fdf61deac28410eb1db049f918c9ae5",
+      "current_sha256": "8a4b346e47987ba20ac3dae5b860883926e5ae1e25e66b4e28cf4a5af546b194",
+      "outside_before_sha256": "d749a7ac1079902251a0fc3cee2bb4b4f9fa259eb7943deb9bbb70bee6435474",
+      "outside_after_sha256": "d749a7ac1079902251a0fc3cee2bb4b4f9fa259eb7943deb9bbb70bee6435474",
+      "outside_pixels_unchanged": true
+    },
+    {
+      "file": "assets/images/revision-history-analysis-07.png",
+      "title_rectangle": [
+        54,
+        33,
+        469,
+        73
+      ],
+      "old_title": "07 同一海报的三层关系",
+      "current_title": "同一海报的三层关系",
+      "baseline_sha256": "4ef0403b64877a7d009137d18ef0dc9594c13a0c4cd6185826a59ae46d86e5ad",
+      "current_sha256": "98c9c059462808eacf254d998ff43eba57e6270ac3dc049f7dcfcd6e1ca9898b",
+      "outside_before_sha256": "af9a63a878a07c23a895dee079e275fea43bf500dc174f293878f372b8d46c8c",
+      "outside_after_sha256": "af9a63a878a07c23a895dee079e275fea43bf500dc174f293878f372b8d46c8c",
+      "outside_pixels_unchanged": true
+    },
+    {
+      "file": "assets/images/revision-history-analysis-08.png",
+      "title_rectangle": [
+        54,
+        32,
+        709,
+        73
+      ],
+      "old_title": "08 看似破格，也有清楚的中心与支点",
+      "current_title": "看似破格，也有清楚的中心与支点",
+      "baseline_sha256": "5db9a8c07d50bcc61033a13c822b6064c2ce3ced9e9442ab49642b6f747be2d0",
+      "current_sha256": "3a12ddc5b7040b147ee7d2c530399d4f0abd2d98f9cf11e06743aa57566c8b50",
+      "outside_before_sha256": "44ca184ef6a5938a59e0cec73231737fda7613ac2dec7ff844de1a4cb7bbca14",
+      "outside_after_sha256": "44ca184ef6a5938a59e0cec73231737fda7613ac2dec7ff844de1a4cb7bbca14",
+      "outside_pixels_unchanged": true
+    },
+    {
+      "file": "assets/images/revision-history-analysis-09.png",
+      "title_rectangle": [
+        54,
+        33,
+        749,
+        73
+      ],
+      "old_title": "09 画谱怎样让一幅画成为可学习的关系",
+      "current_title": "画谱怎样让一幅画成为可学习的关系",
+      "baseline_sha256": "b08f411b36978699b386fc0848317e4082b6b175253d78708f90aece2307f375",
+      "current_sha256": "10a13eee1bb9974c548f59fdae58c044bf1890557f111cb3cf19b1d97fb9d7fd",
+      "outside_before_sha256": "d9c406c8c38ef69d16eda7e4bada4dcbe7acefd75ece8e62188e7dd496e209de",
+      "outside_after_sha256": "d9c406c8c38ef69d16eda7e4bada4dcbe7acefd75ece8e62188e7dd496e209de",
+      "outside_pixels_unchanged": true
+    },
+    {
+      "file": "assets/images/revision-history-analysis-10.png",
+      "title_rectangle": [
+        54,
+        33,
+        749,
+        73
+      ],
+      "old_title": "10 看设计稿，先分开主样、试样与标注",
+      "current_title": "看设计稿，先分开主样、试样与标注",
+      "baseline_sha256": "55f7f48b85a1404ebf3c92c9ead13a626fc52466d58e16184e4023e17e2bed77",
+      "current_sha256": "6fb6cf58d3c9da4f3624d077447fdbed3d3164925ebaccedff598238aeae0972",
+      "outside_before_sha256": "e3611b2c6eab9c813a8551d459508ac37855dec82f601d585b865c2f4fbce441",
+      "outside_after_sha256": "e3611b2c6eab9c813a8551d459508ac37855dec82f601d585b865c2f4fbce441",
+      "outside_pixels_unchanged": true
+    },
+    {
+      "file": "assets/images/revision-digital-analysis-molnar.png",
+      "title_rectangle": [
+        44,
+        28,
+        806,
+        74
+      ],
+      "old_title": "17  看清变化发生在哪里：Molnár 1985",
+      "current_title": "看清变化发生在哪里：Molnár 1985",
+      "baseline_sha256": "7b12e80a1f211cdb22506bef056cd41ede9c48d39d282b4067cbd79ee4972b35",
+      "current_sha256": "7d26a5ffe40c2f0332714612a42db32790667d369cff141c4e9ebe868d297165",
+      "outside_before_sha256": "d66830b96bacf1212a6758560a8919ca180b09d4239db76e473b996fc548df14",
+      "outside_after_sha256": "d66830b96bacf1212a6758560a8919ca180b09d4239db76e473b996fc548df14",
+      "outside_pixels_unchanged": true
+    },
+    {
+      "file": "assets/images/revision-digital-analysis-roles.png",
+      "title_rectangle": [
+        44,
+        29,
+        819,
+        74
+      ],
+      "old_title": "19  同一行动角色，两组实际前景／背景",
+      "current_title": "同一行动角色，两组实际前景／背景",
+      "baseline_sha256": "12e87c43c199a1d60a5ef04acd0bbc22250b03ea9a7a6597fa5c7afe05d0586d",
+      "current_sha256": "c9544b99c15167a0565de3893003e29080f26bf238f77764cab4aeb5179ad7fa",
+      "outside_before_sha256": "fc9f55193b344de36d64d3266d89ba4b91718beb20c185b63f3bf4b41cf92bc8",
+      "outside_after_sha256": "fc9f55193b344de36d64d3266d89ba4b91718beb20c185b63f3bf4b41cf92bc8",
+      "outside_pixels_unchanged": true
+    },
+    {
+      "file": "assets/images/revision-digital-analysis-errors.png",
+      "title_rectangle": [
+        44,
+        29,
+        775,
+        74
+      ],
+      "old_title": "20  错误摘要：三个有位置的视觉线索",
+      "current_title": "错误摘要：三个有位置的视觉线索",
+      "baseline_sha256": "19497bb949afe9890d89ca63330f81289a698ead5b219ac4347cb5cb197da6e8",
+      "current_sha256": "5c047bb5ac6d26d0a35621bc17ab7453f8d8be8535285433630f39f951258aa6",
+      "outside_before_sha256": "ed1273e8ba39cef8fc27bfb449640def24900153af07fcf7dfc5b27614c00424",
+      "outside_after_sha256": "ed1273e8ba39cef8fc27bfb449640def24900153af07fcf7dfc5b27614c00424",
+      "outside_pixels_unchanged": true
+    },
+    {
+      "file": "assets/images/revision-digital-analysis-becher.png",
+      "title_rectangle": [
+        44,
+        29,
+        951,
+        74
+      ],
+      "old_title": "23  类型学的比较单位：先保持整幅，再读局部",
+      "current_title": "类型学的比较单位：先保持整幅，再读局部",
+      "baseline_sha256": "441e738713364157582deae092f45fca68cd997205c60839da36617d365dc2aa",
+      "current_sha256": "a506a7f5a7ebbf3cc871fc2cd1576cf6d9a794712850758125ff044781ad42fa",
+      "outside_before_sha256": "67016fd024276a086c27cc1d2d434247f363c4852761908cf1e26146b1e4e5a8",
+      "outside_after_sha256": "67016fd024276a086c27cc1d2d434247f363c4852761908cf1e26146b1e4e5a8",
+      "outside_pixels_unchanged": true
+    },
+    {
+      "file": "assets/images/revision-digital-analysis-vionnet.png",
+      "title_rectangle": [
+        44,
+        29,
+        864,
+        74
+      ],
+      "old_title": "24  Vionnet 1922：三种不同的体积与边界",
+      "current_title": "Vionnet 1922：三种不同的体积与边界",
+      "baseline_sha256": "67b32a10add2b1550a210bad7a0cbcc7a9c15f43fb46352168a380861589698a",
+      "current_sha256": "775d85779f8bf3a56041788c16ba6eff6c88cbef9245ab537d3c06510554c6a6",
+      "outside_before_sha256": "c4f22db512ac7750a2270ea440d57c07b2343b358ec9dc7982b96f901664a7c7",
+      "outside_after_sha256": "c4f22db512ac7750a2270ea440d57c07b2343b358ec9dc7982b96f901664a7c7",
+      "outside_pixels_unchanged": true
+    }
+  ]
+}

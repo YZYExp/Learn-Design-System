@@ -3,6 +3,7 @@
 from __future__ import annotations
 import argparse, hashlib, html, json, math, re
 from pathlib import Path
+from book_manifest import load_book, ordered_sources, part_starts
 from io import BytesIO
 from urllib.parse import urlsplit
 from reportlab.lib import colors
@@ -97,7 +98,8 @@ def init_styles():
         'cell':ParagraphStyle('cell',fontSize=8.7,leading=14,spaceAfter=0,**base),
         'code':ParagraphStyle('code',fontSize=8.2,leading=13,spaceAfter=0,**base),
         'small':ParagraphStyle('small',fontSize=9,leading=15,spaceAfter=8,**base),
-        'toc':ParagraphStyle('toc',fontSize=10.3,leading=18,spaceBefore=6,**base),
+        'toc':ParagraphStyle('toc',fontSize=10.3,leading=18,spaceBefore=4,leftIndent=12,**base),
+        'tocpart':ParagraphStyle('tocpart',fontName=FONT,fontSize=11,leading=20,spaceBefore=9,textColor=TEAL),
     })
 
 def clean(s):
@@ -106,6 +108,7 @@ def clean(s):
 
 def inline(s, refs=None):
     """Minimal safe Markdown formatting; all references remain clickable."""
+    s=re.sub(r'\s*\{#[^}]+\}\s*$','',s)
     tokens=[]
     def link(m):
         label,url=m.groups()
@@ -130,9 +133,9 @@ class Book(BaseDocTemplate):
                          topMargin=22*mm,bottomMargin=21*mm,title='设计的语法：从艺术秩序到设计系统',author='YZ · AI 辅助编写',pageCompression=1)
         frame=Frame(22*mm,21*mm,WIDTH,254*mm,id='body',leftPadding=0,rightPadding=0,topPadding=0,bottomPadding=0)
         self.addPageTemplates(PageTemplate(id='book',frames=frame,onPage=self.page))
-        self.current_chapter='设计的语法'; self.chapter_pages=[];self.figure_records={}
+        self.current_chapter='设计的语法'; self.chapter_pages=[];self.part_pages=[];self.figure_records={}
     def page(self,canv,doc):
-        if doc.page==1:self.chapter_pages=[];self.figure_records={}
+        if doc.page==1:self.chapter_pages=[];self.part_pages=[];self.figure_records={}
         canv.saveState(); canv.setFillColor(PAPER); canv.rect(0,0,*PAGE,fill=1,stroke=0)
         if doc.page>1:
             canv.setStrokeColor(colors.HexColor('#D9D6CC')); canv.setLineWidth(.5)
@@ -147,7 +150,9 @@ class Book(BaseDocTemplate):
         if isinstance(f,Paragraph) and getattr(f,'bookmark',None):
             title=getattr(f,'toc_title',f.getPlainText()); key=f.bookmark
             self.canv.bookmarkPage(key); self.canv.addOutlineEntry(title,key,0,False)
-            self.notify('TOCEntry',(0,title,self.page,key)); self.chapter_pages.append({'title':title,'page':self.page})
+            level=getattr(f,'toc_level',1)
+            self.notify('TOCEntry',(level,title,self.page,key))
+            (self.part_pages if getattr(f,'is_part',False) else self.chapter_pages).append({'title':title,'page':self.page})
         if isinstance(f,Paragraph) and getattr(f,'figure_id',None):
             record=self.figure_records.setdefault(f.figure_id,{})
             record['caption_page']=self.page
@@ -374,9 +379,9 @@ def parse_file(path):
 def main():
     ap=argparse.ArgumentParser(); ap.add_argument('--output',default='build/design-grammar.pdf');args=ap.parse_args()
     fonts(); init_styles();IMAGE_METADATA.clear();IMAGE_METADATA.update(image_metadata_catalog()); out=ROOT/args.output;out.parent.mkdir(parents=True,exist_ok=True)
-    files=sorted((ROOT/'chapters').glob('*.md'))+sorted((ROOT/'appendices').glob('*.md'))
+    book=load_book(); files=ordered_sources(book); starts=part_starts(book)
     if not files:raise RuntimeError('No Markdown chapter sources')
-    inputs=set(files)
+    inputs=set(files);inputs.add(ROOT/'book.json')
     for source in files:
         for _alt, rel in re.findall(r'!\[([^\]]*)\]\(([^)]+)\)',source.read_text()):
             inputs.add((source.parent/rel).resolve())
@@ -390,11 +395,15 @@ def main():
     story=[Spacer(1,20*mm),Paragraph('设计的语法',ParagraphStyle('cover',fontName=FONT,fontSize=39,leading=52,textColor=INK)),
         Spacer(1,6*mm),Paragraph('从艺术秩序到设计系统',ParagraphStyle('subtitle',fontName=FONT,fontSize=17,leading=28,textColor=TEAL)),Spacer(1,14*mm),CoverArt(),
         Spacer(1,10*mm),Paragraph('从纹样、版式、器物与空间，走向可以学习、制作和维护的设计规则。',styles['small']),
-        Paragraph('图解知识读本 · 5.1全文校订版 · 2026年10月',styles['small']),PageBreak(),Paragraph('目录与阅读顺序',styles['h1'])]
-    toc=TableOfContents();toc.levelStyles=[styles['toc']];toc.dotsMinLevel=0
+        Paragraph('图解知识读本 · '+book['edition']+' · 2026年10月',styles['small']),PageBreak(),Paragraph('目录与阅读顺序',styles['h1'])]
+    toc=TableOfContents();toc.levelStyles=[styles['tocpart'],styles['toc']];toc.dotsMinLevel=0
     story.extend([toc,PageBreak()])
     for index,path in enumerate(files):
         if index:story.append(PageBreak())
+        if path in starts:
+            part=starts[path]; label=f"第{part['number']}篇｜{part['title']}"
+            heading=Paragraph(inline(label),styles['h2']);heading.bookmark=part['id'];heading.toc_title=label;heading.toc_level=0;heading.is_part=True
+            story.extend([heading,Paragraph(inline(part['description']),styles['small'])])
         story.extend(parse_file(path))
     temporary=out.with_name(out.stem+'.pending.pdf')
     doc=Book(temporary);doc.multiBuild(story)
@@ -402,6 +411,7 @@ def main():
     if changed:raise RuntimeError('Sources changed during build; rebuild after editing: '+', '.join(changed))
     temporary.replace(out)
     record={'pdf':str(out.relative_to(ROOT)),'source_files':[str(p.relative_to(ROOT)) for p in files],
+            'edition':book['edition'],'part_starts':doc.part_pages,
             'chapter_starts':doc.chapter_pages[-len(files):], 'figures':list(doc.figure_records.values()), 'font':'Noto Sans SC Regular (SIL OFL 1.1)',
             'citations':'Inline reference markers plus linked source blocks are kept with the prose that uses them.',
             'html_generated':False,'raster_embedding_dpi_limit':PDF_RASTER_DPI,'input_sha256':hashes}

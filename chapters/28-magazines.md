@@ -1,4 +1,6 @@
-# 第28章｜画报与杂志：把图片变成连续的阅读
+# 第17章｜画报与杂志：把图片变成连续的阅读
+
+书籍章节侧重长文、条目与检索，本章转向以图片推动阅读的刊物。岸线的节目册可用于查时间地点；若另做活动画报，则需要确定选题、图片顺序、图注与事实来源，两者可共享身份和字级，编辑任务仍需分别安排。
 
 ## 一张好图，不等于一本好杂志
 
@@ -12,11 +14,11 @@
 
 ![Alfred Roller为Ver Sacrum1898年创刊号设计的真实封面](../assets/images/revision-magazines-ver-sacrum-1898.jpg)
 
-图28-1｜Alfred Roller，《Ver Sacrum》第1年、第1期封面，1898年1月。真实历史封面摄影复制，图像经[Wikimedia Commons文件页](https://commons.wikimedia.org/wiki/File:Ver_Sacrum,_Issue_1,_January_1898.jpg)取得；该文件明确标原始来源Ader Paris，并标为公开领域艺术作品的忠实复制。此图并非本书生成，也并非从海德堡馆藏下载。刊物史可旁读[Leopold Museum馆藏说明](https://onlinecollection.leopoldmuseum.org/en/object/7726-ver-sacrum-magazine-of-the-union-of-austrian-artists-founders-issue-september-1898-1st-year-no-9/)。
+图17-1｜Alfred Roller，《Ver Sacrum》第1年、第1期封面，1898年1月。真实历史封面摄影复制，图像经[Wikimedia Commons文件页](https://commons.wikimedia.org/wiki/File:Ver_Sacrum,_Issue_1,_January_1898.jpg)取得；该文件明确标原始来源Ader Paris，并标为公开领域艺术作品的忠实复制。此图并非本书生成，也并非从海德堡馆藏下载。刊物史可旁读[Leopold Museum馆藏说明](https://onlinecollection.leopoldmuseum.org/en/object/7726-ver-sacrum-magazine-of-the-union-of-austrian-artists-founders-issue-september-1898-1st-year-no-9/)。
 
 ![Ver Sacrum创刊封面的图文分工标注](../assets/images/revision-magazines-ver-sacrum-analysis.png)
 
-图28-2｜原封面加本书教学标线。1为刊名横带，2为树与容器组成的插图区，3为右侧说明与日期区；标注用于读图，不声称这些边界是作者原始网格尺寸。原图归属同图28-1。
+图17-2｜原封面加本书教学标线。1为刊名横带，2为树与容器组成的插图区，3为右侧说明与日期区；标注用于读图，不声称这些边界是作者原始网格尺寸。原图归属同图17-1。
 
 先看版面的图文分工。刊名横向铺在上部，左下树木的枝叶与容器构成大片图像，右侧文字分成可辨认的块。几乎相同的红色贯穿字与图，纸色则从两者之间显现。字形本身也有强烈形态，所以阅读与观看并没有被完全切开。这些关系可以直接从该封面核对，不代表同时代刊物都采用同样的组织方式。
 
@@ -30,11 +32,11 @@ Leopold Museum将《Ver Sacrum》介绍为维也纳分离派的艺术与文学�
 
 ![LIFE1936年11月23日创刊号真实封面](../assets/images/revision-magazines-life-1936-cover.jpg)
 
-图28-3｜LIFE，1936年11月23日创刊号封面；摄影Margaret Bourke-White，Fort Peck Dam。来自[LIFE官方摄影家页](https://www.life.com/photographer/margaret-bourke-white/)与[原刊专题重刊](https://www.life.com/history/lifes-first-ever-cover-story-building-the-fort-peck-dam-1936/)。© Margaret Bourke-White / The LIFE Picture Collection及相应权利人，官方页保留版权；本书引用用于具体版面评论，未将原图纳入本书原创许可。
+图17-3｜LIFE，1936年11月23日创刊号封面；摄影Margaret Bourke-White，Fort Peck Dam。来自[LIFE官方摄影家页](https://www.life.com/photographer/margaret-bourke-white/)与[原刊专题重刊](https://www.life.com/history/lifes-first-ever-cover-story-building-the-fort-peck-dam-1936/)。© Margaret Bourke-White / The LIFE Picture Collection及相应权利人，官方页保留版权；本书引用用于具体版面评论，未将原图纳入本书原创许可。
 
 ![LIFE创刊封面的刊名、主图与出版信息标注](../assets/images/revision-magazines-life-cover-analysis.png)
 
-图28-4｜原封面加本书结构标注。1圈出左上LIFE刊名，2指向照片主体，3圈出底部日期与价格区。原作未重绘，标线与中文侧注为本书添加；图像权利归属同图28-3。
+图17-4｜原封面加本书结构标注。1圈出左上LIFE刊名，2指向照片主体，3圈出底部日期与价格区。原作未重绘，标线与中文侧注为本书添加；图像权利归属同图17-3。
 
 把它与《Ver Sacrum》并置，会看到另一种分工。这里的刊名是明确的色块入口，摄影占据主要空间，底部出版信息构成另一条带。照片中的巨大结构与下方小人物产生尺度差，重复的建筑体量又形成纵深。封面并没有靠五六个同等响亮的专题标题制造热闹，而是让一张图承担主要注意力。
 
@@ -42,11 +44,11 @@ Leopold Museum将《Ver Sacrum》介绍为维也纳分离派的艺术与文学�
 
 ![LIFE1936年11月23日第9页真实版面](../assets/images/revision-magazines-life-1936-spread.jpg)
 
-图28-5｜LIFE，1936年11月23日，第9页单页版面，摄影Margaret Bourke-White；内容为Fort Peck周边生活报道。这里是一张完整单页，不能误称跨页。图像由LIFE官方原刊专题提供，权利仍归相应权利人。[来源](https://www.life.com/history/lifes-first-ever-cover-story-building-the-fort-peck-dam-1936/)
+图17-5｜LIFE，1936年11月23日，第9页单页版面，摄影Margaret Bourke-White；内容为Fort Peck周边生活报道。这里是一张完整单页，不能误称跨页。图像由LIFE官方原刊专题提供，权利仍归相应权利人。[来源](https://www.life.com/history/lifes-first-ever-cover-story-building-the-fort-peck-dam-1936/)
 
 ![LIFE第9页的照片、标题和双栏正文标注](../assets/images/revision-magazines-life-page9-analysis.png)
 
-图28-6｜图28-5的教学标注。1为主要照片，2为照片下方标题，3为双栏正文；原版中三者顺序可直接核对。中文侧注及框线为本书添加，不改写原新闻事实。
+图17-6｜图17-5的教学标注。1为主要照片，2为照片下方标题，3为双栏正文；原版中三者顺序可直接核对。中文侧注及框线为本书添加，不改写原新闻事实。
 
 这页先让你看见人群与舞蹈，再由标题把图像接到一个报道问题，最后进入双栏文字。封面照片建立工程规模，内页照片转向周边生活，正文补充照片无法直接交代的报道内容。两页通过不同信息推进专题。
 
@@ -60,7 +62,7 @@ Leopold Museum将《Ver Sacrum》介绍为维也纳分离派的艺术与文学�
 
 ![桥边社区杂志封面的初稿与改稿](../assets/images/revision-magazines-cover-edit.png)
 
-图28-7｜原创封面改稿。左侧多个同等级标题竞争，右侧保留刊名、一个主故事和次级目录；市集、人物与文字均为虚构，图像为程序插图。
+图17-7｜原创封面改稿。左侧多个同等级标题竞争，右侧保留刊名、一个主故事和次级目录；市集、人物与文字均为虚构，图像为程序插图。
 
 初稿把“最全指南”“城市的一天”“人物故事”等都放在醒目位置。每一句单独看都有吸引力，放在一起却没有主次。改稿先保留一个主要邀请：“城市醒来之前”；“早市里的第一小时”说明它具体讲什么；刊名与期号保持稳定。读者不必先读完所有文字，便能知道这是什么刊物、这一期有什么故事。
 
@@ -70,7 +72,7 @@ Leopold Museum将《Ver Sacrum》介绍为维也纳分离派的艺术与文学�
 
 ![四张相似环境图与密集文字形成的跨页坏稿](../assets/images/revision-magazines-spread-edit-0.png)
 
-图28-8｜原创跨页坏稿。四张同等大小的环境插图重复说明“这里有市集”，正文用灰线表示结构占位。该图用于观察层级，灰线不是实际可阅读的采访文字。
+图17-8｜原创跨页坏稿。四张同等大小的环境插图重复说明“这里有市集”，正文用灰线表示结构占位。该图用于观察层级，灰线不是实际可阅读的采访文字。
 
 这份跨页的问题在于：四张图大小相等、观看距离接近，读者无法判断哪张是入口，也不知道它们之间有什么关系。改稿时先分派图像任务：环境图交代地点，人物图介绍参与者，细节图呈现动作与过程。如果没有相应素材，就应补拍、补画或删去承诺，不能靠裁切同一张图假装完成采访。
 
@@ -78,25 +80,25 @@ Leopold Museum将《Ver Sacrum》介绍为维也纳分离派的艺术与文学�
 
 ![原创早市专题的开场跨页改稿](../assets/images/revision-magazines-spread-edit-1.png)
 
-图28-9｜原创跨页第一步：左侧环境图，右侧标题与导语。此处是虚构选题及程序插图；导语为版面练习文本，不是事实报道。导语下方灰线只显示后续文字块的容量。
+图17-9｜原创跨页第一步：左侧环境图，右侧标题与导语。此处是虚构选题及程序插图；导语为版面练习文本，不是事实报道。导语下方灰线只显示后续文字块的容量。
 
 第二步把后续跨页改成远景、人物和细节的组合。不同尺寸告诉读者如何分配停留时间。人物图不再只是人群中的一个点，手部与食物细节也不再被环境淹没。三张图之间要有可解释的关系：如果人物不是同一个场所的摊主，图注就不能通过相邻摆放暗示它是。
 
 ![原创早市专题以环境、人物和细节组织图像](../assets/images/revision-magazines-spread-edit-2.png)
 
-图28-10｜原创跨页第二步。环境、人物与细节采用不同尺度，分别承担空间、身份与动作的说明；为程序插图与虚构情境。灰线是文字区示意，非完整采访稿。
+图17-10｜原创跨页第二步。环境、人物与细节采用不同尺度，分别承担空间、身份与动作的说明；为程序插图与虚构情境。灰线是文字区示意，非完整采访稿。
 
 第三步补图注。照片下面只写“热闹的早市”，读者几乎没有得到新信息。一条有用图注会补人物身份、时间、具体地点，必要时说明画面之外的背景，并保留摄影或插画署名。若报道用了合成图、摆拍或重演，也应向读者说明。图像的真实性说明是编辑系统的一部分，不能等到发布后才临时补救。
 
 ![跨页中图注应补足的信息](../assets/images/revision-magazines-spread-edit-3.png)
 
-图28-11｜原创跨页第三步：图注核对谁、何时、何地及必要背景。它是一份图注检查结构；不把虚构市集填成似真的新闻事实。
+图17-11｜原创跨页第三步：图注核对谁、何时、何地及必要背景。它是一份图注检查结构；不把虚构市集填成似真的新闻事实。
 
 ## 一本杂志如何有变化，又不失去连续感
 
 ![桥边八页小杂志的实际版面顺序示意](../assets/images/revision-magazines-eight-pages.png)
 
-图28-12｜原创八页编辑顺序图：封面、目录、开场左右页、人物与细节左右页、广告、封底。所有页均有实际布局；缩略图中的灰线表示文字容量，不能代替真实文章。它是设计教学样张，不是已完成采访的出版物。
+图17-12｜原创八页编辑顺序图：封面、目录、开场左右页、人物与细节左右页、广告、封底。所有页均有实际布局；缩略图中的灰线表示文字容量，不能代替真实文章。它是设计教学样张，不是已完成采访的出版物。
 
 把八页缩成一排小图，先不读字，只看明暗与密度。如果每一页都是一张等大的图配两栏文字，阅读可能变得机械；如果每一页都更换字体、色彩和方向，读者又不断被迫重新寻找入口。节奏来自任务变化：开场让人停一下，人物页让人靠近，细节页让人辨认，广告可以改变气氛，但必须保持身份清楚。
 
@@ -110,7 +112,7 @@ Leopold Museum将《Ver Sacrum》介绍为维也纳分离派的艺术与文学�
 
 ![桥边虚构社区杂志中的编辑页与广告页对照](../assets/images/revision-magazines-ad-boundary.png)
 
-图28-13｜原创广告边界练习。左为编辑专题，右为虚构品牌“桥边面包”的广告；广告标题、品牌与产品均为教学设定。右页明确标“广告”，不冒充编辑推荐。程序图不是实际广告委托。
+图17-13｜原创广告边界练习。左为编辑专题，右为虚构品牌“桥边面包”的广告；广告标题、品牌与产品均为教学设定。右页明确标“广告”，不冒充编辑推荐。程序图不是实际广告委托。
 
 杂志中的广告可以比正文更鲜艳、更直接，也可以使用完全不同的摄影或字体。统一整本杂志不意味着把广告也染成编辑页的同一种颜色，更不意味着把广告藏得像采访。读者应该有机会知道此处正在由谁说话。合作内容、赞助专题和品牌广告之间的边界，应通过栏目名、标识和编辑政策说清楚。
 
@@ -123,11 +125,11 @@ Leopold Museum将《Ver Sacrum》介绍为维也纳分离派的艺术与文学�
 
 ## 原创应用：实际制作植物画报
 
-野序的AI植物摄影风格图像、刊名、引题、正文和图注分别制作成可编辑层。图像位于中部，左右两侧的窄文章栏各有小节，英文衬线展示题与中文正文字型分工。与本章LIFE报道页面相比，野序希望延长观看；作者、年代和用途不同，不能看作同一个模板。文字不跨中缝，图像保留花头与长叶的连续关系；纸质装订还需打样检查中缝损失，制作过程见第三十一章。
+野序的AI植物摄影风格图像、刊名、引题、正文和图注分别制作成可编辑层。图像位于中部，左右两侧的窄文章栏各有小节，英文衬线展示题与中文正文字型分工。与本章LIFE报道页面相比，野序希望延长观看；作者、年代和用途不同，不能看作同一个模板。文字不跨中缝，图像保留花头与长叶的连续关系；纸质装订还需打样检查中缝损失，制作过程见第29章。
 
 ![原创应用：实际制作植物画报](../examples/creative-lab/field-canvas/renders/export/Spread.png)
 
-图28-C｜本书原创植物画报跨页。摄影风格素材由AI生成，非真实摄影记录或植物标本；实际正文、图注与页脚各自留位，原生工程可放大和修改。
+图17-C｜本书原创植物画报跨页。摄影风格素材由AI生成，非真实摄影记录或植物标本；实际正文、图注与页脚各自留位，原生工程可放大和修改。
 
 
 本章来源：[Leopold Museum，《Ver Sacrum》馆藏说明](https://onlinecollection.leopoldmuseum.org/en/object/7726-ver-sacrum-magazine-of-the-union-of-austrian-artists-founders-issue-september-1898-1st-year-no-9/)；[Alfred Roller1898年封面图像与来源记录](https://commons.wikimedia.org/wiki/File:Ver_Sacrum,_Issue_1,_January_1898.jpg)；[LIFE，Margaret Bourke-White摄影家页](https://www.life.com/photographer/margaret-bourke-white/)；[LIFE，Fort Peck Dam创刊专题原刊重刊](https://www.life.com/history/lifes-first-ever-cover-story-building-the-fort-peck-dam-1936/)。版面结构观察、桥边练习、插图与改稿规则为本书原创；LIFE原图及其他第三方作品保留各自权利，不适用本书原创图的许可。

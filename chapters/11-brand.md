@@ -1,10 +1,10 @@
-# 第11章｜品牌识别：让变化仍然属于同一个人
+# 第12章｜品牌识别：让变化仍然属于同一个人
 
 ## 真作细读：MIT 的字母，Public Theater 的声音
 
 ![MIT Media Lab 实验室主标志](../assets/images/revision-applications-mit-03.jpg)
 
-图11-3｜真实作品。Pentagram／Michael Bierut团队，MIT Media Lab视觉识别，2014；图由[设计方项目页](https://www.pentagram.com/work/mit-media-lab/story)提供。此处保留字标与周围留白，便于观察符号与名称的比例。
+图12-3｜真实作品。Pentagram／Michael Bierut团队，MIT Media Lab视觉识别，2014；图由[设计方项目页](https://www.pentagram.com/work/mit-media-lab/story)提供。此处保留字标与周围留白，便于观察符号与名称的比例。
 
 左侧粗黑折线与右下方三行名称承担不同的识别任务：图形供快速认形，文字供首次阅读。纯几何字母对熟悉组织的人可能已经足够，新来者却未必能辨认。保留名称，陌生读者便不必先破解图形。
 
@@ -12,19 +12,19 @@
 
 ![MIT研究组图形与实际现场标牌](../assets/images/revision-applications-analysis-brand.png)
 
-图11-4｜真实作品的教学重组。左为实验室主标志，右为“re-think food”应用；原设计Pentagram，2014。素材取自[同一项目页](https://www.pentagram.com/work/mit-media-lab/story)，重组与文字分析由本书添加，不是设计方原版规范页。
+图12-4｜真实作品的教学重组。左为实验室主标志，右为“re-think food”应用；原设计Pentagram，2014。素材取自[同一项目页](https://www.pentagram.com/work/mit-media-lab/story)，重组与文字分析由本书添加，不是设计方原版规范页。
 
 右侧应用采用了不同的信息主次：大字负责说出研究主题，小型几何符号退到侧上方。它没有把食品研究画成刀叉，也没有与主标志一模一样。可以迁移的方法是先确定组织关系，再选择哪一部分用于表达关系；不能因为学校有几十个团队，就给每个名字都配一个同样抢眼的大徽章。信息主次与家族相似性是两个需要分别处理的问题。
 
 ![MIT Media Lab 现场标识](../assets/images/revision-applications-mit-11.jpg)
 
-图11-5｜真实现场。MIT Media Lab标识应用，Pentagram，2014；[来源](https://www.pentagram.com/work/mit-media-lab/story)。照片中的环境、观看角度与标牌一起构成实际阅读条件。
+图12-5｜真实现场。MIT Media Lab标识应用，Pentagram，2014；[来源](https://www.pentagram.com/work/mit-media-lab/story)。照片中的环境、观看角度与标牌一起构成实际阅读条件。
 
 现场照片把前面的判断带到另一尺度。白形与黑面板形成明显反差，面板又处于走廊转角附近，读者首先必须发现“这里有信息”。若把主标志的细节当装饰纹样铺满整个面板，远处的轮廓会更复杂，名称却不一定更容易找到。识别应在不同距离逐级展开，而不是在所有距离同时交代全部内容。
 
 ![Public Theater 1995—1996演出季海报](../assets/images/revision-applications-public-9596.jpg)
 
-图11-6｜真实海报。Paula Scher／Pentagram，The Public Theater，画面标示1995—1996演出季；[设计方项目页](https://www.pentagram.com/work/the-public-theater/story)。具体单幅制作月份未标，摄影与图像权利依原页面归属，未声明开放许可。
+图12-6｜真实海报。Paula Scher／Pentagram，The Public Theater，画面标示1995—1996演出季；[设计方项目页](https://www.pentagram.com/work/the-public-theater/story)。具体单幅制作月份未标，摄影与图像权利依原页面归属，未声明开放许可。
 
 与 MIT 的几何秩序相比，Public 海报用黄色底、黑色粗字、倾斜的演员与方向不断变化的短语形成街头招贴的密度。先读巨大的 PUBLIC，再被人物与节目词带向其他区域，最底部的细小事务信息仍有相对稳定的位置。它用字的大小、宽窄与方向制造声音，而不是仅靠换一种漂亮字体。
 
@@ -42,7 +42,7 @@
 
 ![固定标志与可变图形建立系列关系](../assets/images/fig-11.png)
 
-*图11｜原创程序教学图：固定标志与一组可变图形共同建立身份；变化发生在约定的范围里。图形是虚构案例，不是 MIT 标志复刻。*
+*图12｜原创程序教学图：固定标志与一组可变图形共同建立身份；变化发生在约定的范围里。图形是虚构案例，不是 MIT 标志复刻。*
 
 ## 把个性改写成生成规则
 
@@ -85,10 +85,30 @@
 
 本章来源：Pentagram，[MIT Media Lab](https://www.pentagram.com/news/mit-media-lab)，2014；用于核对项目、时间与共同网格策略。原案例图片请到设计方页面观看。
 
-## 当代对照：Reddit把对话变成可以延展的形状
+MIT Media Lab让不同研究组共享构成逻辑；2023年的Reddit则从对话气泡、社区名称与投票行为中提取身份。织章保留社区名作为内容，橙红容器与尾部建立共同关系。下面进一步观察角色、字形和实体应用，区分共享的识别规则与各社区的独立表达。
 
-MIT Media Lab让不同研究组共享构成逻辑；2023年的Reddit则从对话气泡、社区名称与投票行为中提取身份。下图的织章把社区名保留为内容，橙红容器与尾部建立共同关系。社区保留各自内容，共享的容器形态则维持识别关系。第三十二章继续看它的角色、字形与实体应用，来源为[Pentagram项目档案](https://www.pentagram.com/work/reddit)。
+## 当代案例｜Reddit：让产品里的“对话”长成品牌语言 {#case-reddit}
 
-![Reddit社区身份的实际应用](../assets/images/contemporary-reddit-2.jpg)
+**项目档案｜2023年；Reddit与Pentagram，合伙人Natasha Jen及团队。** 项目整理了吉祥物Snoo、对话气泡、字体、颜色与运动行为。其视觉规则与产品活动相连：发表、回应和延展对话，为气泡形状及其组合提供了依据。事实与作者见[Pentagram项目档案](https://www.pentagram.com/work/reddit)和[Reddit官方更新说明](https://redditinc.com/news/evolving-the-reddit-brand-a-more-accessible-bespoke-typography-new-conversation-bubbles-and-colors-and-a-new-snoo-logo-now-with-opposable-thumbs)。
 
-图11-N｜真实当代应用：Reddit 2023识别更新中的社区织章展示。© Reddit及相关创作者；本书从照片观察形态关系，不将观察冒充官方尺寸规范。 [原始出处](https://www.pentagram.com/work/reddit)。
+![Reddit新字标与Snoo](../assets/images/contemporary-reddit-1.jpg)
+
+图12-C1｜真实品牌作品：Pentagram展示的Reddit识别与立体Snoo。系统为2023年更新，图片权利归Reddit及相关创作者；本书未重绘吉祥物。 [原始出处](https://www.pentagram.com/work/reddit)。
+
+橙红底上的白色字标没有依靠复杂材质，Snoo则带有圆润体积与高光，两者有意分工。字标让名字迅速被读出，角色负责表情与陪伴。平面字标与立体角色的差异保持了主次；若字标也采用强烈材质，照片、角色和标题就可能同时争夺注意力。
+
+对话气泡还进入了字形内部的空白与外部承载内容的形状。字体、图形容器和动态之间因此有了共同来源。容纳、回应、展开和堆叠等动作，可以进一步转为容器的尺寸、排列和运动规则，比“年轻、活泼、数字化”等风格形容词更便于指导制作。
+
+![Reddit社区织章应用](../assets/images/contemporary-reddit-2.jpg)
+
+图12-C2｜真实应用展示：印有r/indieheads的对话形织章。由Pentagram案例提供；属于品牌应用展示，不以照片推定具体生产批次或销售情况。 [原始出处](https://www.pentagram.com/work/reddit)。
+
+织章把平台里的社区名称带进衣服。橙色容器足够简单，长一些的名称仍可占据内部；外轮廓和尾部让它有“发声”的含义。细看时还会发现，社区文本并未统一变成公司的大字标。平台的共同容器与各社区的独立名称因此得以并存。
+
+![Reddit投票箭头手机壳](../assets/images/contemporary-reddit-3.jpg)
+
+图12-C3｜真实应用展示：Pentagram案例中的手机壳，把向上投票的箭头做成具有厚度的触感图形。它是品牌应用照片，不是软件界面截图。 [原始出处](https://www.pentagram.com/work/reddit)。
+
+手机壳把另一项产品行为——向上投票——转译为实体表面。箭头尺度很大，即使手遮住一部分也仍能辨认；橙色与圆角延续整体语气。手机壳提取投票箭头，保留了与物件尺度和触感相适应的产品线索。
+
+**迁移练习。** 列出产品的主要行为，选取一个行为建立可变图形规则，再制作对话卡、活动贴纸和短动画分镜，测试图形能否容纳不同长度的文本。进入界面后，还需单独检查按钮、焦点和阅读顺序，确认操作可用。
